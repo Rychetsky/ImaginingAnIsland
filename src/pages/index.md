@@ -2,6 +2,14 @@
 title: 'Home Page '
 template: blocks
 blocks:
+- template: cluster
+  component: cluster
+  name: 'Rosie Blake'
+  gallery:
+  - image: "/src/images/instant_preview_console.png"
+    title: Title 2
+  - image: "/src/images/salty_egg.jpg"
+    title: Image Title
 - template: block__hero
   component: hero
   background: transparent
@@ -55,13 +63,5 @@ blocks:
   button:
     url: https://app.forestry.io/quick-start?repo=forestryio/gatsby-starter-forestry&branch=master&engine=gatsby
     text: Get Started
-- template: cluster
-  title: Rosie Blake
-  gallery:
-  - image: "/src/images/instant_preview_console.png"
-    title: Title 2
-  - image: "/src/images/salty_egg.jpg"
-    title: Image Title
-  name: 'Rosie '
 
 ---

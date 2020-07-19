@@ -21,8 +21,8 @@ class ListTemplate extends React.Component {
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
         <section className="section page-content">
-          <div class="container article-header has-text-centered">
-            <h1 class="title is-1">{post.frontmatter.title}</h1>
+          <div className="container article-header has-text-centered">
+            <h1 className="title is-1">{post.frontmatter.title}</h1>
             <hr />
           </div>
           <main className="container content-container">

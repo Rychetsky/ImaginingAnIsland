@@ -10,6 +10,7 @@ import ThreeCol from '../components/blocks/3col'
 import Feature from '../components/blocks/feature'
 import CTA from '../components/blocks/cta'
 import Hero from '../components/blocks/hero'
+import Cluster from '../components/blocks/cluster'
 
 class BlocksTemplate extends React.Component {
   render() {
@@ -24,19 +25,21 @@ class BlocksTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
-        {post.frontmatter.blocks.map(block => {
-          switch (block.component) {
-            case '3col':
-              return <ThreeCol block={block} />
-            case 'feature':
-              return <Feature block={block} />
-            case 'cta':
-              return <CTA block={block} />
-            case 'hero':
-              return <Hero block={block} />
-            default:
-              return ''
-          }
+        {post.frontmatter.blocks.map((block, i) => {
+            switch (block.component) {
+              case '3col':
+                return <ThreeCol block={block} key={i} />
+              case 'feature':
+                return <Feature block={block} key={i} />
+              case 'cta':
+                return <CTA block={block} key={i} />
+              case 'hero':
+                return <Hero block={block} key={i} />
+              case 'cluster':
+                return <Cluster block={block} key={i} />
+              default:
+                return ''
+            }
         })}
       </Layout>
     )
@@ -65,10 +68,12 @@ export const pageQuery = graphql`
             childImageSharp {
               fluid(maxWidth: 800) {
                 srcSet
+                ...GatsbyImageSharpFluid_tracedSVG
               }
             }
           }
           title
+          name
           subtitle
           content
           orientation
@@ -88,6 +93,17 @@ export const pageQuery = graphql`
           col3 {
             title
             content
+          }
+          gallery {
+            title
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  srcSet
+                  ...GatsbyImageSharpFluid_tracedSVG
+                }
+              }
+            }
           }
         }
       }

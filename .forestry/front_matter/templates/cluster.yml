@@ -3,6 +3,11 @@ label: Cluster
 hide_body: true
 display_field: name
 fields:
+- type: text
+  name: component
+  label: component
+  hidden: true
+  default: cluster
 - name: name
   type: text
   config:
