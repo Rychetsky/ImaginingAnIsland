@@ -58,6 +58,8 @@ blocks:
 - template: cluster
   title: Rosie Blake
   gallery:
+  - image: "/src/images/instant_preview_console.png"
+    title: Title 2
   - image: "/src/images/salty_egg.jpg"
     title: Image Title
   name: 'Rosie '
