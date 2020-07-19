@@ -4,7 +4,7 @@ template: blocks
 blocks:
 - template: cluster
   component: cluster
-  name: 'Rosie Blake'
+  name: Rosie Blake
   gallery:
   - image: "/src/images/instant_preview_console.png"
     title: Title 2
@@ -63,5 +63,11 @@ blocks:
   button:
     url: https://app.forestry.io/quick-start?repo=forestryio/gatsby-starter-forestry&branch=master&engine=gatsby
     text: Get Started
+- template: cluster
+  component: cluster
+  name: Raphael
+  gallery:
+  - image: "/src/images/quickstart.png"
+    title: Demo title
 
 ---
