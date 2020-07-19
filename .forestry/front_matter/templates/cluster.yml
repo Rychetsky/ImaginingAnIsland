@@ -1,8 +1,9 @@
 ---
 label: Cluster
 hide_body: true
+display_field: name
 fields:
-- name: title
+- name: name
   type: text
   config:
     required: false
