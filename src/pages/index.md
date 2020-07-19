@@ -16,6 +16,16 @@ blocks:
   gallery:
   - image: "/src/images/quickstart.png"
     title: Demo title
+- template: cluster
+  component: cluster
+  name: 3 Images
+  gallery:
+  - image: "/src/images/img_2172.jpg"
+    title: Things
+  - image: "/src/images/img_2172.jpg"
+    title: More Iceland
+  - image: "/src/images/img_2156.jpg"
+    title: Iceland 1
 - template: block__hero
   component: hero
   background: transparent
@@ -69,15 +79,5 @@ blocks:
   button:
     url: https://app.forestry.io/quick-start?repo=forestryio/gatsby-starter-forestry&branch=master&engine=gatsby
     text: Get Started
-- template: cluster
-  component: cluster
-  name: 3 Images
-  gallery:
-  - image: "/src/images/img_2172.jpg"
-    title: Things
-  - image: "/src/images/img_2172.jpg"
-    title: More Iceland
-  - image: "/src/images/img_2156.jpg"
-    title: Iceland 1
 
 ---
