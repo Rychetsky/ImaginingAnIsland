@@ -22,7 +22,7 @@ fields:
       required: false
     label: Title
   config:
-    min: 
+    min: 1
     max: 
-    labelField: 
+    labelField: title
   label: Gallery
