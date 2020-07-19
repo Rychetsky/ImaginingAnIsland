@@ -16,8 +16,11 @@ module.exports = {
     fontFamily: {
       'sans': ['-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
       'serif': ['Georgia', 'Cambria'],
-    }
-  },
+    },
+    minHeight: {
+      '50vh': '50vh',
+    },
+},
   variants: {},
   plugins: [],
 }
