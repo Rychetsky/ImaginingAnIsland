@@ -6,7 +6,7 @@ blocks:
   component: hero
   background: transparent
   title: Imagining An Island
-  subtitle: ''
+  subtitle: Open Call Exhibition
 - template: block__feature
   component: feature
   image: "/src/images/forestry_markdown_editor.png"
