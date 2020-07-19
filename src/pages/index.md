@@ -10,6 +10,12 @@ blocks:
     title: Title 2
   - image: "/src/images/salty_egg.jpg"
     title: Image Title
+- template: cluster
+  component: cluster
+  name: Raphael
+  gallery:
+  - image: "/src/images/quickstart.png"
+    title: Demo title
 - template: block__hero
   component: hero
   background: transparent
@@ -63,11 +69,5 @@ blocks:
   button:
     url: https://app.forestry.io/quick-start?repo=forestryio/gatsby-starter-forestry&branch=master&engine=gatsby
     text: Get Started
-- template: cluster
-  component: cluster
-  name: Raphael
-  gallery:
-  - image: "/src/images/quickstart.png"
-    title: Demo title
 
 ---
