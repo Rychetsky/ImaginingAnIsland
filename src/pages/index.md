@@ -38,6 +38,20 @@ blocks:
     title: title
   - image: "/src/images/img_2172.jpg"
     title: title
+- template: cluster
+  component: cluster
+  name: 5 images
+  gallery:
+  - image: "/src/images/img_2160.jpg"
+    title: title
+  - image: "/src/images/img_2172.jpg"
+    title: title
+  - image: "/src/images/img_2156.jpg"
+    title: title
+  - image: "/src/images/img_2156.jpg"
+    title: title
+  - image: "/src/images/img_2172.jpg"
+    title: title
 - template: block__hero
   component: hero
   background: transparent
