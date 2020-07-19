@@ -58,5 +58,6 @@ blocks:
 - template: cluster
   title: Rosie Blake
   gallery: []
+  name: 'Rosie '
 
 ---
