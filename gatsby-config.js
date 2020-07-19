@@ -65,10 +65,15 @@ module.exports = {
     //     icon: `src/assets/gatsby-icon.png`,
     //   },
     // },
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        // Accepts all options defined by `gatsby-plugin-postcss` plugin.
+      },
+    },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     'gatsby-transformer-json',
-    'gatsby-plugin-sass',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-styled-components',
   ],

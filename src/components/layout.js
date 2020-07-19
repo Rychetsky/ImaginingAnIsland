@@ -6,7 +6,7 @@ import tw from 'twin.macro'
 
 import Header from './header'
 import Footer from './footer'
-import '../css/main.scss'
+import '../css/main.css'
 
 import favicon from './favicon.png'
 
