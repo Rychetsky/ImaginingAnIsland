@@ -55,5 +55,8 @@ blocks:
   button:
     url: https://app.forestry.io/quick-start?repo=forestryio/gatsby-starter-forestry&branch=master&engine=gatsby
     text: Get Started
+- template: cluster
+  title: Rosie Blake
+  gallery: []
 
 ---
