@@ -18,5 +18,6 @@ fields:
   - block__feature
   - block__3col
   - block__cta
+  - cluster
 pages:
 - src/pages/index.md
