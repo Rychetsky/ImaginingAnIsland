@@ -6,6 +6,7 @@ module.exports = {
     title: config.title,
     description: config.description,
     footer: config.footer,
+    siteUrl: config.site_url
   },
   plugins: [
     {
