@@ -26,6 +26,18 @@ blocks:
     title: More Iceland
   - image: "/src/images/img_2156.jpg"
     title: Iceland 1
+- template: cluster
+  component: cluster
+  name: 4 Images
+  gallery:
+  - image: "/src/images/img_2172.jpg"
+    title: title
+  - image: "/src/images/img_2156.jpg"
+    title: title
+  - image: "/src/images/salty_egg.jpg"
+    title: title
+  - image: "/src/images/img_2172.jpg"
+    title: title
 - template: block__hero
   component: hero
   background: transparent
