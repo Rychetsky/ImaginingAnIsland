@@ -12,7 +12,7 @@ const Image = styled.div`
 `
 
 const Gallery = styled.div`
-  ${tw`p-4 bg-green-500 min-h-50vh w-full flex items-center justify-center`}
+  ${tw`py-20 px-4 border min-h-50vh w-full flex items-center justify-center`}
   
   & li {
     ${tw`block`}
@@ -31,7 +31,60 @@ const Gallery = styled.div`
     ${tw` `}
 
     & ${GalleryInner} {
-      ${tw`grid-cols-2 gap-24`}
+      ${tw`max-w-2xl grid-cols-2 gap-24`}
+    }
+    `
+  }
+
+  ${props => (props.count == 3) && css`
+    ${tw` `}
+
+    & ${GalleryInner} {
+      ${tw`grid-cols-3 gap-24`}
+    }
+    `
+  }
+
+  ${props => (props.count == 4) && css`
+    ${tw` `}
+
+    & ${GalleryInner} {
+      ${tw`grid-cols-3 gap-24`}
+
+      & li:nth-child(4) {
+        grid-column: 2;
+      }
+    }
+    `
+  }
+
+  ${props => (props.count == 5) && css`
+    ${tw` `}
+
+    & ${GalleryInner} {
+      ${tw`max-w-4xl grid-cols-3 gap-24`}
+
+      & li:nth-child(5) {
+        grid-column: 3;
+      }
+    }
+    `
+  }
+
+  ${props => (props.count == 6) && css`
+    ${tw` `}
+
+    & ${GalleryInner} {
+      ${tw`max-w-3xl grid-cols-3 gap-24`}
+    }
+    `
+  }
+
+  ${props => (props.count == 7) && css`
+    ${tw``}
+
+    & ${GalleryInner} {
+      ${tw`max-w-3xl grid-cols-3 gap-24`}
     }
     `
   }
@@ -42,7 +95,7 @@ const GalleryInner = styled.ul`
 `
 
 const Title = styled.h3`
-  ${tw`text-sm`}
+  ${tw`text-sm text-gray-800 mt-2`}
 `
 
 const Cluster = ({ block }) => (
