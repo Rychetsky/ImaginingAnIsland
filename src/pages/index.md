@@ -57,7 +57,9 @@ blocks:
     text: Get Started
 - template: cluster
   title: Rosie Blake
-  gallery: []
+  gallery:
+  - image: "/src/images/salty_egg.jpg"
+    title: Image Title
   name: 'Rosie '
 
 ---
