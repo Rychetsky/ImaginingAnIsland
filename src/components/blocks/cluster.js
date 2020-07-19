@@ -7,18 +7,21 @@ const Cluster = ({ block }) => (
       <div className="container">
         <h2 className="">{block.name}</h2>
 
-        {block.gallery.map((gallery, i) => {
-          return (
-            <div key={i} >{gallery.title}
-              <Img
-                alt={gallery.title}
-                fluid={
-                  gallery.image.childImageSharp.fluid
-                }
-              />
-            </div>
-          )
-        })}
+        <ul className="cluster-gallery" data-cluster-count={block.gallery.length}>
+          {block.gallery.map((gallery, i) => {
+            return (
+              <li key={i}>
+                {gallery.title}
+                <Img
+                  alt={gallery.title}
+                  fluid={
+                    gallery.image.childImageSharp.fluid
+                  }
+                />
+              </li>
+            )
+          })}
+        </ul>
 
       </div>
     </div>
