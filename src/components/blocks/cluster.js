@@ -20,7 +20,7 @@ const Gallery = styled.div`
     ${tw`block`}
   }
 
-  ${props => (props.count == 1) && css`
+  ${props => (props.count === 1) && css`
     ${tw``}
 
     & ${GalleryInner} {
@@ -29,7 +29,7 @@ const Gallery = styled.div`
     `
   }
 
-  ${props => (props.count == 2) && css`
+  ${props => (props.count === 2) && css`
     ${tw` `}
 
     & ${GalleryInner} {
@@ -38,7 +38,7 @@ const Gallery = styled.div`
     `
   }
 
-  ${props => (props.count == 3) && css`
+  ${props => (props.count === 3) && css`
     ${tw` `}
 
     & ${GalleryInner} {
@@ -47,7 +47,7 @@ const Gallery = styled.div`
     `
   }
 
-  ${props => (props.count == 4) && css`
+  ${props => (props.count === 4) && css`
     ${tw` `}
 
     & ${GalleryInner} {
@@ -60,7 +60,7 @@ const Gallery = styled.div`
     `
   }
 
-  ${props => (props.count == 5) && css`
+  ${props => (props.count === 5) && css`
     ${tw` `}
 
     & ${GalleryInner} {
@@ -73,7 +73,7 @@ const Gallery = styled.div`
     `
   }
 
-  ${props => (props.count == 6) && css`
+  ${props => (props.count === 6) && css`
     ${tw` `}
 
     & ${GalleryInner} {
@@ -82,7 +82,7 @@ const Gallery = styled.div`
     `
   }
 
-  ${props => (props.count == 7) && css`
+  ${props => (props.count === 7) && css`
     ${tw``}
 
     & ${GalleryInner} {
@@ -124,12 +124,12 @@ const Cluster = ({ block }) => (
                   {block.gallery.map((gallery, i) => {
                     return (
                       <li key={i}>
-                        <a href={gallery.image.childImageSharp.large.src}>
+                        <a href={gallery.image.childImageSharp.fluid.src}>
                           <Image>
                             <Img
                               alt={gallery.title}
                               fluid={
-                                gallery.image.childImageSharp.thumb
+                                gallery.image.childImageSharp.fluid
                               }
                             />
                           </Image>

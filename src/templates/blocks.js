@@ -98,10 +98,7 @@ export const pageQuery = graphql`
             title
             image {
               childImageSharp {
-                thumb:fluid(maxHeight: 400) {
-                  ...GatsbyImageSharpFluid
-                }
-                large:fluid(maxWidth: 2000) {
+                fluid(maxHeight: 400) {
                   ...GatsbyImageSharpFluid
                 }
               }
