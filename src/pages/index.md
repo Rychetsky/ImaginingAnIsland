@@ -5,6 +5,7 @@ blocks:
 - template: cluster
   component: cluster
   name: Rosie Blake
+  website: https://rosalindblake.com
   gallery:
   - image: "/src/images/instant_preview_console.png"
     title: Title 2

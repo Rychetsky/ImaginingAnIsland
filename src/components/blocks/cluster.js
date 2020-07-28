@@ -9,6 +9,10 @@ const Name = styled.h2`
   ${tw`text-lg mb-4 mx-2`}
 `
 
+const Website = styled.a`
+  ${tw`text-blue-600`}
+`
+
 const ClusterSection = styled.section`
   ${tw`w-full`}
 `
@@ -126,7 +130,7 @@ const Cluster = ({ block }) => (
     <SimpleReactLightbox>
       <SRLWrapper options={options}>
         <Gallery count={block.gallery.length}>
-          <Name>{block.name}</Name>
+          <Name>{block.name} {block.website && <Website href={block.website} target="_blank">Website</Website>}</Name>
           <GalleryInner>
             {block.gallery.map((gallery, i) => {
               return (

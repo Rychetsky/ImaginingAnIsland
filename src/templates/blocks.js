@@ -75,6 +75,7 @@ export const pageQuery = graphql`
           }
           title
           name
+          website
           subtitle
           content
           orientation
