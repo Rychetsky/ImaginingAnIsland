@@ -1,30 +1,56 @@
 import React from 'react'
-import Img from 'gatsby-image'
+import Img from "gatsby-image/withIEPolyfill"
 import styled, { css } from "styled-components"
 import tw from 'twin.macro'
 import SimpleReactLightbox from "simple-react-lightbox";
 import { SRLWrapper } from "simple-react-lightbox";
 
 const Name = styled.h2`
-  ${tw`text-xl font-bold`}
+  ${tw`text-lg mb-4 mx-2`}
 `
 
-const Image = styled.div`
+const ClusterSection = styled.section`
   ${tw`w-full`}
 `
 
+const GalleryInner = styled.ul`
+  ${tw`w-full flex flex-wrap items-center justify-center`}
+
+  ${ClusterSection}:nth-child(even) & {
+    ${tw``}
+  }
+
+  ${ClusterSection}:nth-child(off) & {
+    ${tw``}
+  }
+`
+
 const Gallery = styled.div`
-  ${tw`py-20 px-4 border min-h-50vh w-full flex items-center justify-center`}
-  
+  ${tw`py-24 px-16 min-h-50vh w-auto flex flex-col`}
+
   & li {
-    ${tw`block`}
+    ${tw`flex w-full h-full relative justify-center items-center m-2 bg-gray-100 w-56 h-56`}
+  }
+
+  & a {
+    ${tw`w-full h-full`}
+  }
+
+  & .gatsby-image-wrapper {
+    ${tw`w-full h-full m-2`}
+    max-height: 13rem;
+    max-width: 13rem;
+  }
+
+  ${ClusterSection}:nth-child(even) & {
+    ${tw`items-end`}
   }
 
   ${props => (props.count === 1) && css`
     ${tw``}
 
     & ${GalleryInner} {
-      ${tw`w-64 max-w-full block`}
+      max-width: 15rem;
     }
     `
   }
@@ -33,16 +59,16 @@ const Gallery = styled.div`
     ${tw` `}
 
     & ${GalleryInner} {
-      ${tw`max-w-2xl grid-cols-2 gap-24`}
+      max-width: calc(14rem * 2 + 0.5rem * 4);
     }
     `
   }
 
   ${props => (props.count === 3) && css`
-    ${tw` `}
+    ${tw``}
 
     & ${GalleryInner} {
-      ${tw`grid-cols-3 gap-24`}
+      max-width: calc(14rem * 3 + 0.5rem * 6);
     }
     `
   }
@@ -51,24 +77,15 @@ const Gallery = styled.div`
     ${tw` `}
 
     & ${GalleryInner} {
-      ${tw`grid-cols-3 gap-24`}
-
-      & li:nth-child(4) {
-        ${tw`md:col-start-2`}
-      }
+      max-width: calc(14rem * 4 + 0.5rem * 8);
     }
     `
   }
 
   ${props => (props.count === 5) && css`
-    ${tw` `}
 
     & ${GalleryInner} {
-      ${tw`max-w-4xl grid-cols-1 md:grid-cols-3 gap-24`}
-
-      & li:nth-child(5) {
-        grid-column: 3;
-      }
+      max-width: calc(14rem * 3 + 0.5rem * 6);
     }
     `
   }
@@ -77,7 +94,7 @@ const Gallery = styled.div`
     ${tw` `}
 
     & ${GalleryInner} {
-      ${tw`max-w-3xl grid-cols-3 gap-24`}
+      max-width: calc(14rem * 4 + 0.5rem * 8);
     }
     `
   }
@@ -86,18 +103,10 @@ const Gallery = styled.div`
     ${tw``}
 
     & ${GalleryInner} {
-      ${tw`max-w-3xl grid-cols-3 gap-24`}
+      max-width: calc(14rem * 4 + 0.5rem * 8);
     }
     `
   }
-`
-
-const GalleryInner = styled.ul`
-  ${tw`max-w-6xl w-full grid justify-center items-center`}
-`
-
-const Title = styled.h3`
-  ${tw`text-sm text-gray-800 mt-2`}
 `
 
 const options = {
@@ -113,40 +122,33 @@ const options = {
 }
 
 const Cluster = ({ block }) => (
-  <section>
+  <ClusterSection>
     <SimpleReactLightbox>
-      <div className="hero-body">
-        <div className="container">
+      <SRLWrapper options={options}>
+        <Gallery count={block.gallery.length}>
           <Name>{block.name}</Name>
-            <SRLWrapper options={options}>
-              <Gallery count={block.gallery.length}>
-                <GalleryInner>
-                  {block.gallery.map((gallery, i) => {
-                    return (
-                      <li key={i}>
-                        <a href={gallery.image.childImageSharp.fluid.src}>
-                          <Image>
-                            <Img
-                              alt={gallery.title}
-                              fluid={
-                                gallery.image.childImageSharp.fluid
-                              }
-                            />
-                          </Image>
-                        <Title>
-                          {gallery.title}
-                        </Title>
-                        </a>
-                      </li>
-                    )
-                  })}
-                </GalleryInner>
-              </Gallery>
-            </SRLWrapper>
-        </div>
-      </div>        
+          <GalleryInner>
+            {block.gallery.map((gallery, i) => {
+              return (
+                <li key={i}>
+                  <a href={gallery.image.childImageSharp.fluid.src}>
+                    <Img
+                      key={i}
+                      alt={gallery.title}
+                      objectFit='contain'
+                      fluid={
+                        gallery.image.childImageSharp.fluid
+                      }
+                    />
+                  </a>
+                </li>
+              )
+            })}
+          </GalleryInner>
+        </Gallery>
+      </SRLWrapper>
     </SimpleReactLightbox>
-  </section>
+  </ClusterSection>
 )
 
 export default Cluster
