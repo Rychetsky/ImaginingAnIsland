@@ -1,12 +1,2 @@
 @tailwind base;
 @tailwind utilities;
-
-body {
-  background: white;
-}
-
-@screen dark {
-  body {
-    background: #000c29;
-  }
-}

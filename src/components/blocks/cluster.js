@@ -6,7 +6,7 @@ import SimpleReactLightbox from "simple-react-lightbox";
 import { SRLWrapper } from "simple-react-lightbox";
 
 const Name = styled.h2`
-  ${tw`text-lg mb-4 mx-2`}
+  ${tw`mx-2 mb-4 text-lg`}
 `
 
 const Website = styled.a`
@@ -18,22 +18,14 @@ const ClusterSection = styled.section`
 `
 
 const GalleryInner = styled.ul`
-  ${tw`w-full flex flex-wrap items-center justify-center`}
-
-  ${ClusterSection}:nth-child(even) & {
-    ${tw``}
-  }
-
-  ${ClusterSection}:nth-child(off) & {
-    ${tw``}
-  }
+  ${tw`flex flex-wrap items-center justify-center w-full`}
 `
 
 const Gallery = styled.div`
-  ${tw`py-24 px-16 min-h-50vh w-auto flex flex-col`}
+  ${tw`flex flex-col w-auto px-16 py-24 min-h-50vh`}
 
   & li {
-    ${tw`flex w-full h-full relative justify-center items-center m-2 bg-gray-100 w-56 h-56`}
+    ${tw`relative flex items-center justify-center w-56 h-56 m-2 bg-gray-100 dark:bg-gray-800`}
   }
 
   & a {
@@ -51,7 +43,6 @@ const Gallery = styled.div`
   }
 
   ${props => (props.count === 1) && css`
-    ${tw``}
 
     & ${GalleryInner} {
       max-width: 15rem;
@@ -60,7 +51,6 @@ const Gallery = styled.div`
   }
 
   ${props => (props.count === 2) && css`
-    ${tw` `}
 
     & ${GalleryInner} {
       max-width: calc(14rem * 2 + 0.5rem * 4);
@@ -69,7 +59,6 @@ const Gallery = styled.div`
   }
 
   ${props => (props.count === 3) && css`
-    ${tw``}
 
     & ${GalleryInner} {
       max-width: calc(14rem * 3 + 0.5rem * 6);
@@ -78,7 +67,6 @@ const Gallery = styled.div`
   }
 
   ${props => (props.count === 4) && css`
-    ${tw` `}
 
     & ${GalleryInner} {
       max-width: calc(14rem * 4 + 0.5rem * 8);
@@ -95,7 +83,6 @@ const Gallery = styled.div`
   }
 
   ${props => (props.count === 6) && css`
-    ${tw` `}
 
     & ${GalleryInner} {
       max-width: calc(14rem * 4 + 0.5rem * 8);
@@ -104,7 +91,6 @@ const Gallery = styled.div`
   }
 
   ${props => (props.count === 7) && css`
-    ${tw``}
 
     & ${GalleryInner} {
       max-width: calc(14rem * 4 + 0.5rem * 8);
@@ -126,7 +112,7 @@ const options = {
 }
 
 const Cluster = ({ block }) => (
-  <ClusterSection>
+  <ClusterSection data-sal="fade" data-sal-duration="500">
     <SimpleReactLightbox>
       <SRLWrapper options={options}>
         <Gallery count={block.gallery.length}>

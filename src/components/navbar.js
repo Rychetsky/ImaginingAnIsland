@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Link } from 'gatsby'
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 import { graphql, StaticQuery } from 'gatsby'
 
@@ -22,12 +22,12 @@ class Navbar extends Component {
         aria-label="main navigation"
       >
         <div className="navbar-brand">
-          <Link
+          <AniLink fade
             className="navbar-item"
             to="/"
           >
             {this.props.siteTitle}
-          </Link>
+          </AniLink>
 
           <span
             onClick={this.toggleNavState}
@@ -71,13 +71,13 @@ class Navbar extends Component {
               render={data =>
                 data.allMainMenuJson.edges.map(edge => {
                   return edge.node.type === 'internal' ? (
-                    <Link
+                    <AniLink fade
                       key={edge.node.id}
                       to={edge.node.url}
                       className="navbar-item"
                     >
                       {edge.node.title}
-                    </Link>
+                    </AniLink>
                   ) : (
                     <a
                       key={edge.node.id}

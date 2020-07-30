@@ -72,10 +72,12 @@ module.exports = {
         // Accepts all options defined by `gatsby-plugin-postcss` plugin.
       },
     },
+    `gatsby-plugin-transition-link`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     'gatsby-transformer-json',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-styled-components',
+    `gatsby-plugin-scroll-reveal`,
   ],
 }

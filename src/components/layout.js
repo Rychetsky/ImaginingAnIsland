@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
+import styled, { css, createGlobalStyle } from "styled-components"
 import tw from 'twin.macro'
 
 import Header from './header'
@@ -9,6 +10,17 @@ import Footer from './footer'
 import '../css/main.css'
 
 import favicon from './favicon.png'
+
+const GlobalStyle = createGlobalStyle`
+  body {
+    ${tw`bg-white dark:bg-gray-900 dark:text-white`}
+  }
+`
+
+const Wrapper = styled.div`
+  ${tw`h-screen bg-white dark:bg-gray-900 dark:text-white`}
+`
+
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -40,9 +52,12 @@ const Layout = ({ children }) => (
         >
           <html lang="en" />
         </Helmet>
-        <Header siteTitle={data.site.siteMetadata.title} />
-        {children}
-        <Footer content={data.site.siteMetadata.footer} />
+        <GlobalStyle />
+        <Wrapper>
+          <Header siteTitle={data.site.siteMetadata.title} />
+          {children}
+          <Footer content={data.site.siteMetadata.footer} />
+        </Wrapper>
       </>
     )}
   />
