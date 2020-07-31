@@ -7,6 +7,8 @@ blocks:
   name: Dave Sands
   website: https://www.startagain.photography/
   gallery:
+  - image: "/src/images/_k4a2760.jpg"
+    title: Loch Kishorn Moment k4a2760, Digital, January 2 2019
   - image: "/src/images/_k4a2759.jpg"
     title: Loch Kishorn Moment k4a2759, Digital, January 2 2019
   - image: "/src/images/_k4a2753.jpg"
