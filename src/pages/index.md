@@ -9,14 +9,12 @@ blocks:
   gallery:
   - image: "/src/images/reality-2.jpg"
     title: Reality, digital photograph, 2014
-  - image: "/src/images/salty_egg.jpg"
-    title: Image Title
 - template: cluster
   component: cluster
-  name: Raphael
+  name: Alejandro Basterrechea
   gallery:
-  - image: "/src/images/quickstart.png"
-    title: Demo title
+  - image: "/src/images/alejandro_basterrechea_1.jpg"
+    title: Eriskay, Island Priest, Digital, January 2020
 - template: cluster
   component: cluster
   name: 3 Images
