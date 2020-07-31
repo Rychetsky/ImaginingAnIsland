@@ -238,11 +238,15 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/found-5.jpg"
+    title: 'As If: Portrait of found objects on Orkney 5, Digital, 2014'
+  - image: "/src/images/found-2.jpg"
+    title: 'As If: Portrait of found objects on Orkney 2, Digital, 2014'
   - image: "/src/images/found-4.jpg"
     title: 'As If: Portrait of found objects on Orkney 4, Digital, 2014'
   - image: "/src/images/found-6.jpg"
     title: 'As If: Portrait of found objects on Orkney 6, Digital, 2014'
-  name: ''
+  name: Ikuko Tsuchiya
   website: ''
 
 ---
