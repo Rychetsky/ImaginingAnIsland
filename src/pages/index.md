@@ -66,5 +66,13 @@ blocks:
     title: Repose, Hand-toned Cyanotype Print, Senegal, August 2019
   name: Jon Macleod
   website: ''
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/scott_hunter_1.jpg"
+    title: 'Yugen 1/2 L: River Forth at Leven, Scotland, analogue, 2018. R: River
+      Kamo, Kyoto, Japan, analogue, 2018.'
+  name: ''
+  website: ''
 
 ---
