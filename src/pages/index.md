@@ -97,6 +97,10 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/sillars_from_this_chair_3.jpg"
+    title: From This Chair 3, Duntelchaig - Inverness-shire, 2019
+  - image: "/src/images/sillars_from_this_chair_2.jpg"
+    title: From This Chair 2, Duntelchaig - Inverness-shire, 2019
   - image: "/src/images/sillars_praxis-3.jpg"
     title: Praxis 3, Digital, Balintore - Easter Ross, 2016
   - image: "/src/images/sillars_praxis_4.jpg"
