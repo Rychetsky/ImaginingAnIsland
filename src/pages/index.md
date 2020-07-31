@@ -85,19 +85,19 @@ blocks:
   gallery:
   - image: "/src/images/preludtosilent01.png"
     title: Prelude to Silence 1, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent07.png"
-    title: Prelude to Silence 7, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent06.png"
-    title: Prelude to Silence 6, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent05.png"
-    title: Prelude to Silence 5, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent02.png"
+    title: Prelude to Silence 2, Analogue, Costa Rica, 2019/20
   - image: "/src/images/preludtosilent03.png"
     title: Prelude to Silence 3, Analogue, Costa Rica, 2019/20
   - image: "/src/images/preludtosilent04.png"
     title: Prelude to Silence 4, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent02.png"
-    title: Prelude to Silence 2, Analogue, Costa Rica, 2019/20
-  name: ''
-  website: ''
+  - image: "/src/images/preludtosilent05.png"
+    title: Prelude to Silence 5, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent06.png"
+    title: Prelude to Silence 6, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent07.png"
+    title: Prelude to Silence 7, Analogue, Costa Rica, 2019/20
+  name: Hellen Hernandez
+  website: 'http://www.hellenhernandez.com '
 
 ---
