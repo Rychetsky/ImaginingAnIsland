@@ -118,5 +118,16 @@ blocks:
     title: Solagraph iii, Pinhole Solagraph, North Uist, 2020
   name: Maya Reid
   website: ''
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/godfreypigott-mountain-14.jpg"
+    title: Mountain 14, Gryon - Switzerland, 2018/2019
+  - image: "/src/images/godfreypigott-mountain-11.jpg"
+    title: Mountain 11, Gryon - Switzerland, 2018/2019
+  - image: "/src/images/godfreypigott-mountain-04.jpg"
+    title: Mountain 4, Gryon - Switzerland, 2018/2019
+  name: ''
+  website: ''
 
 ---
