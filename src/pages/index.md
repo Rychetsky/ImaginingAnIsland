@@ -69,16 +69,16 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/scott_hunter_6.jpg"
-    title: 'Aftermath L: River Forth at Kinghorn, Scotland, analogue, 2017. R: River
+  - image: "/src/images/scott_hunter_1.jpg"
+    title: 'Yugen 1/2 L: River Forth at Leven, Scotland, analogue, 2018. R: River
       Kamo, Kyoto, Japan, analogue, 2018.'
   - image: "/src/images/scott_hunter_4.jpg"
     title: 'Yugen 2/2 L: River Kamo, in Kyoto, Japan, analogue, 2018. R: River Forth
       at Leven, Scotland, analogue, 2018.'
-  - image: "/src/images/scott_hunter_1.jpg"
-    title: 'Yugen 1/2 L: River Forth at Leven, Scotland, analogue, 2018. R: River
+  - image: "/src/images/scott_hunter_6.jpg"
+    title: 'Aftermath L: River Forth at Kinghorn, Scotland, analogue, 2017. R: River
       Kamo, Kyoto, Japan, analogue, 2018.'
-  name: ''
-  website: ''
+  name: Scott Hunter
+  website: https://cargocollective.com/scotthunter
 
 ---
