@@ -141,6 +141,9 @@ blocks:
   name: Danielle Macleod
   website: https://www.daniellemacleodphoto.com
   gallery:
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_6of6.jpg"
+    title: Nuair a Leig i Tharais Thu 1, Medium Format Analogue, Garry Beach - Isle
+      of Lewis, January 2020
   - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_5of6.jpg"
     title: Nuair a Leig i Tharais Thu 1, Medium Format Analogue, Dalmór Beach - Isle
       of Lewis, January 2020
