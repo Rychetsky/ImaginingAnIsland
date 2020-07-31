@@ -36,24 +36,6 @@ blocks:
     title: Pladda Fields, Port Glasgow, 35mm, December 2019
 - template: cluster
   component: cluster
-  name: Adrian Hollister
-  website: ''
-  gallery:
-  - image: "/src/images/reality-2.jpg"
-    title: Reality, digital photograph, 2014
-- template: cluster
-  component: cluster
-  name: Alejandro Basterrechea
-  gallery:
-  - image: "/src/images/alejandro_basterrechea_5.jpg"
-    title: Herd of Ponies, Eriskay, Digital, January 2020
-  - image: "/src/images/alejandro_basterrechea_4.jpg"
-    title: Eriskay Pony, Eriskay, Digital, January 2020
-  - image: "/src/images/alejandro_basterrechea_1.jpg"
-    title: Eriskay, Island Priest, Digital, January 2020
-  website: http://www.instagram.com/alebphotographer
-- template: cluster
-  component: cluster
   gallery:
   - image: "/src/images/rick-booth-terra-5.jpg"
     title: 'Terra '
@@ -99,5 +81,18 @@ blocks:
     title: Prelude to Silence 7, Analogue, Costa Rica, 2019/20
   name: Hellen Hernandez
   website: 'http://www.hellenhernandez.com '
+- template: cluster
+  component: cluster
+  name: Heather Yates
+  gallery:
+  - image: "/src/images/hyates_shinrin-yoku_1.jpg"
+    title: Shirin-yoku 1, Digital, Cragallian Estate, 2019/2020
+  - image: "/src/images/hyates_shinrin-yoku_3.jpg"
+    title: Shirin-yoku 3, Digital, Cragallian Estate, 2019/2020
+  - image: "/src/images/hyates_shinrin-yoku_4.jpg"
+    title: Shirin-yoku 4, Digital, Cragallian Estate, 2019/2020
+  - image: "/src/images/hyates_shinrin-yoku_5.jpg"
+    title: Shirin-yoku 5, Digital, Cragallian Estate, 2019/2020
+  website: https://www.hyatesphoto.com
 
 ---
