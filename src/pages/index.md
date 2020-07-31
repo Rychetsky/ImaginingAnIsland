@@ -141,21 +141,21 @@ blocks:
   name: Danielle Macleod
   website: https://www.daniellemacleodphoto.com
   gallery:
-  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_6of6.jpg"
-    title: Nuair a Leig i Tharais Thu 1, Medium Format Analogue, Garry Beach - Isle
-      of Lewis, January 2020
-  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_5of6.jpg"
-    title: Nuair a Leig i Tharais Thu 1, Medium Format Analogue, Dalmór Beach - Isle
-      of Lewis, January 2020
-  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_4of6.jpg"
-    title: Nuair a Leig i Tharais Thu 4, Large Format Analogue, January 2020
-  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_3of6.jpg"
-    title: Nuair a Leig i Tharais Thu 3, Large Format Analogue, January 2020
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_1of6.jpg"
+    title: Nuair a Leig i Tharais Thu 1, Digital, January 2020
   - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_2of6.jpg"
     title: Nuair a Leig i Tharais Thu 2, Medium Format Analogue, Isle of Harris, January
       2020
-  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_1of6.jpg"
-    title: Nuair a Leig i Tharais Thu 1, Digital, January 2020
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_3of6.jpg"
+    title: Nuair a Leig i Tharais Thu 3, Large Format Analogue, January 2020
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_4of6.jpg"
+    title: Nuair a Leig i Tharais Thu 4, Large Format Analogue, January 2020
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_5of6.jpg"
+    title: Nuair a Leig i Tharais Thu 5, Medium Format Analogue, Dalmór Beach - Isle
+      of Lewis, January 2020
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_6of6.jpg"
+    title: Nuair a Leig i Tharais Thu 6, Medium Format Analogue, Garry Beach - Isle
+      of Lewis, January 2020
 - template: cluster
   component: cluster
   name: Joshua Cockroft
@@ -165,12 +165,12 @@ blocks:
     title: Shelter 1, 4x5 Film, Finland, 16th March - 14th May 2020
   - image: "/src/images/joshua-cockroft_shelter_2_.jpg"
     title: Shelter 2, 4x5 Film, Finland, 16th March - 14th May 2020
+  - image: "/src/images/joshua-cockroft_shelter_3_.jpg"
+    title: Shelter 3, 4x5 Film, Finland, 16th March - 14th May 2020
   - image: "/src/images/joshua-cockroft_shelter_4_.jpg"
     title: Shelter 4, 4x5 Film, Finland, 16th March - 14th May 2020
   - image: "/src/images/joshua-cockroft_shelter_5_.jpg"
     title: Shelter 5, 4x5 Film, Finland, 16th March - 14th May 2020
-  - image: "/src/images/joshua-cockroft_shelter_3_.jpg"
-    title: Shelter 3, 4x5 Film, Finland, 16th March - 14th May 2020
   - image: "/src/images/joshua-cockroft_shelter_6_.jpg"
     title: Shelter 6, 4x5 Film, Finland, 16th March - 14th May 2020
   - image: "/src/images/joshua-cockroft_shelter_7_.jpg"
@@ -182,16 +182,16 @@ blocks:
     title: Text by Dr Antonia Thomas, Archaeologist
   - image: "/src/images/lake_orcadie_1_rmarr_-5983.jpg"
     title: Walking Lake Orcadie 1, Digital, Stromness - Orkney, May 2020
+  - image: "/src/images/lake_orcadie_2_rmarr_-5992.jpg"
+    title: Walking Lake Orcadie 2, Digital, Stromness - Orkney, May 2020
+  - image: "/src/images/lake_orcadie_3_rmarr_-6016.jpg"
+    title: Walking Lake Orcadie 3, Digital, Stromness - Orkney, May 2020
+  - image: "/src/images/lake_orcadie_4_rmarr_-6015.jpg"
+    title: Walking Lake Orcadie 4, Digital, Stromness - Orkney, May 2020
   - image: "/src/images/lake_orcadie_5_rmarr_-6013.jpg"
     title: Walking Lake Orcadie 5, Digital, Stromness - Orkney, May 2020
   - image: "/src/images/lake_orcadie_6_rmarr_-6011.jpg"
     title: Walking Lake Orcadie 6, Digital, Stromness - Orkney, May 2020
-  - image: "/src/images/lake_orcadie_2_rmarr_-5992.jpg"
-    title: Walking Lake Orcadie 2, Digital, Stromness - Orkney, May 2020
-  - image: "/src/images/lake_orcadie_4_rmarr_-6015.jpg"
-    title: Walking Lake Orcadie 4, Digital, Stromness - Orkney, May 2020
-  - image: "/src/images/lake_orcadie_3_rmarr_-6016.jpg"
-    title: Walking Lake Orcadie 3, Digital, Stromness - Orkney, May 2020
   name: 'Rebecca Marr '
   website: http://www.rebeccamarr.co.uk
 - template: cluster
