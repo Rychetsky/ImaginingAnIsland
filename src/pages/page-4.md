@@ -24,5 +24,14 @@ blocks:
     title: Untitled (series) 3, 35mm film, Malta, 2016-2020
   name: Marco Scerri
   website: https://marcoscerri.com/
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/fireplace.jpg"
+    title: Fireplace, Vallay - North Uist
+  - image: "/src/images/strand.jpg"
+    title: Strand, Vallay - North Uist
+  name: ''
+  website: ''
 
 ---
