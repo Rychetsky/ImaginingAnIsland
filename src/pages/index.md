@@ -235,5 +235,14 @@ blocks:
     title: untitled (assume the position) I, Medium Format 120mm, Isle of Eigg, 2020
   - image: "/src/images/7-2019-ios-1-nov-010.jpg"
     title: untitled (assume the position) II, Medium Format 120mm, Isle of Eigg, 2020
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/found-4.jpg"
+    title: 'As If: Portrait of found objects on Orkney 4, Digital, 2014'
+  - image: "/src/images/found-6.jpg"
+    title: 'As If: Portrait of found objects on Orkney 6, Digital, 2014'
+  name: ''
+  website: ''
 
 ---
