@@ -278,5 +278,12 @@ blocks:
     title: " Mystical (Ailsa Craig), Digital, Irish Sea"
   name: 'Daryl Feehly '
   website: http://photos.darylfeehely.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/ashrays_triptych-final.jpg"
+    title: Ashrays, Cyanotype and Digital Collage, Loch Laggan - Cairngorms, 2018
+  name: 'Alessandra Campoli '
+  website: http://www.alessandracampoli.com/
 
 ---
