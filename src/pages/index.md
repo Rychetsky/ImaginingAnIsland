@@ -20,5 +20,53 @@ blocks:
   - image: "/src/images/alejandro_basterrechea_1.jpg"
     title: Eriskay, Island Priest, Digital, January 2020
   website: http://www.instagram.com/alebphotographer
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/unnamed.gif"
+    title: Island, Cyanotype Print GIF, 2020
+  - image: "/src/images/ghost-island-ii.jpg"
+    title: Ghost Island II, Cyanotype Print, 2020
+  - image: "/src/images/ghost-island-i.jpg"
+    title: Ghost Island I, Cyanotype Print, 2020
+  - image: "/src/images/blue-island-i.jpg"
+    title: Blue Island I, Cyanotype Print, 2020
+  - image: "/src/images/blue-island-ii.jpg"
+    title: Blue Island II, Cyanotype Print, 2020
+  name: Sayako Sugawara
+  website: 'https://www.instagram.com/sayako_sugawara/  '
+- template: cluster
+  component: cluster
+  name: Sean Patrick Campbell
+  website: https://spcampbellart.cargo.site/Info
+  gallery:
+  - image: "/src/images/seanpcampbell_2.jpg"
+    title: Tower Hill, Gourock,35mm film, October 2015
+  - image: "/src/images/seanpcampbell_4.jpg"
+    title: Abandoned lot, Gourock, 35mm film, February 2017
+  - image: "/src/images/seanpcampbell_3.jpg"
+    title: Pladda Fields, Port Glasgow, 35mm film, February 2017
+  - image: "/src/images/seanpcampbell_5.jpg"
+    title: Port Glasgow Road, Greenock, 35mm film, February 2017
+  - image: "/src/images/seanpcampbell_6.jpg"
+    title: Gourock, 120mm film, March 2019
+  - image: "/src/images/seanpcampbell_1.jpg"
+    title: Site of Destroyed Power Station, Inverkip, 35mm film, February 2017
+  - image: "/src/images/seanpcampbell_7.jpg"
+    title: Pladda Fields, Port Glasgow, 35mm, December 2019
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/rick-booth-terra-5.jpg"
+    title: 'Terra '
+  name: Rick Booth
+  website: http://www.callysnapper.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/repose.jpg"
+    title: Repose, Hand-toned Cyanotype Print, Senegal, August 2019
+  name: Jon Macleod
+  website: ''
 
 ---
