@@ -200,6 +200,9 @@ blocks:
   - image: "/src/images/elemental-forms_landscape-no-56.jpg"
     title: Elemental Forms Landscape 56, Wet Plate Collodion (Tintype) Photogram,
       2018
+  - image: "/src/images/nadezda-nikolova-kratzer-elemental-forms_landscape-63.jpg"
+    title: Elemental Forms Landscape 63, Wet Plate Collodion (Tintype) Photogram,
+      2018
   - image: "/src/images/elemental-forms_landscape-no-87.jpg"
     title: Elemental Forms Landscape 87, Wet Plate Collodion (Tintype) Photogram,
       2019
@@ -215,9 +218,6 @@ blocks:
   - image: "/src/images/elemental-forms-landscape-103.jpg"
     title: Elemental Forms Landscape 103, Wet Plate Collodion (Tintype) Photogram,
       2019
-  - image: "/src/images/nadezda-nikolova-kratzer-elemental-forms_landscape-63.jpg"
-    title: Elemental Forms Landscape 63, Wet Plate Collodion (Tintype) Photogram,
-      2018
   name: Nadezda Nikolova-Kratzer
   website: http://nadezdanikolova.com
 - template: cluster
