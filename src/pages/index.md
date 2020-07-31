@@ -80,5 +80,14 @@ blocks:
       Kamo, Kyoto, Japan, analogue, 2018.'
   name: Scott Hunter
   website: https://cargocollective.com/scotthunter
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/preludtosilent04.png"
+    title: Prelude to Silence 4, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent02.png"
+    title: Prelude to Silence 2, Analogue, Costa Rica, 2019/20
+  name: ''
+  website: ''
 
 ---
