@@ -21,4 +21,5 @@ fields:
   - cluster
 pages:
 - src/pages/index.md
+- src/pages/index2.md
 - src/pages/page-2.md
