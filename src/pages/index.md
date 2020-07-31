@@ -136,5 +136,12 @@ blocks:
     title: Deep in the Woods 4, Digital, South West France, 2019
   name: Deborah Weinreb
   website: http://www.ishootphotos.co.uk
+- template: cluster
+  component: cluster
+  name: Danielle Macleod
+  website: https://www.daniellemacleodphoto.com
+  gallery:
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_1of6.jpg"
+    title: Nuair a Leig i Tharais Thu 1, Digital, January 2020
 
 ---
