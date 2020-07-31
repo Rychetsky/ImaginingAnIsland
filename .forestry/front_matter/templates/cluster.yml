@@ -13,6 +13,13 @@ fields:
   config:
     required: false
   label: Name
+- name: website
+  type: text
+  config:
+    required: false
+  label: Website
+  description: Including https://
+  default: ''
 - name: gallery
   type: field_group_list
   fields:
