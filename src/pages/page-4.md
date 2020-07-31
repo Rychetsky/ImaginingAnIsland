@@ -31,7 +31,7 @@ blocks:
     title: Fireplace, Vallay - North Uist
   - image: "/src/images/strand.jpg"
     title: Strand, Vallay - North Uist
-  name: ''
-  website: ''
+  name: Arun Sood
+  website: www.arunsood.com
 
 ---
