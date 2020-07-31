@@ -94,5 +94,14 @@ blocks:
   - image: "/src/images/hyates_shinrin-yoku_5.jpg"
     title: Shirin-yoku 5, Digital, Cragallian Estate, 2019/2020
   website: https://www.hyatesphoto.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/sillars_praxis-3.jpg"
+    title: Praxis 3, Digital, Balintore - Easter Ross, 2016
+  - image: "/src/images/sillars_praxis_4.jpg"
+    title: Praxis 4, Digital, Balintore - Easter Ross, 2016
+  name: Matt Sillars
+  website: www.mattsillars.com
 
 ---
