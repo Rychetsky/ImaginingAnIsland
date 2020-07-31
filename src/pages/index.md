@@ -127,6 +127,13 @@ blocks:
     title: Mountain 11, Gryon - Switzerland, 2018/2019
   - image: "/src/images/godfreypigott-mountain-04.jpg"
     title: Mountain 4, Gryon - Switzerland, 2018/2019
+  name: Emma Goddfrey-Pigott
+  website: 'https://portfolio.emmagodfrey.com/ '
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/deborah-weinreb-4-2-cars-nature.jpeg"
+    title: Deep in the Woods 4, Digital, South West France, 2019
   name: ''
   website: ''
 
