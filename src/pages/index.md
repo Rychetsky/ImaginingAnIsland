@@ -107,5 +107,16 @@ blocks:
     title: Praxis 4, Digital, Balintore - Easter Ross, 2016
   name: Matt Sillars
   website: www.mattsillars.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/rope-ii.jpg"
+    title: Rope ii, Digital, North Uist, 2019
+  - image: "/src/images/seal-i.jpg"
+    title: Seal i, Digital, North Uist, 2019
+  - image: "/src/images/solargraph-iii.jpeg"
+    title: Solagraph iii, Pinhole Solagraph, North Uist, 2020
+  name: Maya Reid
+  website: ''
 
 ---
