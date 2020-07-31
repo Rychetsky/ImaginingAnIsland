@@ -1,14 +1,14 @@
 ---
-title: 'Home Page '
+title: Page 1
 template: blocks
 blocks:
 - template: cluster
   component: cluster
-  name: Rosie Blake
+  name: Adrian Hollister
   website: https://rosalindblake.com
   gallery:
-  - image: "/src/images/instant_preview_console.png"
-    title: Title 2
+  - image: "/src/images/reality-2.jpg"
+    title: Reality, digital photograph, 2014
   - image: "/src/images/salty_egg.jpg"
     title: Image Title
 - template: cluster
