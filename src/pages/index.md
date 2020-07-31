@@ -285,5 +285,14 @@ blocks:
     title: Ashrays, Cyanotype and Digital Collage, Loch Laggan - Cairngorms, 2018
   name: 'Alessandra Campoli '
   website: http://www.alessandracampoli.com/
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/cdear-five-stone-tools.jpg"
+    title: Five Stone Tools, Digital, Isle of Skype, 2013
+  - image: "/src/images/cdear-five-boatmaking-tools.jpg"
+    title: Five Boat Making Tools, Digital, Isle of Skype, 2020
+  name: 'Caroline Dear '
+  website: https://www.carolinedear.co.uk
 
 ---
