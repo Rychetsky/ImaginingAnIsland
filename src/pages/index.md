@@ -225,8 +225,10 @@ blocks:
   name: Matthew Arthur Williams
   website: www.matthewarthurwilliams.com
   gallery:
+  - image: "/src/images/3-2020-epsom-hp5-2-014.jpg"
+    title: untitled (assume the position) VI, Medium Format 120mm, Isle of Eigg, 2019
   - image: "/src/images/2-2020-epsom-hp5-2-013.jpg"
-    title: untitled (assume the position) V, Medium Format 120mm, Isle of Eigg, 2020
+    title: untitled (assume the position) V, Medium Format 120mm, Isle of Eigg, 2019
   - image: "/src/images/4-2019-ios-2-nov-002.jpg"
     title: untitled (ferns) V, Medium Format 120mm, Isle of Skye, 2019
   - image: "/src/images/6-2019-ios-1-nov-007.jpg"
