@@ -134,7 +134,7 @@ blocks:
   gallery:
   - image: "/src/images/deborah-weinreb-4-2-cars-nature.jpeg"
     title: Deep in the Woods 4, Digital, South West France, 2019
-  name: ''
-  website: ''
+  name: Deborah Weinreb
+  website: http://www.ishootphotos.co.uk
 
 ---
