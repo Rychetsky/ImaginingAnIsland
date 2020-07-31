@@ -16,7 +16,7 @@ blocks:
   subtitle: Open Call Exhibition
 - template: block__feature
   component: feature
-  image: "/src/images/forestry_markdown_editor.png"
+  image: "/src/images/reality-2.jpg"
   background: primary
   orientation: reverse
   title: A CMS for your Gatsby Project
@@ -28,7 +28,7 @@ blocks:
   title: Build a Site in Minutes
   content: Our Gatsby starter is pre-configured with support for <strong>markdown</strong>,
     and of course works great with Forestry's CMS.
-  image: "/src/images/quickstart.png"
+  image: ''
 - template: block__feature
   component: feature
   background: dark
@@ -36,7 +36,7 @@ blocks:
   title: Instant Previews
   content: Forestry's new <strong>instant previews</strong> feature dramatically reduces
     preview build times, giving you a tighter feedback loop.
-  image: "/src/images/instant_preview_console.png"
+  image: ''
 - template: block__3col
   component: 3col
   title: Why Forestry?
