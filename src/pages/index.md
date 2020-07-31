@@ -5,7 +5,7 @@ blocks:
 - template: cluster
   component: cluster
   name: Adrian Hollister
-  website: https://
+  website: ''
   gallery:
   - image: "/src/images/reality-2.jpg"
     title: Reality, digital photograph, 2014
