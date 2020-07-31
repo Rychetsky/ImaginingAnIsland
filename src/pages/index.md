@@ -141,6 +141,12 @@ blocks:
   name: Danielle Macleod
   website: https://www.daniellemacleodphoto.com
   gallery:
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_4of6.jpg"
+    title: Nuair a Leig i Tharais Thu 4, Digital, January 2020
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_3of6.jpg"
+    title: Nuair a Leig i Tharais Thu 3, Digital, January 2020
+  - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_2of6.jpg"
+    title: Nuair a Leig i Tharais Thu 2, Digital, January 2020
   - image: "/src/images/danielle-macleod_nuair-a-leig-i-tharais-thu_1of6.jpg"
     title: Nuair a Leig i Tharais Thu 1, Digital, January 2020
 
