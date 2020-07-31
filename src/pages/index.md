@@ -248,5 +248,12 @@ blocks:
     title: 'As If: Portrait of found objects on Orkney 6, Digital, 2014'
   name: Ikuko Tsuchiya
   website: ''
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/francesscott_smoke-mainland_2014.jpg"
+    title: Smoke Mainland, Medium Format, Head of Holland - Orkney, 2014
+  name: Frances Scott
+  website: http://www.frances-scott.co.uk
 
 ---
