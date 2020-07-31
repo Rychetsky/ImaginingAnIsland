@@ -13,6 +13,10 @@ blocks:
   component: cluster
   name: Alejandro Basterrechea
   gallery:
+  - image: "/src/images/alejandro_basterrechea_5.jpg"
+    title: Herd of Ponies, Eriskay, Digital, 2020
+  - image: ''
+    title: ''
   - image: "/src/images/alejandro_basterrechea_1.jpg"
     title: Eriskay, Island Priest, Digital, January 2020
 - template: cluster
