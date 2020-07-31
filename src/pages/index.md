@@ -251,6 +251,9 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/francesscott_rock-northronaldsay_2018.jpg"
+    title: Rock, North Ronaldsay, Medium Format, East Coast of North Ronaldsay -Orkney,
+      2018
   - image: "/src/images/francesscott_smoke-mainland_2014.jpg"
     title: Smoke Mainland, Medium Format, Head of Holland - Orkney, 2014
   name: Frances Scott
