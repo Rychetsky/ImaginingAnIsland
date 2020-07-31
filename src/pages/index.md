@@ -197,6 +197,9 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/elemental-forms-landscape-98.jpg"
+    title: Elemental Forms Landscape 98, Wet Plate Collodion (Tintype) Photogram,
+      2019
   - image: "/src/images/elemental-forms-landscape-103.jpg"
     title: Elemental Forms Landscape 103, Wet Plate Collodion (Tintype) Photogram,
       2019
