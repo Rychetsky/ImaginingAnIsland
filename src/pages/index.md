@@ -4,24 +4,6 @@ template: blocks
 blocks:
 - template: cluster
   component: cluster
-  name: Adrian Hollister
-  website: ''
-  gallery:
-  - image: "/src/images/reality-2.jpg"
-    title: Reality, digital photograph, 2014
-- template: cluster
-  component: cluster
-  name: Alejandro Basterrechea
-  gallery:
-  - image: "/src/images/alejandro_basterrechea_5.jpg"
-    title: Herd of Ponies, Eriskay, Digital, January 2020
-  - image: "/src/images/alejandro_basterrechea_4.jpg"
-    title: Eriskay Pony, Eriskay, Digital, January 2020
-  - image: "/src/images/alejandro_basterrechea_1.jpg"
-    title: Eriskay, Island Priest, Digital, January 2020
-  website: http://www.instagram.com/alebphotographer
-- template: cluster
-  component: cluster
   gallery:
   - image: "/src/images/ghost-island-ii.jpg"
     title: Ghost Island II, Cyanotype Print, 2020
@@ -38,20 +20,38 @@ blocks:
   name: Sean Patrick Campbell
   website: https://spcampbellart.cargo.site/Info
   gallery:
+  - image: "/src/images/seanpcampbell_1.jpg"
+    title: Site of Destroyed Power Station, Inverkip, 35mm film, February 2017
   - image: "/src/images/seanpcampbell_2.jpg"
     title: Tower Hill, Gourock,35mm film, October 2015
-  - image: "/src/images/seanpcampbell_4.jpg"
-    title: Abandoned lot, Gourock, 35mm film, February 2017
   - image: "/src/images/seanpcampbell_3.jpg"
     title: Pladda Fields, Port Glasgow, 35mm film, February 2017
+  - image: "/src/images/seanpcampbell_4.jpg"
+    title: Abandoned lot, Gourock, 35mm film, February 2017
   - image: "/src/images/seanpcampbell_5.jpg"
     title: Port Glasgow Road, Greenock, 35mm film, February 2017
   - image: "/src/images/seanpcampbell_6.jpg"
     title: Gourock, 120mm film, March 2019
-  - image: "/src/images/seanpcampbell_1.jpg"
-    title: Site of Destroyed Power Station, Inverkip, 35mm film, February 2017
   - image: "/src/images/seanpcampbell_7.jpg"
     title: Pladda Fields, Port Glasgow, 35mm, December 2019
+- template: cluster
+  component: cluster
+  name: Adrian Hollister
+  website: ''
+  gallery:
+  - image: "/src/images/reality-2.jpg"
+    title: Reality, digital photograph, 2014
+- template: cluster
+  component: cluster
+  name: Alejandro Basterrechea
+  gallery:
+  - image: "/src/images/alejandro_basterrechea_5.jpg"
+    title: Herd of Ponies, Eriskay, Digital, January 2020
+  - image: "/src/images/alejandro_basterrechea_4.jpg"
+    title: Eriskay Pony, Eriskay, Digital, January 2020
+  - image: "/src/images/alejandro_basterrechea_1.jpg"
+    title: Eriskay, Island Priest, Digital, January 2020
+  website: http://www.instagram.com/alebphotographer
 - template: cluster
   component: cluster
   gallery:
