@@ -178,6 +178,8 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/lake-orcadie-text.jpg"
+    title: ''
   - image: "/src/images/lake_orcadie_1_rmarr_-5983.jpg"
     title: Walking Lake Orcadie 1, Digital, Stromness - Orkney, May 2020
   - image: "/src/images/lake_orcadie_5_rmarr_-6013.jpg"
