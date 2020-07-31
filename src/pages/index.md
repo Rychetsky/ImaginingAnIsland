@@ -161,6 +161,10 @@ blocks:
   name: Joshua Cockroft
   website: " https://www.instagram.com/josh.cockroft/"
   gallery:
+  - image: "/src/images/joshua-cockroft_shelter_1_.jpg"
+    title: Shelter 1, 4x5 Film, Finland, 16th March - 14th May 2020
+  - image: "/src/images/joshua-cockroft_shelter_2_.jpg"
+    title: Shelter 2, 4x5 Film, Finland, 16th March - 14th May 2020
   - image: "/src/images/joshua-cockroft_shelter_4_.jpg"
     title: Shelter 4, 4x5 Film, Finland, 16th March - 14th May 2020
   - image: "/src/images/joshua-cockroft_shelter_5_.jpg"
