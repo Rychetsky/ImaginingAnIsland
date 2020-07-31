@@ -220,5 +220,12 @@ blocks:
       2018
   name: Nadezda Nikolova-Kratzer
   website: http://nadezdanikolova.com
+- template: cluster
+  component: cluster
+  name: Matthew Arthur Williams
+  website: www.matthewarthurwilliams.com
+  gallery:
+  - image: "/src/images/7-2019-ios-1-nov-010.jpg"
+    title: untitled (assume the position) V, Medium Format 120mm, Isle of Eigg, 2020
 
 ---
