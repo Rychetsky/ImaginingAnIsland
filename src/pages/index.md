@@ -271,5 +271,12 @@ blocks:
     title: Sealsong, Film Still, Spitsbergen, 2019
   name: Espen Tversland
   website: https://tversland.com/
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/daryl-feehly-ailsa_craig_2_mystical.jpg"
+    title: " Mystical (Ailsa Craig), Digital, Irish Sea"
+  name: 'Daryl Feehly '
+  website: http://photos.darylfeehely.com
 
 ---
