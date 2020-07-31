@@ -23,8 +23,6 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/unnamed.gif"
-    title: Island, Cyanotype Print GIF, 2020
   - image: "/src/images/ghost-island-ii.jpg"
     title: Ghost Island II, Cyanotype Print, 2020
   - image: "/src/images/ghost-island-i.jpg"
