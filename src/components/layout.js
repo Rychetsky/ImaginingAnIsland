@@ -18,7 +18,7 @@ const GlobalStyle = createGlobalStyle`
 `
 
 const Wrapper = styled.div`
-  ${tw`h-screen bg-white dark:bg-gray-900 dark:text-white`}
+  ${tw``}
 `
 
 
