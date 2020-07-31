@@ -251,8 +251,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/francesscott_structure-hoy_2019.jpg"
+    title: Structure, Hoy, Medium Format, West Coast of Hoy - Orkney, 2019
+  - image: "/src/images/francesscott_loch-papay_2018.jpg"
+    title: Loch, Papay, Medium Format, West Coast of Papay, Orkney, 2018
   - image: "/src/images/francesscott_seawall-papay_2018.jpg"
-    title: Sea Wall, Pabay, Medium Format, West Coast of Pabay, Orkney, 2018
+    title: Sea Wall, Papay, Medium Format, West Coast of Papay, Orkney, 2018
   - image: "/src/images/francesscott_rock-northronaldsay_2018.jpg"
     title: Rock, North Ronaldsay, Medium Format, East Coast of North Ronaldsay -Orkney,
       2018
