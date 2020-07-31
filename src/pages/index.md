@@ -175,5 +175,16 @@ blocks:
     title: Shelter 6, 4x5 Film, Finland, 16th March - 14th May 2020
   - image: "/src/images/joshua-cockroft_shelter_7_.jpg"
     title: Shelter 7, 4x5 Film, Finland, 16th March - 14th Ma
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/lake_orcadie_2_rmarr_-5992.jpg"
+    title: Walking Lake Orcadie 2, Digital, Stromness - Orkney, May 2020
+  - image: "/src/images/lake_orcadie_4_rmarr_-6015.jpg"
+    title: Walking Lake Orcadie 4, Digital, Stromness - Orkney, May 2020
+  - image: "/src/images/lake_orcadie_3_rmarr_-6016.jpg"
+    title: Walking Lake Orcadie 3, Digital, Stromness - Orkney, May 2020
+  name: 'Rebecca Marr '
+  website: http://www.rebeccamarr.co.uk
 
 ---
