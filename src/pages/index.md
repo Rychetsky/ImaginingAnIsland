@@ -5,7 +5,7 @@ blocks:
 - template: cluster
   component: cluster
   name: Adrian Hollister
-  website: https://rosalindblake.com
+  website: https://
   gallery:
   - image: "/src/images/reality-2.jpg"
     title: Reality, digital photograph, 2014
@@ -19,6 +19,7 @@ blocks:
     title: Eriskay Pony, Eriskay, Digital, January 2020
   - image: "/src/images/alejandro_basterrechea_1.jpg"
     title: Eriskay, Island Priest, Digital, January 2020
+  website: http://www.instagram.com/alebphotographer
 - template: cluster
   component: cluster
   name: 3 Images
@@ -29,6 +30,7 @@ blocks:
     title: More Iceland
   - image: "/src/images/img_2156.jpg"
     title: Iceland 1
+  website: ''
 - template: cluster
   component: cluster
   name: 4 Images
@@ -41,6 +43,7 @@ blocks:
     title: title
   - image: "/src/images/img_2172.jpg"
     title: title
+  website: ''
 - template: cluster
   component: cluster
   name: 5 images
@@ -55,6 +58,7 @@ blocks:
     title: title
   - image: "/src/images/img_2172.jpg"
     title: title
+  website: ''
 - template: cluster
   component: cluster
   name: 6 images
@@ -71,6 +75,7 @@ blocks:
     title: title
   - image: "/src/images/img_2172.jpg"
     title: title
+  website: ''
 - template: cluster
   component: cluster
   name: 7 images
@@ -89,5 +94,6 @@ blocks:
     title: title
   - image: "/src/images/img_2172.jpg"
     title: title
+  website: ''
 
 ---
