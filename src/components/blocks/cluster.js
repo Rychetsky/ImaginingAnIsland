@@ -26,11 +26,11 @@ const Gallery = styled.div`
   ${tw`flex flex-col w-auto py-20 -mx-2 min-h-cluster`}
 
   & li {
-    ${tw`relative flex items-start justify-center w-56 h-56 m-2 bg-gray-100 dark:bg-gray-800`}
+    ${tw`relative flex items-start justify-center w-56 h-56 m-2`}
   }
 
-  & li a {
-    ${tw`w-full h-full m-2`}
+  & li div {
+    ${tw`w-full h-full m-2 cursor-pointer`}
     max-height: 13rem;
     max-width: 13rem;
   }
@@ -139,7 +139,7 @@ const Cluster = ({ block }) => (
             {block.gallery.map((gallery, i) => {
               return (
                 <li key={i}>
-                  <a href={gallery.image.childImageSharp.fluid.src}>
+                  <div>
                     <Img
                       key={i}
                       alt={gallery.title}
@@ -148,7 +148,7 @@ const Cluster = ({ block }) => (
                         gallery.image.childImageSharp.fluid
                       }
                     />
-                  </a>
+                  </div>
                 </li>
               )
             })}
