@@ -264,5 +264,14 @@ blocks:
     title: Føroyar, Poem
   name: Amy Robinson
   website: https://amyjrobinson.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/coral-smith-knipoch-7.jpg"
+    title: Knipoch 7, 35mm Analogue, Knipoch, July 2017
+  - image: ''
+    title: ''
+  name: ''
+  website: ''
 
 ---
