@@ -104,6 +104,10 @@ blocks:
   name: Alex Boyd
   website: https://www.alexboydphotography.com
   gallery:
+  - image: "/src/images/06-alex-boyd-faroe-islands-digital-trondur-patterson-2016.jpg"
+    title: Trondur Patterson, Digital, Faroe Islands, 2016
+  - image: "/src/images/03-alex-boyd-maria-a-heygum-vestmanna-faroe-islands-digital-2016.jpg"
+    title: Maria A Heygum, Digital, Vestmanna - Faroe Islands 2016
   - image: "/src/images/01-alex-boyd-isle-of-lewis-digital-prof-murdo-macdonald-2017.jpg"
     title: Professor Murdo Macdonald, Digital, Isle of Lewis, 2017
 
