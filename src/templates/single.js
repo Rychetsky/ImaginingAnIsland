@@ -37,6 +37,10 @@ const BodyText = styled.main`
   & strong {
     ${tw`font-medium`}
   }
+
+  & em {
+    ${tw`italic tracking-wide`}
+  }
 `
 
 class SingleTemplate extends React.Component {
