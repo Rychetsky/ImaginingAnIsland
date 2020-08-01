@@ -282,7 +282,7 @@ blocks:
   gallery:
   - image: "/src/images/sabrina-turschmann-et5_1049.jpg"
     title: Surrounded, Digital, Isle of Harris - Scotland, April 2019
-  name: ''
-  website: ''
+  name: Sabrina Türschmann
+  website: https://www.instagram.com/sabrina.tuerschmann/
 
 ---
