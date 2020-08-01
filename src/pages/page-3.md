@@ -128,6 +128,12 @@ blocks:
   name: Marysia Lachowicz
   website: http://www.marysia.co.uk
   gallery:
+  - image: ''
+    title: ''
+  - image: "/src/images/lachowicz_shoormal_3.jpg"
+    title: 'Shoormal 3, Wet Cyanotype, Time: 6.30pm Lat: 60.1006 Long: -1.3276 Sunny
+      12.7°C feels like 8.8°C Wind: E 16.1 km/h Gentle Tide: 0.6m 68% full UV: 1.5
+      low, June 2019'
   - image: "/src/images/lachowicz_ayre.jpg"
     title: Ayre, Digital collage from digital and analogue photographs, 2019
   - image: "/src/images/lachowicz_banks-broo.jpg"
