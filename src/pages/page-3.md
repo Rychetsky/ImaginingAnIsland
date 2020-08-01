@@ -15,5 +15,24 @@ blocks:
     title: Sculpted By Wind, Digital, Traigh Iar - Uibhist a Tuath, 2019
   - image: "/src/images/4-planting-potatoes-goular.jpg"
     title: Potato Planting, Goular, 120mm film, Uibhist a Tuath, 2020
+- template: cluster
+  component: cluster
+  name: Tan Chee Hon
+  website: http://cheehontan.blogspot.com
+  gallery:
+  - image: "/src/images/tan-chee-hon-white-dune.jpg"
+    title: ''
+  - image: "/src/images/tan-chee-hon-roots-of-the-sea.jpg"
+    title: ''
+  - image: "/src/images/tan-chee-hon-broken-ship.jpg"
+    title: ''
+  - image: "/src/images/tan-chee-hon-rustic-life.jpg"
+    title: ''
+  - image: "/src/images/tan-chee-hon-wasteland.jpg"
+    title: ''
+  - image: "/src/images/tan-chee-hon-pillars.jpg"
+    title: ''
+  - image: "/src/images/tan-chee-hon-nostalgia-jpg.jpg"
+    title: ''
 
 ---
