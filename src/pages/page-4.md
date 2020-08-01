@@ -57,5 +57,13 @@ blocks:
     title: Fogo Island Dog, Analogue, Fogo Island, Newfoundland - Canada, 2012
   name: Bojan Furst
   website: http://bojanfurstphotography.com
+- template: cluster
+  component: cluster
+  name: Liza Dracup
+  gallery:
+  - image: "/src/images/the-seagull-liza-dracup-2001.jpg"
+    title: The Seagull (the ferry from Mull to Iona), Colour Negative Medium Format
+      made with Vintage Kershaw Folding Camera, Little Loch Broom - Dundonnell, 2000
+  website: ''
 
 ---
