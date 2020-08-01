@@ -282,6 +282,8 @@ blocks:
   name: Alejandro Basterrechea
   website: http://www.instagram.com/alebphotographer
   gallery:
+  - image: "/src/images/alejandro_basterrechea_4.jpg"
+    title: Eriskay Pony, Digital, Eriskay, January 2020
   - image: "/src/images/alejandro_basterrechea_5.jpg"
     title: Herd of Eriskay Ponies, Digital, Eriskay, January 2020
   - image: "/src/images/alejandro_basterrechea_1.jpg"
