@@ -145,6 +145,10 @@ blocks:
   name: Mark Adams
   website: https://www.markadamsimages.com
   gallery:
+  - image: "/src/images/markadams_diptych_5-6.jpg"
+    title: 'Traffic Island, Seaton Sluice, Northumberland [Lambda Print from scanned
+      6x6 negative] 2016 from the series ‘Outlook’ // Beachfront, Whitley Bay, North
+      Tyneside [Lambda Print from scanned 6x6 negative] 2016 from the series ‘Outlook’ '
   - image: "/src/images/markadams_diptych_1-2.jpg"
     title: 'Embankment I & II from the series ‘Outlook’, Lambda Print from scanned
       6x6 negative, Blyth - Northumberland,  2018 '
