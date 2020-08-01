@@ -52,11 +52,11 @@ blocks:
   - image: "/src/images/rachel_wallace_innerspace_flow02.jpg"
     title: Inner Space 2, Medium Format/Digital/Archive Photograph, Chiltern Hills
       - Buckinghamshire, 2018
-  - image: "/src/images/rachel_wallace_innerspace_flow04.jpg"
-    title: Inner Space 4, Medium Format/Digital/Archive Photograph, Chiltern Hills
-      - Buckinghamshire, 2018
   - image: "/src/images/rachel_wallace_innerspace_flow03.jpg"
     title: Inner Space 3, Medium Format/Digital/Archive Photograph, Chiltern Hills
+      - Buckinghamshire, 2018
+  - image: "/src/images/rachel_wallace_innerspace_flow04.jpg"
+    title: Inner Space 4, Medium Format/Digital/Archive Photograph, Chiltern Hills
       - Buckinghamshire, 2018
   - image: "/src/images/rachel_wallace_innerspace_flow05.jpg"
     title: Inner Space 5, Medium Format/Digital/Archive Photograph, Chiltern Hills
@@ -65,6 +65,7 @@ blocks:
     title: Inner Space 6, Medium Format/Digital/Archive Photograph, Chiltern Hills
       - Buckinghamshire, 2018
   - image: "/src/images/rachel_wallace_innerspace_flow07.jpg"
-    title: ''
+    title: Inner Space 7, Medium Format/Digital/Archive Photograph, Chiltern Hills
+      - Buckinghamshire, 2018
 
 ---
