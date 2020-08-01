@@ -11,17 +11,17 @@
   },
   {
     "type": "internal",
-    "url": "/",
+    "url": "/room-1/",
     "title": "Room 1"
   },
   {
     "type": "internal",
-    "url": "/page-4/",
+    "url": "/room-2/",
     "title": "Room 2"
   },
   {
     "type": "internal",
-    "url": "/page-3/",
+    "url": "/room-3/",
     "title": "Room 3"
   }
 ]

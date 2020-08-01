@@ -1,6 +1,6 @@
 ---
 template: blocks
-title: Page 2
+title: Room 2
 blocks:
 - template: cluster
   component: cluster
