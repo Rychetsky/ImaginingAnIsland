@@ -89,14 +89,19 @@ blocks:
   name: Patricia Macdonald in collaboration with Angus John Macdonald
   website: http://www.aerographica.org
   gallery:
+  - image: "/src/images/patricia-macdonald-iai-1-north-ford-causeway-uist.jpg"
+    title: 'Islands: sea and land: fords and causeways, Analogue, Northern Channel
+      and North Ford Causeway,  na Fahdlaichean / the Uist Fords, na h-Eileanan Siar
+      / Outer Hebrides, 2010'
   - image: "/src/images/patricia-macdonald-iai-5-lscolpaig-nuist.jpg"
     title: 'Islands: sea and land: rising seas, Analogue, Machair lochan, Loch Scolpaig,
       Uibhist a’ Tuath / North Uist, na h-Eileanan Siar / Outer Hebrides, 1990-91'
   - image: "/src/images/patricia-macdonald-iai-3-traigh-luskentyre-harris.jpg"
     title: 'Islands: sea and land, analogueTràigh Losgaintir / Luskentyre, na Hearadh
-      / Harris, na h-Eileanan Siar / Outer Hebrides, 2010'
+      / Harris, na h-Eileanan Siar / Outer Hebrides, 1990-91'
   - image: "/src/images/patricia-macdonald-iai-2-machair-moor-nuist.jpg"
-    title: Machair and Peatland, Analogue,  Uibhist a’ Tuath / North Uist, na h-Eileanan
-      Siar / Outer Hebrides, 2010
+    title: 'Islands: sea and land: from sea to sea: West and east Coasts: Machair
+      and Peatland, Analogue,  Uibhist a’ Tuath / North Uist, na h-Eileanan Siar /
+      Outer Hebrides, 2010'
 
 ---
