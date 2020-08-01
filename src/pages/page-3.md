@@ -108,10 +108,14 @@ blocks:
   name: Nils Aksnes
   website: https://www.instagram.com/nils_aksnes/
   gallery:
+  - image: "/src/images/red-dot.jpg"
+    title: Red Dot, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll - Scotland,
+      June/July 2019
   - image: "/src/images/young-titan.jpg"
     title: Young Titan, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll
       - Scotland, June/July 2019
   - image: "/src/images/the-swimmer.jpg"
-    title: ''
+    title: The Swimmer, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll
+      - Scotland, June/July 2019
 
 ---
