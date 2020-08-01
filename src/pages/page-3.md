@@ -183,5 +183,12 @@ blocks:
   gallery:
   - image: "/src/images/sea-this_judithparrott.jpg"
     title: Sea This, Digital, Isle of Butt, May 2020
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/islandcliff.jpg"
+    title: Untitled, Digital / found objects, Norwich, 2020
+  name: ''
+  website: ''
 
 ---
