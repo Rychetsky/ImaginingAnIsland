@@ -113,10 +113,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/fiona-steel-lost-property-004.jpg"
+    title: Lost Property, Analogue, Isle of Mull, May 2020
   - image: "/src/images/fiona-steel-a-moment-you-could-only-have-by-yourself-005.jpg"
-    title: A Moment You Could Only Have By Yourself, Analogue, Isle of Mull, 2020
+    title: A Moment You Could Only Have By Yourself, Analogue, Isle of Mull, May 2020
   - image: "/src/images/fiona-steel-fledgling-002.jpg"
-    title: Fledgling, Analogue, Isle of Mull, 2020
+    title: Fledgling, Analogue, Isle of Mull, May 2020
   name: ''
   website: ''
 
