@@ -277,5 +277,14 @@ blocks:
     title: All My Friends Are Goats, Digital, Carradale - Kintyre, March 2020
   name: Amy Grogan
   website: mailto:amykimgrogan@gmail.com
+- template: cluster
+  component: cluster
+  name: Alejandro Basterrechea
+  website: http://www.instagram.com/alebphotographer
+  gallery:
+  - image: "/src/images/alejandro_basterrechea_5.jpg"
+    title: Herd of Eriskay Ponies, Digital, Eriskay, January 2020
+  - image: "/src/images/alejandro_basterrechea_1.jpg"
+    title: Island Priest, Digital, Eriskay, January 2020
 
 ---
