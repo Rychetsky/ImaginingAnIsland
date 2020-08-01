@@ -344,9 +344,10 @@ blocks:
   - image: "/src/images/6-lynne-washing-betty-s-hair-by-lucy-saggers.jpg"
     title: Lynne Washing Betty's Hair, Digital, Ampleforth - North Yorkshire, December
       2017
-  - image: ''
-    title: ''
-  name: ''
-  website: ''
+  - image: "/src/images/7-john-thompson-making-a-coffin-pillow-by-lucy-saggers.jpg"
+    title: John Thompson Making Coffin Pillows, Digital, Ampleforth - North Yorkshire,
+      December 2017
+  name: Lucy Saggars
+  website: http://www.lucysaggers.com
 
 ---
