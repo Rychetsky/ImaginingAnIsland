@@ -128,6 +128,8 @@ blocks:
   name: Marysia Lachowicz
   website: http://www.marysia.co.uk
   gallery:
+  - image: "/src/images/lachowicz_ayre.jpg"
+    title: Ayre, Digital collage from digital and analogue photographs, 2019
   - image: "/src/images/lachowicz_banks-broo.jpg"
     title: Banks Broo, Digital collage from digital and analogue photographs, 2019
 
