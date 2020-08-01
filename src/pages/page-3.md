@@ -261,5 +261,12 @@ blocks:
     title: Untitled 5, Silver gelatine print, Les Houches - Chamonix - France, 2020
   - image: "/src/images/annie_boothroyd_06.jpg"
     title: Untitled 6, Silver gelatine print, Inveraray - Scotland, 2019
+- template: cluster
+  component: cluster
+  name: Anne Krinsky
+  website: https://www.annekrinsky.com
+  gallery:
+  - image: "/src/images/5-anne-krinsky_yang-ming-two-tree-island.jpg"
+    title: Yang Ming, Two Tree Island, Leigh-on-sea - Essex, 2018
 
 ---
