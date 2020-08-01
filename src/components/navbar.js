@@ -15,6 +15,10 @@ const Navigation = styled.nav`
     ${tw`inline-block pr-4`}
   }
 
+  & a {
+    ${tw`hover:text-blue-600 dark:hover:text-gray-500`}
+  }
+  
   & .active {
     ${tw`border-b-2 border-blue-600 dark:border-gray-300`}
   }
