@@ -202,5 +202,12 @@ blocks:
       March 2019
   name: Tessa Bunney
   website: http://www.tessabunney.co.uk
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/trapped-within.jpg"
+    title: Trapped Within, Digital, Rosyth, October 2019
+  name: Sofia Conti
+  website: " http://www.sofiaconti.photography"
 
 ---
