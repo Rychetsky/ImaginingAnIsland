@@ -151,6 +151,6 @@ blocks:
       Tyneside [Lambda Print from scanned 6x6 negative] 2016 from the series ‘Outlook’ '
   - image: "/src/images/markadams_diptych_1-2.jpg"
     title: 'Embankment I, Blyth, Northumberland, 2018 // Embankment II, North Tyneside,
-      2018 both Lambda Print from scanned 6x6 negative, from the series ‘Outlook’ '
+      2018, both Lambda Print from scanned 6x6 negative, from the series ‘Outlook’ '
 
 ---
