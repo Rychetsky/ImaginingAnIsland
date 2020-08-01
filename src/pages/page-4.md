@@ -72,5 +72,12 @@ blocks:
     title: Laig Bay Light Leak, Analogue LOMO Compact Automat, Eigg, July 2017
   name: Andrew Lochhead
   website: https://www.instagram.com/buildanddestroy/
+- template: cluster
+  component: cluster
+  name: Casey MacIntyre
+  website: " https://instagram.com/caseyjmcintyre/ "
+  gallery:
+  - image: "/src/images/casey-img_7397.jpg"
+    title: Lochmaddy Seaweed Harvesters, Digital, North Uist, September 2018
 
 ---
