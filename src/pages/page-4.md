@@ -47,10 +47,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/05-bojanf-islands-changeislands.jpg"
+    title: Edith's Kitchen, Analogue, Change Islands, Newfoundland - Canada, 2009
   - image: "/src/images/02-bf-islands-vis.jpg"
     title: Stone Steps, Analogue, Island of Vis - Croatia, 2012
-  - image: ''
-    title: ''
+  - image: "/src/images/03-bojanf-islands-changeislands.jpg"
+    title: Root Cellar, Analogue, Change Islands, Newfoundland - Canada, 2010
   name: Bojan Furst
   website: http://bojanfurstphotography.com
 
