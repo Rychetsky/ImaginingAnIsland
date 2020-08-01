@@ -7,7 +7,7 @@ import { SRLWrapper } from "simple-react-lightbox";
 import WebsiteIcon from '../../svg/website.svg';
 
 const Name = styled.h2`
-  ${tw`self-center inline-block mx-2 mb-4 text-xl whitespace-no-wrap lg:self-auto`}
+  ${tw`self-center inline-block mx-2 mb-4 text-lg tracking-wide whitespace-no-wrap md:self-auto`}
 `
 
 const Website = styled.a`
