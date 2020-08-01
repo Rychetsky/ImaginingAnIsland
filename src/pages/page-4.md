@@ -4,17 +4,41 @@ title: Page 2
 blocks:
 - template: cluster
   component: cluster
-  name: Dave Sands
-  website: https://www.startagain.photography/
+  name: Georgia Rose Murray
+  website: www.georgiarosemurray.com
   gallery:
-  - image: "/src/images/_k4a2760.jpg"
-    title: Loch Kishorn Moment k4a2760, Digital, January 2 2019
-  - image: "/src/images/_k4a2759.jpg"
-    title: Loch Kishorn Moment k4a2759, Digital, January 2 2019
-  - image: "/src/images/_k4a2753.jpg"
-    title: Loch Kishorn Moment k4a2753, Digital, January 2 2019
-  - image: "/src/images/_k4a2744.jpg"
-    title: Loch Kishorn Moment k4a2744, Digital, January 2 2019
+  - image: "/src/images/one-universe-adventdalen-sea-ice-georgia-rose-murray-2020.jpg"
+    title: One Universe, Ny Alesund, 2020
+  - image: "/src/images/one-body-one-world-part-2-chongqing-city-georgia-rose-murray-2019.jpg"
+    title: One Body, One World Part 2., Chongqing City, 2019
+  - image: "/src/images/one-body-one-world-part-1-ytre-norskoya-georgia-rose-murray-2018.jpg"
+    title: One Body, One World Part 1., Ytre Norskoya, 2018
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-3.jpg"
+    title: Isla Navarino (series) 3, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-4.jpg"
+    title: Isla Navarino (series) 4, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-5.jpg"
+    title: Isla Navarino (series) 5, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-6.jpg"
+    title: Isla Navarino (series) 6, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-2.jpg"
+    title: Isla Navarino (series) 2, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-1.jpg"
+    title: Isla Navarino (series) 1, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-7.jpg"
+    title: Isla Navarino (series) 7, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  name: Sebastián Thomas
+  website: http://www.sebastianthomas.cl
 - template: cluster
   component: cluster
   gallery:
@@ -33,17 +57,6 @@ blocks:
     title: Strand, Vallay - North Uist
   name: Arun Sood
   website: www.arunsood.com
-- template: cluster
-  component: cluster
-  name: Georgia Rose Murray
-  website: www.georgiarosemurray.com
-  gallery:
-  - image: "/src/images/one-universe-adventdalen-sea-ice-georgia-rose-murray-2020.jpg"
-    title: One Universe, Ny Alesund, 2020
-  - image: "/src/images/one-body-one-world-part-2-chongqing-city-georgia-rose-murray-2019.jpg"
-    title: One Body, One World Part 2., Chongqing City, 2019
-  - image: "/src/images/one-body-one-world-part-1-ytre-norskoya-georgia-rose-murray-2018.jpg"
-    title: One Body, One World Part 1., Ytre Norskoya, 2018
 - template: cluster
   component: cluster
   gallery:
@@ -65,6 +78,19 @@ blocks:
     title: The Seagull (the ferry from Mull to Iona), Colour Negative Medium Format
       made with Vintage Kershaw Folding Camera, Little Loch Broom - Dundonnell, 2000
   website: ''
+- template: cluster
+  component: cluster
+  name: Dave Sands
+  website: https://www.startagain.photography/
+  gallery:
+  - image: "/src/images/_k4a2760.jpg"
+    title: Loch Kishorn Moment k4a2760, Digital, January 2 2019
+  - image: "/src/images/_k4a2759.jpg"
+    title: Loch Kishorn Moment k4a2759, Digital, January 2 2019
+  - image: "/src/images/_k4a2753.jpg"
+    title: Loch Kishorn Moment k4a2753, Digital, January 2 2019
+  - image: "/src/images/_k4a2744.jpg"
+    title: Loch Kishorn Moment k4a2744, Digital, January 2 2019
 - template: cluster
   component: cluster
   gallery:
@@ -101,6 +127,23 @@ blocks:
   website: http://www.gaellebrunet.com
 - template: cluster
   component: cluster
+  gallery:
+  - image: "/src/images/tessa-bunney-01-dji_0273c.jpg"
+    title: Sands and Channels, Digital, Flookburgh - Cumbria, December 2019
+  - image: "/src/images/tessa-bunney-02-dscf5362c.jpg"
+    title: Cockling, Digital, Flookburgh - Cumbria, January 2020
+  - image: "/src/images/tessa-bunney-05-dji_0409cc.jpg"
+    title: Tidal Marsh, Digital, Sunderland Point, Lancashire, August 2018
+  - image: "/src/images/tessa-bunney-06-dscf2864cc.jpg"
+    title: Haaf netting for salmon and sea trout, Digital, Sunderland Point - Lancashire,
+      2018
+  - image: "/src/images/tessa-bunney-07-dscf6965cc.jpg"
+    title: Fishing for Whitebait and Spats, Digital, Sunderland Point Lancashire,
+      March 2019
+  name: Tessa Bunney
+  website: http://www.tessabunney.co.uk
+- template: cluster
+  component: cluster
   name: Alex Boyd
   website: https://www.alexboydphotography.com
   gallery:
@@ -123,51 +166,6 @@ blocks:
   website: https://instagram.com/fionasteel_art
 - template: cluster
   component: cluster
-  name: Ricardo General
-  website: https://www.instagram.com/ricardo.general.n
-  gallery:
-  - image: "/src/images/ricardogeneral1.jpg"
-    title: Wallmapu (series) 1, Digital, región de araucanía - Chile, July 2018
-  - image: "/src/images/ricardogeneral2.jpg"
-    title: Wallmapu (series) 2, Digital, región de araucanía - Chile, July 2018
-  - image: "/src/images/ricardogeneral3.jpg"
-    title: Wallmapu (series) 3, Digital, región de araucanía - Chile, July 2018
-  - image: "/src/images/ricardogeneral4.jpg"
-    title: Wallmapu (series) 4, Digital, región de araucanía - Chile, July 2018
-  - image: "/src/images/ricardogeneral5.jpg"
-    title: Wallmapu (series) 5, Digital, región de araucanía - Chile, July 2018
-  - image: "/src/images/ricardogeneral6.jpg"
-    title: Wallmapu (series) 6, Digital, región de araucanía - Chile, July 2018
-  - image: "/src/images/ricardogeneral7.jpg"
-    title: Wallmapu (series) 7, Digital, región de araucanía - Chile, July 2018
-- template: cluster
-  component: cluster
-  gallery:
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-3.jpg"
-    title: Isla Navarino (series) 3, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-4.jpg"
-    title: Isla Navarino (series) 4, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-5.jpg"
-    title: Isla Navarino (series) 5, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-6.jpg"
-    title: Isla Navarino (series) 6, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-2.jpg"
-    title: Isla Navarino (series) 2, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-1.jpg"
-    title: Isla Navarino (series) 1, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-7.jpg"
-    title: Isla Navarino (series) 7, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  name: Sebastián Thomas
-  website: http://www.sebastianthomas.cl
-- template: cluster
-  component: cluster
   name: René Jansen
   website: https://www.instagram.com/rcjjansen/
   gallery:
@@ -187,21 +185,23 @@ blocks:
     title: Lingeigh, Digital, North Uist
 - template: cluster
   component: cluster
+  name: Ricardo General
+  website: https://www.instagram.com/ricardo.general.n
   gallery:
-  - image: "/src/images/tessa-bunney-01-dji_0273c.jpg"
-    title: Sands and Channels, Digital, Flookburgh - Cumbria, December 2019
-  - image: "/src/images/tessa-bunney-02-dscf5362c.jpg"
-    title: Cockling, Digital, Flookburgh - Cumbria, January 2020
-  - image: "/src/images/tessa-bunney-05-dji_0409cc.jpg"
-    title: Tidal Marsh, Digital, Sunderland Point, Lancashire, August 2018
-  - image: "/src/images/tessa-bunney-06-dscf2864cc.jpg"
-    title: Haaf netting for salmon and sea trout, Digital, Sunderland Point - Lancashire,
-      2018
-  - image: "/src/images/tessa-bunney-07-dscf6965cc.jpg"
-    title: Fishing for Whitebait and Spats, Digital, Sunderland Point Lancashire,
-      March 2019
-  name: Tessa Bunney
-  website: http://www.tessabunney.co.uk
+  - image: "/src/images/ricardogeneral1.jpg"
+    title: Wallmapu (series) 1, Digital, región de araucanía - Chile, July 2018
+  - image: "/src/images/ricardogeneral2.jpg"
+    title: Wallmapu (series) 2, Digital, región de araucanía - Chile, July 2018
+  - image: "/src/images/ricardogeneral3.jpg"
+    title: Wallmapu (series) 3, Digital, región de araucanía - Chile, July 2018
+  - image: "/src/images/ricardogeneral4.jpg"
+    title: Wallmapu (series) 4, Digital, región de araucanía - Chile, July 2018
+  - image: "/src/images/ricardogeneral5.jpg"
+    title: Wallmapu (series) 5, Digital, región de araucanía - Chile, July 2018
+  - image: "/src/images/ricardogeneral6.jpg"
+    title: Wallmapu (series) 6, Digital, región de araucanía - Chile, July 2018
+  - image: "/src/images/ricardogeneral7.jpg"
+    title: Wallmapu (series) 7, Digital, región de araucanía - Chile, July 2018
 - template: cluster
   component: cluster
   gallery:
@@ -235,7 +235,7 @@ blocks:
   - image: "/src/images/michael-petillo-loughderg_mpetillo_06.jpg"
     title: Leaving, Digital Full-frame, Lough Derg Island - Republic of Ireland, August
       2017
-  name: Micheal Petillo
+  name: Michael Petillo
   website: https://michelpetillo.com
 - template: cluster
   component: cluster
@@ -296,6 +296,16 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/lucy-telford-img052-001.jpg"
+    title: Aberdeenshire Gothic, Wet Plate Collodion Tintype, Aberdeenshire, 2013
+  - image: "/src/images/lucy-telford-img069.jpg"
+    title: Growing Up (Story of the River series), Analogue Rand Diana camera, Lumphanan
+      - Aberdeenshire, March 2017
+  name: Lucy Telford
+  website: http://www.lucytelford.com
+- template: cluster
+  component: cluster
+  gallery:
   - image: "/src/images/john-d-angerson-english_journey_043.jpg"
     title: Easington Colliary (English Journey series), Peterlee - County Durham
   - image: "/src/images/john-d-angerson-english_journey_053.jpg"
@@ -312,6 +322,22 @@ blocks:
   website: ''
 - template: cluster
   component: cluster
+  name: Grant Anderson
+  website: http://www.grantanderson.me
+  gallery:
+  - image: "/src/images/grant-anderson-2-imagining-an-island-submission-june-2020-grant-anderson-fullsize.jpg"
+    title: Harris to Uist Ferry, HP5+ 35mm film, Outer Hebrides, July 2019
+  - image: "/src/images/grant-anderson-7-imagining-an-island-submission-june-2020-grant-anderson-fullsize.jpg"
+    title: Westford Inn, HP5+ 35mm film, Outer Hebrides, July 2019
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/supply-ship_keith-lloyd-davenport.jpg"
+    title: Supply Ship, Analogue, Peterhead, May 2017
+  name: Keith Lloyd Davenport
+  website: http://www.keithlloyddavenport.com
+- template: cluster
+  component: cluster
   gallery:
   - image: "/src/images/michael-faint-salvage-bags.jpg"
     title: Salvage Bags, Digital, Gasaigh Island - Loch Boisdale, February 2020
@@ -319,16 +345,6 @@ blocks:
     title: Storage Bin, Digital, Gasaigh Island - Loch Boisdale, February 2020
   name: Michael Faint
   website: https://www.ansolasoir.com/
-- template: cluster
-  component: cluster
-  gallery:
-  - image: "/src/images/lucy-telford-img052-001.jpg"
-    title: Aberdeenshire Gothic, Wet Plate Collodion Tintype, Aberdeenshire, 2013
-  - image: "/src/images/lucy-telford-img069.jpg"
-    title: Growing Up (Story of the River series), Analogue Rand Diana camera, Lumphanan
-      - Aberdeenshire, March 2017
-  name: Lucy Telford
-  website: http://www.lucytelford.com
 - template: cluster
   component: cluster
   gallery:
@@ -349,21 +365,5 @@ blocks:
       December 2017
   name: Lucy Saggars
   website: http://www.lucysaggers.com
-- template: cluster
-  component: cluster
-  name: Grant Anderson
-  website: http://www.grantanderson.me
-  gallery:
-  - image: "/src/images/grant-anderson-2-imagining-an-island-submission-june-2020-grant-anderson-fullsize.jpg"
-    title: Harris to Uist Ferry, HP5+ 35mm film, Outer Hebrides, July 2019
-  - image: "/src/images/grant-anderson-7-imagining-an-island-submission-june-2020-grant-anderson-fullsize.jpg"
-    title: Westford Inn, HP5+ 35mm film, Outer Hebrides, July 2019
-- template: cluster
-  component: cluster
-  gallery:
-  - image: "/src/images/supply-ship_keith-lloyd-davenport.jpg"
-    title: Supply Ship, Analogue, Peterhead, May 2017
-  name: Keith Lloyd Davenport
-  website: http://www.keithlloyddavenport.com
 
 ---
