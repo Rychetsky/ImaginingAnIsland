@@ -349,5 +349,12 @@ blocks:
       December 2017
   name: Lucy Saggars
   website: http://www.lucysaggers.com
+- template: cluster
+  component: cluster
+  name: Grant Anderson
+  website: http://www.grantanderson.me
+  gallery:
+  - image: "/src/images/grant-anderson-7-imagining-an-island-submission-june-2020-grant-anderson-fullsize.jpg"
+    title: Westford Inn, HP5+ 35mm film, Outer Hebrides, July 2019
 
 ---
