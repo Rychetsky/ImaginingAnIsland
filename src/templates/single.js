@@ -13,6 +13,10 @@ const Article = styled.article`
 
 const Headline = styled.h1`
   ${tw`mb-8 text-xl font-medium text-blue-600 md:text-2xl lg:text-3xl dark:text-gray-200`}
+
+  & em {
+    ${tw`italic tracking-wide`}
+  }
 `
 
 const BodyText = styled.main`
