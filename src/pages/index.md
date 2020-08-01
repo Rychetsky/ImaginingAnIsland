@@ -311,6 +311,8 @@ blocks:
   gallery:
   - image: "/src/images/airidh3.jpg"
     title: " Àirigh Nighean Ailein III, Digital, Uibhist a Tuath (North Uist), 2020"
+  - image: "/src/images/maisgeir3.jpg"
+    title: Màsgeir III, Digital, Uibhist a Tuath, 2020
   website: ''
 
 ---
