@@ -205,5 +205,14 @@ blocks:
       - Svalbard, October 2019
   name: Jack MacGregor Reid
   website: 'https://t.co/ykEg4u1shL?amp=1 '
+- template: cluster
+  component: cluster
+  name: Claire Murphy
+  website: https://www.instagram.com/clairemurphy141/
+  gallery:
+  - image: "/src/images/claire-murphy-imagining-islands-3.jpg"
+    title: Untitled 3, Analogue, Ireland, April 2020
+  - image: "/src/images/claire-murphy-imagining-islands-1.jpg"
+    title: Untitled 1, Analogue, Ireland, April 2020
 
 ---
