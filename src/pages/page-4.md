@@ -296,8 +296,11 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/john-d-angerson-english_journey_043.jpg"
+    title: Easington Colliary (English Journey series), Peterlee - County Durham
   - image: "/src/images/john-d-angerson-english_journey_053.jpg"
-    title: " The Old New Inn and Model Village, Rissington Road - Cotswolds"
+    title: " The Old New Inn and Model Village (English Journey series), Rissington
+      Road - Cotswolds"
   name: ''
   website: ''
 
