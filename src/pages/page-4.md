@@ -277,5 +277,12 @@ blocks:
     title: Knipoch 6, 35mm Analogue, Knipoch, July 2017
   name: Coral Smith
   website: https://www.instagram.com/ccoralanna/
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/sabrina-turschmann-et5_1049.jpg"
+    title: Surrounded, Digital, Isle of Harris - Scotland, April 2019
+  name: ''
+  website: ''
 
 ---
