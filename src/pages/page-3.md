@@ -156,5 +156,12 @@ blocks:
   - image: "/src/images/markadams_diptych_1-2.jpg"
     title: 'Embankment I, Blyth, Northumberland, 2018 // Embankment II, North Tyneside,
       2018, both Lambda Print from scanned 6x6 negative, from the series ‘Outlook’ '
+- template: cluster
+  component: cluster
+  name: Marco Scerri
+  website: https://marcoscerri.com/
+  gallery:
+  - image: "/src/images/marco-scerri-3.jpg"
+    title: Untitled (series) 3, 35mm film, Malta, 2016-2020
 
 ---
