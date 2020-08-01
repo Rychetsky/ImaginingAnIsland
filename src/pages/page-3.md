@@ -31,8 +31,8 @@ blocks:
   - image: "/src/images/tan-chee-hon-wasteland.jpg"
     title: Wasteland, Digital SLR, Parit Hailam- Malaysia, May 2019
   - image: "/src/images/tan-chee-hon-pillars.jpg"
-    title: ''
+    title: Pillars, Digital SLR, Port Dickson - Malaysia, June 2019
   - image: "/src/images/tan-chee-hon-nostalgia-jpg.jpg"
-    title: ''
+    title: Nostalgia, Digital SLR, Port Dickson - Malaysia, June 2019
 
 ---
