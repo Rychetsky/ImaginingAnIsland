@@ -332,8 +332,10 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/1-christoph-corves-ardhasaig-bus-stop-isle-of-harris-2019-christoph-corves.jpg"
+    title: Ardhasaig Bus-stop, Tri-X 400 film, Isle of Harris, 2019
   - image: "/src/images/3-the-giants-bath-tub-isle-of-harris-2019-christoph-corves.jpg"
-    title: The Giant's Bathtub, Tri-X 400 film, Outer Hebrides, 2018-2020
+    title: The Giant's Bathtub, Tri-X 400 film, Isle of Harris, 2019
   name: ''
   website: ''
 
