@@ -254,15 +254,15 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/amy-robinson-poem.jpg"
-    title: Føroyar, Poem
   - image: "/src/images/amy-robinson-img_1374.jpg"
-    title: Untitled 6, Digital, North Atlantic off Vágar - Faroe Islands, Late July
+    title: Untitled 5, Digital, North Atlantic off Vágar - Faroe Islands, Late July
       2019
   - image: "/src/images/amy-robinson-img_1435.jpg"
-    title: Untitled 7, Digital, North Atlantic off Vágar - Faroe Islands, Late July
+    title: Untitled 6, Digital, North Atlantic off Vágar - Faroe Islands, Late July
       2019
+  - image: "/src/images/amy-robinson-poem.jpg"
+    title: Føroyar, Poem
   name: Amy Robinson
-  website: ''
+  website: https://amyjrobinson.com
 
 ---
