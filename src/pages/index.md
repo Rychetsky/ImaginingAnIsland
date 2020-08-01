@@ -5,6 +5,25 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/preludtosilent01.png"
+    title: Prelude to Silence 1, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent02.png"
+    title: Prelude to Silence 2, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent03.png"
+    title: Prelude to Silence 3, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent04.png"
+    title: Prelude to Silence 4, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent05.png"
+    title: Prelude to Silence 5, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent06.png"
+    title: Prelude to Silence 6, Analogue, Costa Rica, 2019/20
+  - image: "/src/images/preludtosilent07.png"
+    title: Prelude to Silence 7, Analogue, Costa Rica, 2019/20
+  name: Hellen Hernandez
+  website: 'http://www.hellenhernandez.com '
+- template: cluster
+  component: cluster
+  gallery:
   - image: "/src/images/ghost-island-ii.jpg"
     title: Ghost Island II, Cyanotype Print, 2020
   - image: "/src/images/ghost-island-i.jpg"
@@ -64,25 +83,6 @@ blocks:
   website: https://cargocollective.com/scotthunter
 - template: cluster
   component: cluster
-  gallery:
-  - image: "/src/images/preludtosilent01.png"
-    title: Prelude to Silence 1, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent02.png"
-    title: Prelude to Silence 2, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent03.png"
-    title: Prelude to Silence 3, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent04.png"
-    title: Prelude to Silence 4, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent05.png"
-    title: Prelude to Silence 5, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent06.png"
-    title: Prelude to Silence 6, Analogue, Costa Rica, 2019/20
-  - image: "/src/images/preludtosilent07.png"
-    title: Prelude to Silence 7, Analogue, Costa Rica, 2019/20
-  name: Hellen Hernandez
-  website: 'http://www.hellenhernandez.com '
-- template: cluster
-  component: cluster
   name: Heather Yates
   gallery:
   - image: "/src/images/hyates_shinrin-yoku_1.jpg"
@@ -97,6 +97,17 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/rope-ii.jpg"
+    title: Rope ii, Digital, North Uist, 2019
+  - image: "/src/images/seal-i.jpg"
+    title: Seal i, Digital, North Uist, 2019
+  - image: "/src/images/solargraph-iii.jpeg"
+    title: Solagraph iii, Pinhole Solagraph, North Uist, 2020
+  name: Maya Reid
+  website: ''
+- template: cluster
+  component: cluster
+  gallery:
   - image: "/src/images/sillars_from_this_chair_3.jpg"
     title: From This Chair 3, Duntelchaig - Inverness-shire, 2019
   - image: "/src/images/sillars_from_this_chair_2.jpg"
@@ -107,17 +118,6 @@ blocks:
     title: Praxis 4, Digital, Balintore - Easter Ross, 2016
   name: Matt Sillars
   website: www.mattsillars.com
-- template: cluster
-  component: cluster
-  gallery:
-  - image: "/src/images/rope-ii.jpg"
-    title: Rope ii, Digital, North Uist, 2019
-  - image: "/src/images/seal-i.jpg"
-    title: Seal i, Digital, North Uist, 2019
-  - image: "/src/images/solargraph-iii.jpeg"
-    title: Solagraph iii, Pinhole Solagraph, North Uist, 2020
-  name: Maya Reid
-  website: ''
 - template: cluster
   component: cluster
   gallery:
@@ -158,23 +158,30 @@ blocks:
       of Lewis, January 2020
 - template: cluster
   component: cluster
-  name: Joshua Cockroft
-  website: " https://www.instagram.com/josh.cockroft/"
+  name: Matthew Arthur Williams
+  website: www.matthewarthurwilliams.com
   gallery:
-  - image: "/src/images/joshua-cockroft_shelter_1_.jpg"
-    title: Shelter 1, 4x5 Film, Finland, 16th March - 14th May 2020
-  - image: "/src/images/joshua-cockroft_shelter_2_.jpg"
-    title: Shelter 2, 4x5 Film, Finland, 16th March - 14th May 2020
-  - image: "/src/images/joshua-cockroft_shelter_3_.jpg"
-    title: Shelter 3, 4x5 Film, Finland, 16th March - 14th May 2020
-  - image: "/src/images/joshua-cockroft_shelter_4_.jpg"
-    title: Shelter 4, 4x5 Film, Finland, 16th March - 14th May 2020
-  - image: "/src/images/joshua-cockroft_shelter_5_.jpg"
-    title: Shelter 5, 4x5 Film, Finland, 16th March - 14th May 2020
-  - image: "/src/images/joshua-cockroft_shelter_6_.jpg"
-    title: Shelter 6, 4x5 Film, Finland, 16th March - 14th May 2020
-  - image: "/src/images/joshua-cockroft_shelter_7_.jpg"
-    title: Shelter 7, 4x5 Film, Finland, 16th March - 14th Ma
+  - image: "/src/images/3-2020-epsom-hp5-2-014.jpg"
+    title: untitled (assume the position) VI, Medium Format 120mm, Isle of Eigg, 2019
+  - image: "/src/images/2-2020-epsom-hp5-2-013.jpg"
+    title: untitled (assume the position) V, Medium Format 120mm, Isle of Eigg, 2019
+  - image: "/src/images/4-2019-ios-2-nov-002.jpg"
+    title: untitled (ferns) V, Medium Format 120mm, Isle of Skye, 2019
+  - image: "/src/images/6-2019-ios-1-nov-007.jpg"
+    title: untitled (assume the position) I, Medium Format 120mm, Isle of Eigg, 2020
+  - image: "/src/images/7-2019-ios-1-nov-010.jpg"
+    title: untitled (assume the position) II, Medium Format 120mm, Isle of Eigg, 2020
+- template: cluster
+  component: cluster
+  name: Flora deBechi
+  website: " https://cargocollective.com/floradebechi "
+  gallery:
+  - image: "/src/images/2.JPG"
+    title: Ash Patch (Remains of seaweed burning), Digital, Sponish - North Uist,
+      August 2019
+  - image: "/src/images/1.JPG"
+    title: Luminosity (Bottom of a bottle found at sea acts as a natural lens), Digital,
+      Berneray, August 2019
 - template: cluster
   component: cluster
   gallery:
@@ -194,6 +201,25 @@ blocks:
     title: Walking Lake Orcadie 6, Digital, Stromness - Orkney, May 2020
   name: 'Rebecca Marr '
   website: http://www.rebeccamarr.co.uk
+- template: cluster
+  component: cluster
+  name: Joshua Cockroft
+  website: " https://www.instagram.com/josh.cockroft/"
+  gallery:
+  - image: "/src/images/joshua-cockroft_shelter_1_.jpg"
+    title: Shelter 1, 4x5 Film, Finland, 16th March - 14th May 2020
+  - image: "/src/images/joshua-cockroft_shelter_2_.jpg"
+    title: Shelter 2, 4x5 Film, Finland, 16th March - 14th May 2020
+  - image: "/src/images/joshua-cockroft_shelter_3_.jpg"
+    title: Shelter 3, 4x5 Film, Finland, 16th March - 14th May 2020
+  - image: "/src/images/joshua-cockroft_shelter_4_.jpg"
+    title: Shelter 4, 4x5 Film, Finland, 16th March - 14th May 2020
+  - image: "/src/images/joshua-cockroft_shelter_5_.jpg"
+    title: Shelter 5, 4x5 Film, Finland, 16th March - 14th May 2020
+  - image: "/src/images/joshua-cockroft_shelter_6_.jpg"
+    title: Shelter 6, 4x5 Film, Finland, 16th March - 14th May 2020
+  - image: "/src/images/joshua-cockroft_shelter_7_.jpg"
+    title: Shelter 7, 4x5 Film, Finland, 16th March - 14th Ma
 - template: cluster
   component: cluster
   gallery:
@@ -220,21 +246,6 @@ blocks:
       2019
   name: Nadezda Nikolova-Kratzer
   website: http://nadezdanikolova.com
-- template: cluster
-  component: cluster
-  name: Matthew Arthur Williams
-  website: www.matthewarthurwilliams.com
-  gallery:
-  - image: "/src/images/3-2020-epsom-hp5-2-014.jpg"
-    title: untitled (assume the position) VI, Medium Format 120mm, Isle of Eigg, 2019
-  - image: "/src/images/2-2020-epsom-hp5-2-013.jpg"
-    title: untitled (assume the position) V, Medium Format 120mm, Isle of Eigg, 2019
-  - image: "/src/images/4-2019-ios-2-nov-002.jpg"
-    title: untitled (ferns) V, Medium Format 120mm, Isle of Skye, 2019
-  - image: "/src/images/6-2019-ios-1-nov-007.jpg"
-    title: untitled (assume the position) I, Medium Format 120mm, Isle of Eigg, 2020
-  - image: "/src/images/7-2019-ios-1-nov-010.jpg"
-    title: untitled (assume the position) II, Medium Format 120mm, Isle of Eigg, 2020
 - template: cluster
   component: cluster
   gallery:
@@ -267,6 +278,13 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/ashrays_triptych-final.jpg"
+    title: Ashrays, Cyanotype and Digital Collage, Loch Laggan - Cairngorms, 2018
+  name: 'Alessandra Campoli '
+  website: http://www.alessandracampoli.com/
+- template: cluster
+  component: cluster
+  gallery:
   - image: "/src/images/tversland_sealsong_imagininganisland.jpg"
     title: Sealsong, Film Still, Spitsbergen, 2019
   name: Espen Tversland
@@ -281,30 +299,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/ashrays_triptych-final.jpg"
-    title: Ashrays, Cyanotype and Digital Collage, Loch Laggan - Cairngorms, 2018
-  name: 'Alessandra Campoli '
-  website: http://www.alessandracampoli.com/
-- template: cluster
-  component: cluster
-  gallery:
   - image: "/src/images/cdear-five-stone-tools.jpg"
     title: Five Stone Tools, Digital, Isle of Skype, 2013
   - image: "/src/images/cdear-five-boatmaking-tools.jpg"
     title: Five Boat Making Tools, Digital, Isle of Skype, 2020
   name: 'Caroline Dear '
   website: https://www.carolinedear.co.uk
-- template: cluster
-  component: cluster
-  name: Flora deBechi
-  website: " https://cargocollective.com/floradebechi "
-  gallery:
-  - image: "/src/images/2.JPG"
-    title: Ash Patch (Remains of seaweed burning), Digital, Sponish - North Uist,
-      August 2019
-  - image: "/src/images/1.JPG"
-    title: Luminosity (Bottom of a bottle found at sea acts as a natural lens), Digital,
-      Berneray, August 2019
 - template: cluster
   component: cluster
   name: Fiona MacIsaac
