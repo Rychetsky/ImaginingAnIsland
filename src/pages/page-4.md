@@ -240,6 +240,8 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/ever-present-danger.jpg"
+    title: Ever Present Danger, Digital, Pett Level to Hastings at low tide, May 2020
   - image: "/src/images/josie-barnes-those-who-came-before.jpg"
     title: " Those Who Came Before, Digital, Pett Level to Hastings at low tide, May
       2020"
