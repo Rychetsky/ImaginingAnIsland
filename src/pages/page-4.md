@@ -189,12 +189,13 @@ blocks:
   component: cluster
   gallery:
   - image: "/src/images/tessa-bunney-07-dscf6965cc.jpg"
-    title: 'Fishing for Whitebait and Spats, Digital, '
+    title: Fishing for Whitebait and Spats, Digital, Sunderland Point Lancashire,
+      March 2019
   - image: "/src/images/tessa-bunney-01-dji_0273c.jpg"
     title: Sands and Channels, Digital, Flookburgh - Cumbria, December 2019
   - image: "/src/images/tessa-bunney-05-dji_0409cc.jpg"
     title: Tidal Marsh, Digital, Sunderland Point, Lancashire, August 2018
-  name: ''
-  website: ''
+  name: Tessa Bunney
+  website: http://www.tessabunney.co.uk
 
 ---
