@@ -212,9 +212,11 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/inishturk-3.jpg"
+    title: Inishturk (series) 3, Analogue, Inishturk - Ireland, Nov 2019-Feb 2020
   - image: "/src/images/inishturk-4.jpg"
     title: Inishturk (series) 4, Analogue, Inishturk - Ireland, Nov 2019-Feb 2020
-  name: ''
-  website: ''
+  name: Tayla Nebesky
+  website: http://taylanebesky.com
 
 ---
