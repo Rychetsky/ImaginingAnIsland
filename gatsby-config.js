@@ -72,6 +72,14 @@ module.exports = {
         // Accepts all options defined by `gatsby-plugin-postcss` plugin.
       },
     },
+    {
+      resolve: `gatsby-plugin-web-font-loader`,
+      options: {
+        typekit: {
+          id: 'vcn3tyi'
+        }
+      },
+    },
     `gatsby-plugin-transition-link`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
@@ -79,5 +87,6 @@ module.exports = {
     'gatsby-plugin-catch-links',
     'gatsby-plugin-styled-components',
     `gatsby-plugin-scroll-reveal`,
+    `gatsby-plugin-react-svg`,
   ],
 }
