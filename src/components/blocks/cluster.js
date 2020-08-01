@@ -23,7 +23,7 @@ const GalleryInner = styled.ul`
 `
 
 const Gallery = styled.div`
-  ${tw`flex flex-col w-auto px-4 py-24 lg:px-16 min-h-cluster`}
+  ${tw`flex flex-col w-auto px-4 py-20 lg:px-16 min-h-cluster`}
 
   & li {
     ${tw`relative flex items-start justify-center w-56 h-56 m-2 bg-gray-100 dark:bg-gray-800`}
@@ -47,8 +47,10 @@ const Gallery = styled.div`
 
   ${props => (props.count === 1) && css`
 
-    & ${GalleryInner} {
-      max-width: 15rem;
+    & ${GalleryInner} {      
+      @media (min-width: 768px) {
+        max-width: 15rem;
+      }
     }
     `
   }
