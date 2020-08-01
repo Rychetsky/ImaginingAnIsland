@@ -336,7 +336,7 @@ blocks:
     title: Ardhasaig Bus-stop, Tri-X 400 film, Isle of Harris, 2019
   - image: "/src/images/3-the-giants-bath-tub-isle-of-harris-2019-christoph-corves.jpg"
     title: The Giant's Bathtub, Tri-X 400 film, Isle of Harris, 2019
-  name: ''
-  website: ''
+  name: Christoph Corves
+  website: 'https://christophcorves.com/ '
 
 ---
