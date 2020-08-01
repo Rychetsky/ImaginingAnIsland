@@ -165,5 +165,16 @@ blocks:
     title: Untitled (series) 5, 35mm film, Malta, 2016-2020
   - image: "/src/images/marco-scerri-3.jpg"
     title: Untitled (series) 3, 35mm film, Malta, 2016-2020
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/louise-emslie-image-2.JPG"
+    title: No Trespassing, Digital, Iceland, September 2012
+  - image: "/src/images/louise-emslie-image-1.jpg"
+    title: Waiting for Something to Happen, Digital, Iceland, August 2011
+  - image: "/src/images/louise-emslie-image-4.jpg"
+    title: Discharge, Digital, Iceland, March 2013
+  name: Louise Emslie
+  website: http://www.louiseemslie.com
 
 ---
