@@ -188,16 +188,18 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/tessa-bunney-01-dji_0273c.jpg"
+    title: Sands and Channels, Digital, Flookburgh - Cumbria, December 2019
+  - image: "/src/images/tessa-bunney-02-dscf5362c.jpg"
+    title: Cockling, Digital, Flookburgh - Cumbria, January 2020
+  - image: "/src/images/tessa-bunney-05-dji_0409cc.jpg"
+    title: Tidal Marsh, Digital, Sunderland Point, Lancashire, August 2018
   - image: "/src/images/tessa-bunney-06-dscf2864cc.jpg"
     title: Haaf netting for salmon and sea trout, Digital, Sunderland Point - Lancashire,
       2018
   - image: "/src/images/tessa-bunney-07-dscf6965cc.jpg"
     title: Fishing for Whitebait and Spats, Digital, Sunderland Point Lancashire,
       March 2019
-  - image: "/src/images/tessa-bunney-01-dji_0273c.jpg"
-    title: Sands and Channels, Digital, Flookburgh - Cumbria, December 2019
-  - image: "/src/images/tessa-bunney-05-dji_0409cc.jpg"
-    title: Tidal Marsh, Digital, Sunderland Point, Lancashire, August 2018
   name: Tessa Bunney
   website: http://www.tessabunney.co.uk
 
