@@ -171,6 +171,8 @@ blocks:
   name: René Jansen
   website: https://www.instagram.com/rcjjansen/
   gallery:
+  - image: "/src/images/7_lingeigh_.jpg"
+    title: Lingeigh, Digital, North Uist
   - image: "/src/images/6_eilean-chirceboist.jpg"
     title: Eileen Chirceboist, Digital, North Uist
   - image: "/src/images/5_pabbay.jpg"
