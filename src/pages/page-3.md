@@ -123,5 +123,12 @@ blocks:
   - image: "/src/images/young-titan.jpg"
     title: Young Titan, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll
       - Scotland, June/July 2019
+- template: cluster
+  component: cluster
+  name: Marysia Lachowicz
+  website: http://www.marysia.co.uk
+  gallery:
+  - image: "/src/images/lachowicz_banks-broo.jpg"
+    title: Banks Broo, Digital collage from digital and analogue photographs, 2019
 
 ---
