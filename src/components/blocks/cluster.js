@@ -41,7 +41,7 @@ const Gallery = styled.div`
     max-width: 13rem;
   }
 
-  ${ClusterSection}:nth-child(even) & {
+  ${ClusterSection}:nth-child(odd) & {
     ${tw`md:items-end`}
   }
 
