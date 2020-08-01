@@ -73,10 +73,11 @@ const Gallery = styled.div`
 
     & ${GalleryInner} {
       max-width: calc(14rem * 3 + 0.5rem * 6);
-
+      
       @media (min-width: 1280px) {
         max-width: calc(14rem * 4 + 0.5rem * 8);
       }
+    }
     `
   }
 
