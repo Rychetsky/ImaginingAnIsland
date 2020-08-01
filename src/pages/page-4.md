@@ -79,5 +79,12 @@ blocks:
   gallery:
   - image: "/src/images/casey-img_7397.jpg"
     title: Lochmaddy Seaweed Harvesters, Digital, North Uist, September 2018
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/gemma-louise-shaw.jpeg"
+    title: Home, Digital, Leigh-on-Sea, June 2019
+  name: Gemma Louise Shaw
+  website: 'https://www.gemmalouiseshaw.com '
 
 ---
