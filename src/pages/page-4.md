@@ -119,7 +119,7 @@ blocks:
     title: A Moment You Could Only Have By Yourself, Analogue, Isle of Mull, May 2020
   - image: "/src/images/fiona-steel-fledgling-002.jpg"
     title: Fledgling, Analogue, Isle of Mull, May 2020
-  name: ''
-  website: ''
+  name: Fiona Steele
+  website: https://instagram.com/fionasteel_art
 
 ---
