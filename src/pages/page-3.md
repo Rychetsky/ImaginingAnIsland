@@ -72,6 +72,15 @@ blocks:
   name: Rachel Fermi
   website: http://rachelfermi.net/
   gallery:
+  - image: "/src/images/untitled_01-rachel-fermi.jpg"
+    title: Untitled (blue planet), 360° Stitched Digital Photograph, Essich Woods
+      - near Inverness
+  - image: "/src/images/untitled_02-rachel-fermi.jpg"
+    title: Untitled (red dot), 360° Stitched Digital Photograph, Essich Woods - near
+      Inverness
+  - image: "/src/images/untitled_03-rachel-fermi.jpg"
+    title: Untitled (cedar), 360° Stitched Digital Photograph, Essich Woods - near
+      Inverness
   - image: "/src/images/untitled_04-rachel-fermi.jpg"
     title: Untitled (grass), 360° Stitched Digital Photograph, Essich Woods - near
       Inverness
