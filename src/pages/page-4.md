@@ -223,12 +223,16 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/michael-petillo-loughderg_mpetillo_05.jpg"
+    title: Penitential Beds, Digital Full-frame, Lough Derg Island - Republic of Ireland,
+      August 2017
   - image: "/src/images/michael-petillo-loughderg_mpetillo_03.jpg"
     title: Stone Punctured Feet, Digital Full-frame, Lough Derg Island - Republic
       of Ireland, August 2017
-  - image: ''
-    title: ''
-  name: ''
-  website: ''
+  - image: "/src/images/michael-petillo-loughderg_mpetillo_06.jpg"
+    title: Leaving, Digital Full-frame, Lough Derg Island - Republic of Ireland, August
+      2017
+  name: Micheal Petillo
+  website: https://michelpetillo.com
 
 ---
