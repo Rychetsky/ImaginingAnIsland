@@ -1,12 +1,12 @@
 [
   {
     "type": "internal",
-    "url": "/symposium",
+    "url": "/symposium/",
     "title": "Symposium"
   },
   {
     "type": "internal",
-    "url": "/open-call",
+    "url": "/open-call/",
     "title": "Open Call"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "type": "internal",
-    "url": "/page-4",
+    "url": "/page-4/",
     "title": "Room 2"
   },
   {
     "type": "internal",
-    "url": "/page-3",
+    "url": "/page-3/",
     "title": "Room 3"
   }
 ]
