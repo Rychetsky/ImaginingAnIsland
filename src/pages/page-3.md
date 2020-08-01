@@ -84,5 +84,13 @@ blocks:
   - image: "/src/images/untitled_04-rachel-fermi.jpg"
     title: Untitled (grass), 360° Stitched Digital Photograph, Essich Woods - near
       Inverness
+- template: cluster
+  component: cluster
+  name: Patricia Macdonald in collaboration with Angus John Macdonald
+  website: http://www.aerographica.org
+  gallery:
+  - image: "/src/images/patricia-macdonald-iai-2-machair-moor-nuist.jpg"
+    title: Machair and Peatland, Analogue,  Uibhist a’ Tuath / North Uist, na h-Eileanan
+      Siar / Outer Hebrides, 2010
 
 ---
