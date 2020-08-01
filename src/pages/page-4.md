@@ -269,9 +269,9 @@ blocks:
   gallery:
   - image: "/src/images/coral-smith-knipoch-7.jpg"
     title: Knipoch 7, 35mm Analogue, Knipoch, July 2017
-  - image: ''
-    title: ''
-  name: ''
-  website: ''
+  - image: "/src/images/coral-smith-knipoch-6.jpg"
+    title: Knipoch 6, 35mm Analogue, Knipoch, July 2017
+  name: Coral Smith
+  website: https://www.instagram.com/ccoralanna/
 
 ---
