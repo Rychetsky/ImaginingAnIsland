@@ -171,6 +171,8 @@ blocks:
   name: René Jansen
   website: https://www.instagram.com/rcjjansen/
   gallery:
+  - image: "/src/images/3_bial-a-chaolais.jpg"
+    title: Bial a' Chaolais, Digital, North Uist
   - image: "/src/images/2_scolpaig-dunes.jpg"
     title: Scolpaig Dunes, Digital, North Uist
   - image: "/src/images/1_bay-villa.jpg"
