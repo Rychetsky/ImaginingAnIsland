@@ -89,14 +89,14 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/gaelle-brunet-07_modern_day_explorer_iceland_2017_digital.jpg"
-    title: Modern Day Explorer, Digital, Hverir - Iceland, 2017
-  - image: "/src/images/gaelle-brunet-06_blonduos_church_iceland_2017_digital.jpg"
-    title: Blönduós Church, Digital, Iceland, 2017
-  - image: "/src/images/gaelle-brunet-04_it_only_takes_one_set_of_footprints_1_iceland_2017_digital.jpg"
-    title: It Only Takes One Set of Footprints II, Digital, Hverir - Iceland, 2017
   - image: "/src/images/gaelle-brunet-05_it_only_takes_one_set_of_footprints_2_iceland_2017_digital.jpg"
     title: It Only Takes One Set of Footprints I, Digital, Hverir - Iceland, 2017
+  - image: "/src/images/gaelle-brunet-04_it_only_takes_one_set_of_footprints_1_iceland_2017_digital.jpg"
+    title: It Only Takes One Set of Footprints II, Digital, Hverir - Iceland, 2017
+  - image: "/src/images/gaelle-brunet-06_blonduos_church_iceland_2017_digital.jpg"
+    title: Blönduós Church, Digital, Iceland, 2017
+  - image: "/src/images/gaelle-brunet-07_modern_day_explorer_iceland_2017_digital.jpg"
+    title: Modern Day Explorer, Digital, Hverir - Iceland, 2017
   name: Gaelle Brunet
   website: http://www.gaellebrunet.com
 
