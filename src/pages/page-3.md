@@ -191,7 +191,7 @@ blocks:
       conditions, Digital, Camden Arts Centre - London, 2004
   - image: "/src/images/islandcliff.jpg"
     title: Untitled, Digital / found objects, Norwich, 2020
-  name: ''
-  website: ''
+  name: Jennie Pedley
+  website: http://www.jenniepedley.co.uk
 
 ---
