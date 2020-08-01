@@ -196,12 +196,14 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/barentsburg_ruin.jpg"
+    title: Barentsburg Ruin, Digital, Barentsburg - Svalbard, October 2019
   - image: "/src/images/guide_with_rifle.jpg"
     title: Guide With Rifle, Digital, Pyramiden - Svalbard, October 2019
   - image: "/src/images/communist_signage_in_barentsburg.jpg"
     title: Communist Signage in Barentsburg "Our Goal - Communism!", Digital, Barentsburg
       - Svalbard, October 2019
-  name: ''
-  website: ''
+  name: Jack MacGregor Reid
+  website: 'https://t.co/ykEg4u1shL?amp=1 '
 
 ---
