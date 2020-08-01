@@ -248,5 +248,12 @@ blocks:
   - image: "/src/images/berris-conolly-blonk-street-1989-2019.jpg"
     title: Blonk Street 1989-2019, Analogue 6x7 // 35mm Digital, Sheffield, 1989/2019
   website: https://www.flickr.com/photos/bconolly/
+- template: cluster
+  component: cluster
+  name: Annie Boothroyd
+  website: http://www.annieboothroyd.com
+  gallery:
+  - image: "/src/images/annie_boothroyd_01.jpg"
+    title: Untitled 1, Silver gelatine print, Loch Lomond - Scotland, 2018
 
 ---
