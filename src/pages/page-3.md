@@ -176,5 +176,12 @@ blocks:
     title: Discharge, Digital, Iceland, March 2013
   name: Louise Emslie
   website: http://www.louiseemslie.com
+- template: cluster
+  component: cluster
+  name: Judith Parrott
+  website: http://www.judithparrott.com
+  gallery:
+  - image: "/src/images/sea-this_judithparrott.jpg"
+    title: Sea This, Digital, Isle of Butt, May 2020
 
 ---
