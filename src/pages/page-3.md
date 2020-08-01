@@ -21,7 +21,7 @@ blocks:
   website: http://cheehontan.blogspot.com
   gallery:
   - image: "/src/images/tan-chee-hon-white-dune.jpg"
-    title: ''
+    title: White Dune, Digital SLR, Pantai Cantik - Malacca, March 2020
   - image: "/src/images/tan-chee-hon-roots-of-the-sea.jpg"
     title: ''
   - image: "/src/images/tan-chee-hon-broken-ship.jpg"
