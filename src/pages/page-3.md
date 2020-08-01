@@ -103,5 +103,15 @@ blocks:
     title: 'Islands: sea and land: from sea to sea: West and east Coasts: Machair
       and Peatland, Analogue,  Uibhist a’ Tuath / North Uist, na h-Eileanan Siar /
       Outer Hebrides, 2010'
+- template: cluster
+  component: cluster
+  name: Nils Aksnes
+  website: https://www.instagram.com/nils_aksnes/
+  gallery:
+  - image: "/src/images/young-titan.jpg"
+    title: Young Titan, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll
+      - Scotland, June/July 2019
+  - image: "/src/images/the-swimmer.jpg"
+    title: ''
 
 ---
