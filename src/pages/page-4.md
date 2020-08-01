@@ -313,6 +313,8 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/michael-faint-salvage-bags.jpg"
+    title: Salvage Bags, Digital, Gasaigh Island - Loch Boisdale, February 2020
   - image: "/src/images/michael-faint-storage-bin.jpg"
     title: Storage Bin, Digital, Gasaigh Island - Loch Boisdale, February 2020
   name: Michael Faint
