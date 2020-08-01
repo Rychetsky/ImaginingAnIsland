@@ -13,10 +13,14 @@ const GlobalStyle = createGlobalStyle`
   body {
     ${tw`bg-white dark:bg-gray-900 dark:text-white`}
   }
+
+  a {
+    ${tw`transition-colors duration-200 ease-in-out`}
+  }
 `
 
 const Wrapper = styled.div`
-  ${tw``}
+  ${tw`px-4 lg:px-16`}
 `
 
 
@@ -52,8 +56,8 @@ const Layout = ({ children }) => (
         <Wrapper>
           <Header siteTitle={data.site.siteMetadata.title} />
           {children}
-          <Footer content={data.site.siteMetadata.footer} />
         </Wrapper>
+        <Footer content={data.site.siteMetadata.footer} />
       </>
     )}
   />
