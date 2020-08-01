@@ -275,7 +275,7 @@ blocks:
   gallery:
   - image: "/src/images/image-2.jpg"
     title: All My Friends Are Goats, Digital, Carradale - Kintyre, March 2020
-  name: ''
-  website: ''
+  name: Amy Grogan
+  website: mailto:amykimgrogan@gmail.com
 
 ---
