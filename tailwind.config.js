@@ -14,7 +14,7 @@ module.exports = {
       }
     },
     fontFamily: {
-      'sans': ['bebas-neue-pro','-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
+      'sans': ['proxima-nova','-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
       'serif': ['tasman','Georgia', 'Cambria'],
     },
     minHeight: {
