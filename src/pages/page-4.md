@@ -65,5 +65,12 @@ blocks:
     title: The Seagull (the ferry from Mull to Iona), Colour Negative Medium Format
       made with Vintage Kershaw Folding Camera, Little Loch Broom - Dundonnell, 2000
   website: ''
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/laig-bay.JPG"
+    title: Laig Bay Light Leak, Analogue LOMO Compact Automat, Eigg, July 2017
+  name: Andrew Lochhead
+  website: https://www.instagram.com/buildanddestroy/
 
 ---
