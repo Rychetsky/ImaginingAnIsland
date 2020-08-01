@@ -89,6 +89,9 @@ blocks:
   name: Patricia Macdonald in collaboration with Angus John Macdonald
   website: http://www.aerographica.org
   gallery:
+  - image: "/src/images/patricia-macdonald-iai-3-traigh-luskentyre-harris.jpg"
+    title: 'Islands: sea and land, analogueTràigh Losgaintir / Luskentyre, na Hearadh
+      / Harris, na h-Eileanan Siar / Outer Hebrides, 2010'
   - image: "/src/images/patricia-macdonald-iai-2-machair-moor-nuist.jpg"
     title: Machair and Peatland, Analogue,  Uibhist a’ Tuath / North Uist, na h-Eileanan
       Siar / Outer Hebrides, 2010
