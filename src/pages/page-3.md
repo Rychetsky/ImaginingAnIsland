@@ -29,7 +29,7 @@ blocks:
   - image: "/src/images/tan-chee-hon-rustic-life.jpg"
     title: Rustic Life, Digital SLR, Kampung Jambu Bongkok - Malaysia, May 2019
   - image: "/src/images/tan-chee-hon-wasteland.jpg"
-    title: ''
+    title: Wasteland, Digital SLR, Parit Hailam- Malaysia, May 2019
   - image: "/src/images/tan-chee-hon-pillars.jpg"
     title: ''
   - image: "/src/images/tan-chee-hon-nostalgia-jpg.jpg"
