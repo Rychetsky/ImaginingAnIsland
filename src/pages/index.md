@@ -305,5 +305,12 @@ blocks:
   - image: "/src/images/1.JPG"
     title: Luminosity (Bottom of a bottle found at sea acts as a natural lens), Digital,
       Berneray, August 2019
+- template: cluster
+  component: cluster
+  name: Fiona MacIsaac
+  gallery:
+  - image: "/src/images/airidh3.jpg"
+    title: " Àirigh Nighean Ailein III, Digital, Uibhist a Tuath (North Uist), 2020"
+  website: ''
 
 ---
