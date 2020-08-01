@@ -188,6 +188,9 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/tessa-bunney-06-dscf2864cc.jpg"
+    title: Haaf netting for salmon and sea trout, Digital, Sunderland Point - Lancashire,
+      2018
   - image: "/src/images/tessa-bunney-07-dscf6965cc.jpg"
     title: Fishing for Whitebait and Spats, Digital, Sunderland Point Lancashire,
       March 2019
