@@ -307,8 +307,8 @@ blocks:
   component: cluster
   gallery:
   - image: "/src/images/reality-2.jpg"
-    title: Reality 1, Digital, Aultbea/Mellon Charles, Loch Ewe, August 2014
-  name: ''
+    title: Reality 2, Digital, Aultbea/Mellon Charles, Loch Ewe, August 2014
+  name: Adrian Hollister
   website: ''
 
 ---
