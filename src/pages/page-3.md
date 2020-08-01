@@ -145,6 +145,10 @@ blocks:
   name: Mark Adams
   website: https://www.markadamsimages.com
   gallery:
+  - image: "/src/images/markadams_diptych_3-4.jpg"
+    title: 'Coastal Defence, South Beach, Blyth - Northumberland, 2016 // Beachfront,
+      Roker - Sunderland, 2015, both Lambda Print from scanned 6x9 negative, from
+      the series ‘Outlook’ '
   - image: "/src/images/markadams_diptych_5-6.jpg"
     title: 'Traffic Island, Seaton Sluice, Northumberland, 2016 // Beachfront, Whitley
       Bay, North Tyneside, 2016, both Lambda Print from scanned 6x6 negative, from
