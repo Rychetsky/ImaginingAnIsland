@@ -25,7 +25,7 @@ blocks:
   - image: "/src/images/tan-chee-hon-roots-of-the-sea.jpg"
     title: Roots of the Sea, Batu Laut, Malaysia, June 2020
   - image: "/src/images/tan-chee-hon-broken-ship.jpg"
-    title: ''
+    title: Broken Ship, Digital SLR, Kampung Jambu Bongkok - Malaysia, May 2019
   - image: "/src/images/tan-chee-hon-rustic-life.jpg"
     title: ''
   - image: "/src/images/tan-chee-hon-wasteland.jpg"
