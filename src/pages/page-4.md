@@ -293,5 +293,12 @@ blocks:
     title: Strand, Vallay tidal island - North Uist
   - image: "/src/images/fireplace.jpg"
     title: Fireplace, Vallay tidal island - North Uist
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/john-d-angerson-english_journey_053.jpg"
+    title: " The Old New Inn and Model Village, Rissington Road - Cotswolds"
+  name: ''
+  website: ''
 
 ---
