@@ -186,6 +186,9 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/wholeapril6_1.jpg"
+    title: Memory Island, Virtual world built of the memories of people with neurological
+      conditions, Digital, Camden Arts Centre - London, 2004
   - image: "/src/images/islandcliff.jpg"
     title: Untitled, Digital / found objects, Norwich, 2020
   name: ''
