@@ -8,7 +8,7 @@ blocks:
   website: 'https://taradrummie.com/ '
   gallery:
   - image: "/src/images/3-marine-debris-traigh-iar.jpg"
-    title: ''
+    title: Marine Debris, 120mm film, Tragic Iar - Uibhist a Tuath, 2020
   - image: "/src/images/5-ewes-and-lambs-greinetobht.jpg"
     title: Ewes and Lambs, 120mm film, Greinetobht - Uibhist a Tuath, 2020
   - image: "/src/images/7-sculpted-by-wind-traigh-iar.jpg"
