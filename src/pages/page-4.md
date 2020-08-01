@@ -86,5 +86,14 @@ blocks:
     title: Home, Digital, Leigh-on-Sea, June 2019
   name: Gemma Louise Shaw
   website: 'https://www.gemmalouiseshaw.com '
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/gaelle-brunet-04_it_only_takes_one_set_of_footprints_1_iceland_2017_digital.jpg"
+    title: It Only Takes One Set of Footprints II, Digital, Hverir - Iceland, 2017
+  - image: "/src/images/gaelle-brunet-05_it_only_takes_one_set_of_footprints_2_iceland_2017_digital.jpg"
+    title: It Only Takes One Set of Footprints I, Digital, Hverir - Iceland, 2017
+  name: Gaelle Brunet
+  website: http://www.gaellebrunet.com
 
 ---
