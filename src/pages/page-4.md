@@ -126,6 +126,10 @@ blocks:
   name: Ricardo General
   website: https://www.instagram.com/ricardo.general.n
   gallery:
+  - image: "/src/images/ricardogeneral3.jpg"
+    title: Wallmapu (series) 3, Digital, región de araucanía - Chile, July 2018
+  - image: "/src/images/ricardogeneral5.jpg"
+    title: Wallmapu (series) 5, Digital, región de araucanía - Chile, July 2018
   - image: "/src/images/ricardogeneral1.jpg"
     title: Wallmapu (series) 1, Digital, región de araucanía - Chile, July 2018
 
