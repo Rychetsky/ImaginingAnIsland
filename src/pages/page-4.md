@@ -267,6 +267,8 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/coral-smith-knipoch-2.jpg"
+    title: Knipoch 2, 35mm Analogue, Knipoch, July 2017
   - image: "/src/images/coral-smith-knipoch-7.jpg"
     title: Knipoch 7, 35mm Analogue, Knipoch, July 2017
   - image: "/src/images/coral-smith-knipoch-6.jpg"
