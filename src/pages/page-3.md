@@ -140,5 +140,13 @@ blocks:
     title: Ayre, Digital collage from digital and analogue photographs, 2019
   - image: "/src/images/lachowicz_banks-broo.jpg"
     title: Banks Broo, Digital collage from digital and analogue photographs, 2019
+- template: cluster
+  component: cluster
+  name: Mark Adams
+  website: https://www.markadamsimages.com
+  gallery:
+  - image: "/src/images/markadams_diptych_1-2.jpg"
+    title: 'Embankment I & II from the series ‘Outlook’, Lambda Print from scanned
+      6x6 negative, Blyth - Northumberland,  2018 '
 
 ---
