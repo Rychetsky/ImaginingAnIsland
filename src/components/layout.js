@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-import styled, { createGlobalStyle } from "styled-components"
+import styled, { css, createGlobalStyle } from "styled-components"
 import tw from 'twin.macro'
 
 import Header from './header'
@@ -56,7 +56,7 @@ const Layout = ({ children }) => (
         <Wrapper>
           <Header siteTitle={data.site.siteMetadata.title} />
           {children}
-          <Footer />
+          <Footer content={data.site.siteMetadata.footer} />
         </Wrapper>
       </>
     )}
