@@ -1,58 +1,34 @@
 import React, { Component } from 'react'
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+import styled from "styled-components"
+import tw from 'twin.macro'
 
 import { graphql, StaticQuery } from 'gatsby'
 
+const SiteTitle = styled.h1`
+  ${tw`block mb-2 font-serif text-3xl italic font-bold text-blue-600 md:text-3xl dark:text-white`}
+`
+
+const NavItem = styled.span`
+  ${tw`mr-4 text-lg`}
+`
+
 class Navbar extends Component {
-  state = {
-    navbarOpen: false,
-  }
-
-  toggleNavState = () => {
-    this.setState({
-      navbarOpen: !this.state.navbarOpen,
-    })
-  }
-
   render() {
     return (
       <nav
-        className="navbar is-primary main-navigation"
         role="navigation"
         aria-label="main navigation"
       >
-        <div className="navbar-brand">
-          <AniLink fade
-            className="navbar-item"
-            to="/"
-          >
+
+        <SiteTitle>
+          <AniLink fade to="/">
             {this.props.siteTitle}
           </AniLink>
+        </SiteTitle>
 
-          <span
-            onClick={this.toggleNavState}
-            role="button"
-            className={
-              this.state.navbarOpen
-                ? 'navbar-burger burger is-active'
-                : 'navbar-burger burger'
-            }
-            aria-label="menu"
-            aria-expanded="false"
-            data-target="mainMenu"
-          >
-            <span aria-hidden="true" />
-            <span aria-hidden="true" />
-            <span aria-hidden="true" />
-          </span>
-        </div>
-        <div
-          id="mainMenu"
-          className={
-            this.state.navbarOpen ? 'navbar-menu is-active' : 'navbar-menu'
-          }
-        >
-          <div className="navbar-start">
+        <div>
+          <div>
             <StaticQuery
               query={graphql`
                 {
@@ -76,7 +52,9 @@ class Navbar extends Component {
                       to={edge.node.url}
                       className="navbar-item"
                     >
-                      {edge.node.title}
+                      <NavItem>
+                        {edge.node.title}
+                      </NavItem>
                     </AniLink>
                   ) : (
                     <a
@@ -86,7 +64,9 @@ class Navbar extends Component {
                       rel="noopener noreferrer"
                       href={edge.node.url}
                     >
-                      {edge.node.title}
+                      <NavItem>
+                        {edge.node.title}
+                      </NavItem>
                     </a>
                   )
                 })
