@@ -47,6 +47,8 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/06-bojanf-islands-fogo.jpg"
+    title: Fogo Island Dog, Analogue, Fogo Island, Newfoundland - Canada, 2012
   - image: "/src/images/05-bojanf-islands-changeislands.jpg"
     title: Edith's Kitchen, Analogue, Change Islands, Newfoundland - Canada, 2009
   - image: "/src/images/02-bf-islands-vis.jpg"
