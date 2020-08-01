@@ -253,11 +253,13 @@ blocks:
   name: Annie Boothroyd
   website: http://www.annieboothroyd.com
   gallery:
-  - image: "/src/images/annie_boothroyd_06.jpg"
-    title: Untitled 6, Silver gelatine print, Inveraray - Scotland, 2019
-  - image: "/src/images/annie_boothroyd_03.jpg"
-    title: Untitled 3, Silver gelatine print, Albuquerque - New Mexico, 2019
   - image: "/src/images/annie_boothroyd_01.jpg"
     title: Untitled 1, Silver gelatine print, Loch Lomond - Scotland, 2018
+  - image: "/src/images/annie_boothroyd_03.jpg"
+    title: Untitled 3, Silver gelatine print, Albuquerque - New Mexico, 2019
+  - image: "/src/images/annie_boothroyd_05.jpg"
+    title: Untitled 5, Silver gelatine print, Les Houches - Chamonix - France, 2020
+  - image: "/src/images/annie_boothroyd_06.jpg"
+    title: Untitled 6, Silver gelatine print, Inveraray - Scotland, 2019
 
 ---
