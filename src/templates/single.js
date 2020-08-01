@@ -2,8 +2,42 @@ import React from 'react'
 import Helmet from 'react-helmet'
 // eslint-disable-next-line
 import { Link, graphql } from 'gatsby'
+import styled from "styled-components"
+import tw from 'twin.macro'
 
 import Layout from '../components/layout'
+
+const Article = styled.article`
+  ${tw`max-w-4xl py-20`}
+`
+
+const Headline = styled.h1`
+  ${tw`mb-8 text-xl font-medium text-blue-600 md:text-2xl lg:text-3xl dark:text-gray-200`}
+`
+
+const BodyText = styled.main`
+  ${tw`text-lg leading-relaxed`}
+
+  & h2 {
+    ${tw`mb-2 text-lg font-medium`}
+  }
+
+  & h3 {
+    ${tw`mb-2 text-lg`}
+  }
+
+  & p {
+    ${tw`mb-6`}
+  }
+
+  & a {
+    ${tw`font-medium border-b border-blue-600 dark:border-gray-500 hover:text-blue-600 dark:hover:text-gray-500 `}
+  }
+
+  & strong {
+    ${tw`font-medium`}
+  }
+`
 
 class SingleTemplate extends React.Component {
   render() {
@@ -18,23 +52,21 @@ class SingleTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
-        <section className="section page-content">
-          <div className="container article-header has-text-centered">
-            <h1 className="title is-1">{post.frontmatter.title}</h1>
+        <Article>
+          <header>
+            <Headline>{post.frontmatter.title}</Headline>
             {post.frontmatter.date && (
               <em className="is-size-6 has-text-grey">
                 {post.frontmatter.date}
               </em>
             )}
-            <hr />
-          </div>
-          <main className="container content-container">
+          </header>
+          <BodyText>
             <div
-              className="content"
               dangerouslySetInnerHTML={{ __html: post.html }}
             />
-          </main>
-        </section>
+          </BodyText>
+        </Article>
       </Layout>
     )
   }
