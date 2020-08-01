@@ -240,8 +240,13 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/josie-barnes-those-who-came-before.jpg"
+    title: " Those Who Came Before, Digital, Pett Level to Hastings at low tide, May
+      2020"
+  - image: "/src/images/josie-barnes-cliff-erosion.jpg"
+    title: Cliff Erosion, Digital, Pett Level to Hastings at low tide, May 2020
   - image: "/src/images/josie-barnes-dumped.jpg"
-    title: Dumped, Digital, Pest Level to Hastings, May 2020
+    title: Dumped, Digital, Pett Level to Hastings at low tide, May 2020
   name: Josie Barnes
   website: https://www.instagram.com/josiebarnesphotography/?hl=en
 
