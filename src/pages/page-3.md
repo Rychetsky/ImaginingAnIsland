@@ -230,5 +230,16 @@ blocks:
   - image: "/src/images/makingspacecy-december2019.jpg"
     title: Making Space, Digital, North Uist, December 2019
   website: ''
+- template: cluster
+  component: cluster
+  name: Brittonie Fletcher
+  website: 'http://brittoniefletcher.com '
+  gallery:
+  - image: "/src/images/brittonie-grasses-north-then-west.jpg"
+    title: Grasses; North then West, Silver gelatine print, Orkney, 2018
+  - image: "/src/images/brittoniefletcher_the-disc.jpg"
+    title: Erratics series, Analogue C-type, Orkney, 2018
+  - image: "/src/images/brittoniefletcher-rock-silvergelatin-2019.jpg"
+    title: Pink Rock in Sandstone, Chemigram, Orkney, 2018
 
 ---
