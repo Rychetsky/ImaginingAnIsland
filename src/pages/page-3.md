@@ -89,6 +89,9 @@ blocks:
   name: Patricia Macdonald in collaboration with Angus John Macdonald
   website: http://www.aerographica.org
   gallery:
+  - image: "/src/images/patricia-macdonald-iai-5-lscolpaig-nuist.jpg"
+    title: 'Islands: sea and land: rising seas, Analogue, Machair lochan, Loch Scolpaig,
+      Uibhist a’ Tuath / North Uist, na h-Eileanan Siar / Outer Hebrides, 1990-91'
   - image: "/src/images/patricia-macdonald-iai-3-traigh-luskentyre-harris.jpg"
     title: 'Islands: sea and land, analogueTràigh Losgaintir / Luskentyre, na Hearadh
       / Harris, na h-Eileanan Siar / Outer Hebrides, 2010'
