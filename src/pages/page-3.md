@@ -67,5 +67,13 @@ blocks:
   - image: "/src/images/rachel_wallace_innerspace_flow07.jpg"
     title: Inner Space 7, Medium Format/Digital/Archive Photograph, Chiltern Hills
       - Buckinghamshire, 2018
+- template: cluster
+  component: cluster
+  name: Rachel Fermi
+  website: http://rachelfermi.net/
+  gallery:
+  - image: "/src/images/untitled_04-rachel-fermi.jpg"
+    title: Untitled (grass), 360° Stitched Digital Photograph, Essich Woods - near
+      Inverness
 
 ---
