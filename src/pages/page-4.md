@@ -121,5 +121,12 @@ blocks:
     title: Fledgling, Analogue, Isle of Mull, May 2020
   name: Fiona Steele
   website: https://instagram.com/fionasteel_art
+- template: cluster
+  component: cluster
+  name: Ricardo General
+  website: https://www.instagram.com/ricardo.general.n
+  gallery:
+  - image: "/src/images/ricardogeneral1.jpg"
+    title: Wallmapu (series) 1, Digital, región de araucanía - Chile, July 2018
 
 ---
