@@ -19,7 +19,7 @@ const ClusterSection = styled.section`
 `
 
 const GalleryInner = styled.ul`
-  ${tw`flex flex-wrap justify-center w-full `}
+  ${tw`flex flex-wrap justify-center w-full -mx-2`}
 `
 
 const Gallery = styled.div`
@@ -30,9 +30,10 @@ const Gallery = styled.div`
   }
 
   & li div {
-    ${tw`w-full h-full m-2 cursor-pointer`}
+    ${tw`w-full h-full cursor-pointer`}
     max-height: 13rem;
     max-width: 13rem;
+    
   }
 
   & .gatsby-image-wrapper {
@@ -139,16 +140,14 @@ const Cluster = ({ block }) => (
             {block.gallery.map((gallery, i) => {
               return (
                 <li key={i}>
-                  <div>
-                    <Img
-                      key={i}
-                      alt={gallery.title}
-                      objectFit='contain'
-                      fluid={
-                        gallery.image.childImageSharp.fluid
-                      }
-                    />
-                  </div>
+                  <Img
+                    key={i}
+                    alt={gallery.title}
+                    objectFit='contain'
+                    fluid={
+                      gallery.image.childImageSharp.fluid
+                    }
+                  />
                 </li>
               )
             })}
