@@ -110,5 +110,14 @@ blocks:
     title: Maria A Heygum, Digital, Vestmanna - Faroe Islands 2016
   - image: "/src/images/01-alex-boyd-isle-of-lewis-digital-prof-murdo-macdonald-2017.jpg"
     title: Professor Murdo Macdonald, Digital, Isle of Lewis, 2017
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/fiona-steel-a-moment-you-could-only-have-by-yourself-005.jpg"
+    title: A Moment You Could Only Have By Yourself, Analogue, Isle of Mull, 2020
+  - image: "/src/images/fiona-steel-fledgling-002.jpg"
+    title: Fledgling, Analogue, Isle of Mull, 2020
+  name: ''
+  website: ''
 
 ---
