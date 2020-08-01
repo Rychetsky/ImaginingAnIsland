@@ -44,5 +44,14 @@ blocks:
     title: One Body, One World Part 2., Chongqing City, 2019
   - image: "/src/images/one-body-one-world-part-1-ytre-norskoya-georgia-rose-murray-2018.jpg"
     title: One Body, One World Part 1., Ytre Norskoya, 2018
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/02-bf-islands-vis.jpg"
+    title: Stone Steps, Analogue, Island of Vis - Croatia, 2012
+  - image: ''
+    title: ''
+  name: Bojan Furst
+  website: http://bojanfurstphotography.com
 
 ---
