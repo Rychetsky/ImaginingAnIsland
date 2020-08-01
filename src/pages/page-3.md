@@ -266,7 +266,9 @@ blocks:
   name: Anne Krinsky
   website: https://www.annekrinsky.com
   gallery:
+  - image: "/src/images/3-anne-krinsky_erosion-control-two-tree-island.jpg"
+    title: Erosion Control, Two Tree Island, Leigh-on-sea - UK, 2018
   - image: "/src/images/5-anne-krinsky_yang-ming-two-tree-island.jpg"
-    title: Yang Ming, Two Tree Island, Leigh-on-sea - Essex, 2018
+    title: Yang Ming, Two Tree Island, Leigh-on-sea - Essex - UK, 2018
 
 ---
