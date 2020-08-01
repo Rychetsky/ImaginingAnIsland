@@ -223,5 +223,12 @@ blocks:
     title: Swallows in the Cloister, Digital, Inchcolm, 2017
   name: Catriona Patience
   website: https://www.facebook.com/catrionapatiencecreations
+- template: cluster
+  component: cluster
+  name: Catherine Yeatman
+  gallery:
+  - image: "/src/images/makingspacecy-december2019.jpg"
+    title: Making Space, Digital, North Uist, December 2019
+  website: ''
 
 ---
