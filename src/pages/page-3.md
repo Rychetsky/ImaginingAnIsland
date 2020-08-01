@@ -27,7 +27,7 @@ blocks:
   - image: "/src/images/tan-chee-hon-broken-ship.jpg"
     title: Broken Ship, Digital SLR, Kampung Jambu Bongkok - Malaysia, May 2019
   - image: "/src/images/tan-chee-hon-rustic-life.jpg"
-    title: ''
+    title: Rustic Life, Digital SLR, Kampung Jambu Bongkok - Malaysia, May 2019
   - image: "/src/images/tan-chee-hon-wasteland.jpg"
     title: ''
   - image: "/src/images/tan-chee-hon-pillars.jpg"
