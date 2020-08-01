@@ -9,14 +9,21 @@ const SiteTitle = styled.h1`
   ${tw`block mb-2 font-serif text-3xl italic font-bold text-blue-600 md:text-3xl dark:text-white`}
 `
 
-const NavItem = styled.span`
-  ${tw`mr-4 text-lg`}
+const Navigation = styled.nav`
+
+  & li {
+    ${tw`inline-block pr-4`}
+  }
+
+  & .active {
+    ${tw`border-b-2 border-blue-600 dark:border-gray-300`}
+  }
 `
 
 class Navbar extends Component {
   render() {
     return (
-      <nav
+      <Navigation
         role="navigation"
         aria-label="main navigation"
       >
@@ -27,54 +34,49 @@ class Navbar extends Component {
           </AniLink>
         </SiteTitle>
 
-        <div>
-          <div>
-            <StaticQuery
-              query={graphql`
-                {
-                  allMainMenuJson {
-                    edges {
-                      node {
-                        id
-                        type
-                        url
-                        title
-                      }
+        <ul>
+          <StaticQuery
+            query={graphql`
+              {
+                allMainMenuJson {
+                  edges {
+                    node {
+                      id
+                      type
+                      url
+                      title
                     }
                   }
                 }
-              `}
-              render={data =>
-                data.allMainMenuJson.edges.map(edge => {
-                  return edge.node.type === 'internal' ? (
+              }
+            `}
+            render={data =>
+              data.allMainMenuJson.edges.map(edge => {
+                return edge.node.type === 'internal' ? (
+                  <li key={edge.node.id}>
                     <AniLink fade
-                      key={edge.node.id}
+                      activeClassName="active"
                       to={edge.node.url}
-                      className="navbar-item"
                     >
-                      <NavItem>
-                        {edge.node.title}
-                      </NavItem>
+                      {edge.node.title}
                     </AniLink>
+                  </li>
                   ) : (
+                    <li key={edge.node.id}>
                     <a
-                      key={edge.node.id}
-                      className="navbar-item"
                       target="_blank"
                       rel="noopener noreferrer"
                       href={edge.node.url}
                     >
-                      <NavItem>
-                        {edge.node.title}
-                      </NavItem>
+                      {edge.node.title}
                     </a>
-                  )
-                })
-              }
-            />
-          </div>
-        </div>
-      </nav>
+                  </li>
+                )
+              })
+            }
+          />
+        </ul>
+      </Navigation>
     )
   }
 }
