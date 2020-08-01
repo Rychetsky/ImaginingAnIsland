@@ -322,10 +322,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/lucy-telford-img052-001.jpg"
+    title: Aberdeenshire Gothic, Wet Plate Collodion Tintype, Aberdeenshire, 2013
   - image: "/src/images/lucy-telford-img069.jpg"
     title: Growing Up (Story of the River series), Analogue Rand Diana camera, Lumphanan
       - Aberdeenshire, March 2017
-  name: ''
-  website: ''
+  name: Lucy Telford
+  website: http://www.lucytelford.com
 
 ---
