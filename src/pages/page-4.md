@@ -220,5 +220,15 @@ blocks:
     title: Inishturk (series) 4, Analogue, Inishturk - Ireland, Nov 2019-Feb 2020
   name: Tayla Nebesky
   website: http://taylanebesky.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/michael-petillo-loughderg_mpetillo_03.jpg"
+    title: Stone Punctured Feet, Digital Full-frame, Lough Derg Island - Republic
+      of Ireland, August 2017
+  - image: ''
+    title: ''
+  name: ''
+  website: ''
 
 ---
