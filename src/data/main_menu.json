@@ -1,22 +1,27 @@
 [
   {
     "type": "internal",
+    "url": "/open-call",
+    "title": "Open Call"
+  },
+  {
+    "type": "internal",
+    "url": "/symposium",
+    "title": "Symposium"
+  },
+  {
+    "type": "internal",
     "url": "/",
     "title": "Room 1"
   },
   {
     "type": "internal",
     "url": "/page-2",
-    "title": "Page 2"
+    "title": "Room 2"
   },
   {
     "type": "internal",
     "url": "/page-3",
     "title": "Page 3"
-  },
-  {
-    "type": "internal",
-    "url": "/page-4",
-    "title": "Page 4"
   }
 ]
