@@ -294,5 +294,13 @@ blocks:
     title: Five Boat Making Tools, Digital, Isle of Skype, 2020
   name: 'Caroline Dear '
   website: https://www.carolinedear.co.uk
+- template: cluster
+  component: cluster
+  name: Flora deBechi
+  website: " https://cargocollective.com/floradebechi "
+  gallery:
+  - image: "/src/images/1.JPG"
+    title: Luminosity (Bottom of a bottle found at sea acts as a natural lens), Digital,
+      Berneray, August 2019
 
 ---
