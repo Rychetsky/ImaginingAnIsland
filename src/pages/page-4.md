@@ -251,5 +251,16 @@ blocks:
     title: Dumped, Digital, Pett Level to Hastings at low tide, May 2020
   name: Josie Barnes
   website: https://www.instagram.com/josiebarnesphotography/?hl=en
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/amy-robinson-img_1374.jpg"
+    title: Untitled 6, Digital, North Atlantic off Vágar - Faroe Islands, Late July
+      2019
+  - image: "/src/images/amy-robinson-img_1435.jpg"
+    title: Untitled 7, Digital, North Atlantic off Vágar - Faroe Islands, Late July
+      2019
+  name: Amy Robinson
+  website: ''
 
 ---
