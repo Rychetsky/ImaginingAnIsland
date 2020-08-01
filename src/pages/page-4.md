@@ -171,6 +171,8 @@ blocks:
   name: René Jansen
   website: https://www.instagram.com/rcjjansen/
   gallery:
+  - image: "/src/images/2_scolpaig-dunes.jpg"
+    title: Scolpaig Dunes, Digital, North Uist
   - image: "/src/images/1_bay-villa.jpg"
     title: Bay Villa, Digital, North Uist
   - image: "/src/images/4_traigh-lingeigh_.jpg"
