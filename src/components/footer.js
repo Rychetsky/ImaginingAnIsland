@@ -6,7 +6,7 @@ const SiteFooter = styled.footer`
   ${tw`p-4 py-8 mt-8 leading-loose text-center bg-gray-100 lg:px-16 dark:bg-gray-800 dark:text-white`}
 
   & a {
-    ${tw`font-medium`}
+    ${tw`font-medium hover:text-blue-600 dark:hover:text-gray-500 `}
   }
 `
 
