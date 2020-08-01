@@ -223,6 +223,9 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/michael-petillo-loughderg_mpetillo_04.jpg"
+    title: Re-centering, Digital Full-frame, Lough Derg Island - Republic of Ireland,
+      August 2017
   - image: "/src/images/michael-petillo-loughderg_mpetillo_05.jpg"
     title: Penitential Beds, Digital Full-frame, Lough Derg Island - Republic of Ireland,
       August 2017
