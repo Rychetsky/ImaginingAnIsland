@@ -41,5 +41,15 @@ blocks:
   gallery:
   - image: "/src/images/sylwia-migdal-img-1.jpg"
     title: Falling Slowly, Digital, Myross Woods, West Cork - Ireland, March 2020
+- template: cluster
+  component: cluster
+  name: Rachel Wallace
+  website: http://www.racheljwallace.com
+  gallery:
+  - image: "/src/images/rachel_wallace_innerspace_flow06.jpg"
+    title: Inner Space 6, Medium Format/Digital/Archive Photograph, Chiltern Hills
+      - Buckinghamshire, 2018
+  - image: "/src/images/rachel_wallace_innerspace_flow07.jpg"
+    title: ''
 
 ---
