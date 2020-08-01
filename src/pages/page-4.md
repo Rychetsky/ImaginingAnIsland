@@ -310,5 +310,12 @@ blocks:
     title: Reality 2, Digital, Aultbea/Mellon Charles, Loch Ewe, August 2014
   name: Adrian Hollister
   website: ''
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/michael-faint-storage-bin.jpg"
+    title: Storage Bin
+  name: Michael Faint
+  website: https://www.ansolasoir.com/
 
 ---
