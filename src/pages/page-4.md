@@ -140,5 +140,16 @@ blocks:
     title: Wallmapu (series) 6, Digital, región de araucanía - Chile, July 2018
   - image: "/src/images/ricardogeneral7.jpg"
     title: Wallmapu (series) 7, Digital, región de araucanía - Chile, July 2018
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-1.jpg"
+    title: Isla Navarino (series) 1, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-7.jpg"
+    title: Isla Navarino (series) 7, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  name: Sebastián Thomas
+  website: http://www.sebastianthomas.cl
 
 ---
