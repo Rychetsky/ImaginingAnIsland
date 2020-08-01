@@ -314,7 +314,7 @@ blocks:
   component: cluster
   gallery:
   - image: "/src/images/michael-faint-storage-bin.jpg"
-    title: Storage Bin
+    title: Storage Bin, Digital, Gasaigh Island - Loch Boisdale, February 2020
   name: Michael Faint
   website: https://www.ansolasoir.com/
 
