@@ -11,7 +11,7 @@ const Name = styled.h2`
 `
 
 const Website = styled.a`
-  ${tw`inline-block w-3 text-blue-600 fill-current dark:text-gray-300`}
+  ${tw`inline-block w-3 text-blue-600 fill-current dark:text-gray-300 hover:text-black dark:hover:text-gray-500`}
 `
 
 const ClusterSection = styled.section`
@@ -23,7 +23,7 @@ const GalleryInner = styled.ul`
 `
 
 const Gallery = styled.div`
-  ${tw`flex flex-col w-auto px-4 py-20 lg:px-16 min-h-cluster`}
+  ${tw`flex flex-col w-auto py-20 -mx-2 min-h-cluster`}
 
   & li {
     ${tw`relative flex items-start justify-center w-56 h-56 m-2 bg-gray-100 dark:bg-gray-800`}
