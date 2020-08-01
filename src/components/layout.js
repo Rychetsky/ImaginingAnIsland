@@ -2,14 +2,12 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-import styled, { css, createGlobalStyle } from "styled-components"
+import styled, { createGlobalStyle } from "styled-components"
 import tw from 'twin.macro'
 
 import Header from './header'
 import Footer from './footer'
 import '../css/main.css'
-
-import favicon from './favicon.png'
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -30,6 +28,8 @@ const Layout = ({ children }) => (
           siteMetadata {
             title
             footer
+            description
+            image
           }
         }
       }
@@ -39,15 +39,11 @@ const Layout = ({ children }) => (
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[
-            { name: 'description', content: 'Sample' },
-            { name: 'keywords', content: 'sample, something' },
-          ]}
-          link={[
-            {
-              rel: 'shortcut icon',
-              type: 'image/png',
-              href: `${favicon}`,
-            },
+            { name: 'description', content: `${data.site.siteMetadata.description}` },
+            { name: 'author', content: `${data.site.siteMetadata.author}` },
+            { name: 'image', content: `${data.site.siteMetadata.image}` },
+            { name: 'og:image', content: `${data.site.siteMetadata.image}` },
+            { name: 'og:description', content: `${data.site.siteMetadata.description}` },
           ]}
         >
           <html lang="en" />

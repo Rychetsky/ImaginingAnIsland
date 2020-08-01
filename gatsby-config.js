@@ -5,8 +5,10 @@ module.exports = {
   siteMetadata: {
     title: config.title,
     description: config.description,
+    author: config.author,
     footer: config.footer,
-    siteUrl: config.site_url
+    siteUrl: config.site_url,
+    image: `/socialmedia.jpg`
   },
   plugins: [
     {
@@ -47,25 +49,19 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-feed`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-manifest`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        name: config.title,
+        short_name: `iAi`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#0045F3`,
+        display: `minimal-ui`,
+        icon: `src/assets/favicon.svg`,
       },
     },
-    `gatsby-plugin-feed`,
-    // {
-    //   resolve: `gatsby-plugin-manifest`,
-    //   options: {
-    //     name: `Gatsby Starter Blog`,
-    //     short_name: `GatsbyJS`,
-    //     start_url: `/`,
-    //     background_color: `#ffffff`,
-    //     theme_color: `#663399`,
-    //     display: `minimal-ui`,
-    //     icon: `src/assets/gatsby-icon.png`,
-    //   },
-    // },
     {
       resolve: `gatsby-plugin-postcss`,
       options: {
