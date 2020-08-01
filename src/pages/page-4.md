@@ -358,5 +358,12 @@ blocks:
     title: Harris to Uist Ferry, HP5+ 35mm film, Outer Hebrides, July 2019
   - image: "/src/images/grant-anderson-7-imagining-an-island-submission-june-2020-grant-anderson-fullsize.jpg"
     title: Westford Inn, HP5+ 35mm film, Outer Hebrides, July 2019
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/supply-ship_keith-lloyd-davenport.jpg"
+    title: Supply Ship, Analogue, Peterhead, May 2017
+  name: Keith Lloyd Davenport
+  website: http://www.keithlloyddavenport.com
 
 ---
