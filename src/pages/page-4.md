@@ -171,19 +171,19 @@ blocks:
   name: René Jansen
   website: https://www.instagram.com/rcjjansen/
   gallery:
-  - image: "/src/images/7_lingeigh_.jpg"
-    title: Lingeigh, Digital, North Uist
-  - image: "/src/images/6_eilean-chirceboist.jpg"
-    title: Eileen Chirceboist, Digital, North Uist
-  - image: "/src/images/5_pabbay.jpg"
-    title: Pabbay, Digital, North Uist
-  - image: "/src/images/3_bial-a-chaolais.jpg"
-    title: Bial a' Chaolais, Digital, North Uist
-  - image: "/src/images/2_scolpaig-dunes.jpg"
-    title: Scolpaig Dunes, Digital, North Uist
   - image: "/src/images/1_bay-villa.jpg"
     title: Bay Villa, Digital, North Uist
+  - image: "/src/images/2_scolpaig-dunes.jpg"
+    title: Scolpaig Dunes, Digital, North Uist
+  - image: "/src/images/3_bial-a-chaolais.jpg"
+    title: Bial a' Chaolais, Digital, North Uist
   - image: "/src/images/4_traigh-lingeigh_.jpg"
     title: Tràigh Lingeigh, Digital, North Uist
+  - image: "/src/images/5_pabbay.jpg"
+    title: Pabbay, Digital, North Uist
+  - image: "/src/images/6_eilean-chirceboist.jpg"
+    title: Eileen Chirceboist, Digital, North Uist
+  - image: "/src/images/7_lingeigh_.jpg"
+    title: Lingeigh, Digital, North Uist
 
 ---
