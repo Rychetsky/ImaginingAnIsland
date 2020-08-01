@@ -23,7 +23,7 @@ blocks:
   - image: "/src/images/tan-chee-hon-white-dune.jpg"
     title: White Dune, Digital SLR, Pantai Cantik - Malacca, March 2020
   - image: "/src/images/tan-chee-hon-roots-of-the-sea.jpg"
-    title: Roots of the Sea, Batu Laut, Malaysia, June 2020
+    title: Roots of the Sea, Digital SLR, Batu Laut - Malaysia, June 2020
   - image: "/src/images/tan-chee-hon-broken-ship.jpg"
     title: Broken Ship, Digital SLR, Kampung Jambu Bongkok - Malaysia, May 2019
   - image: "/src/images/tan-chee-hon-rustic-life.jpg"
