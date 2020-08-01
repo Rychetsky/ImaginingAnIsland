@@ -284,5 +284,14 @@ blocks:
     title: Surrounded, Digital, Isle of Harris - Scotland, April 2019
   name: Sabrina Türschmann
   website: https://www.instagram.com/sabrina.tuerschmann/
+- template: cluster
+  component: cluster
+  name: Arun Sood
+  website: http://www.arunsood.com
+  gallery:
+  - image: "/src/images/strand.jpg"
+    title: Strand, Vallay tidal island - North Uist
+  - image: "/src/images/fireplace.jpg"
+    title: Fireplace, Vallay tidal island - North Uist
 
 ---
