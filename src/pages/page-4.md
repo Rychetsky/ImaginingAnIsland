@@ -338,5 +338,15 @@ blocks:
     title: The Giant's Bathtub, Tri-X 400 film, Isle of Harris, 2019
   name: Christoph Corves
   website: 'https://christophcorves.com/ '
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/6-lynne-washing-betty-s-hair-by-lucy-saggers.jpg"
+    title: Lynne Washing Betty's Hair, Digital, Ampleforth - North Yorkshire, December
+      2017
+  - image: ''
+    title: ''
+  name: ''
+  website: ''
 
 ---
