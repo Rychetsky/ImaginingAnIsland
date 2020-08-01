@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Imagining an Island
 
 ---
 Welcome to the _Imagining an Island_ Project. 
