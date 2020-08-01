@@ -270,5 +270,12 @@ blocks:
     title: Erosion Control, Two Tree Island, Leigh-on-sea - UK, 2018
   - image: "/src/images/5-anne-krinsky_yang-ming-two-tree-island.jpg"
     title: Yang Ming, Two Tree Island, Leigh-on-sea - Essex - UK, 2018
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/image-2.jpg"
+    title: All My Friends Are Goats, Digital, Carradale - Kintyre, March 2020
+  name: ''
+  website: ''
 
 ---
