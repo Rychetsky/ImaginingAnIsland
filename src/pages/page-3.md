@@ -34,5 +34,12 @@ blocks:
     title: Pillars, Digital SLR, Port Dickson - Malaysia, June 2019
   - image: "/src/images/tan-chee-hon-nostalgia-jpg.jpg"
     title: Nostalgia, Digital SLR, Port Dickson - Malaysia, June 2019
+- template: cluster
+  component: cluster
+  name: Sylwia Migdal
+  website: http://www.sylwiamigdal13.com
+  gallery:
+  - image: "/src/images/sylwia-migdal-img-1.jpg"
+    title: Falling Slowly, Digital, Myross Woods, West Cork - Ireland, March 2020
 
 ---
