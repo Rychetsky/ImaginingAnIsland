@@ -166,5 +166,14 @@ blocks:
       2019
   name: Sebastián Thomas
   website: http://www.sebastianthomas.cl
+- template: cluster
+  component: cluster
+  name: René Jansen
+  website: https://www.instagram.com/rcjjansen/
+  gallery:
+  - image: "/src/images/1_bay-villa.jpg"
+    title: Bay Villa, Digital, North Uist
+  - image: "/src/images/4_traigh-lingeigh_.jpg"
+    title: Tràigh Lingeigh, Digital, North Uist
 
 ---
