@@ -33,5 +33,16 @@ blocks:
     title: Strand, Vallay - North Uist
   name: Arun Sood
   website: www.arunsood.com
+- template: cluster
+  component: cluster
+  name: Georgia Rose Murray
+  website: www.georgiarosemurray.com
+  gallery:
+  - image: "/src/images/one-universe-adventdalen-sea-ice-georgia-rose-murray-2020.jpg"
+    title: One Universe, Ny Alesund, 2020
+  - image: "/src/images/one-body-one-world-part-2-chongqing-city-georgia-rose-murray-2019.jpg"
+    title: One Body, One World Part 2., Chongqing City, 2019
+  - image: "/src/images/one-body-one-world-part-1-ytre-norskoya-georgia-rose-murray-2018.jpg"
+    title: One Body, One World Part 1., Ytre Norskoya, 2018
 
 ---
