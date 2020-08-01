@@ -237,5 +237,12 @@ blocks:
       2017
   name: Micheal Petillo
   website: https://michelpetillo.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/josie-barnes-dumped.jpg"
+    title: Dumped, Digital, Pest Level to Hastings, May 2020
+  name: Josie Barnes
+  website: https://www.instagram.com/josiebarnesphotography/?hl=en
 
 ---
