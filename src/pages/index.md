@@ -299,6 +299,9 @@ blocks:
   name: Flora deBechi
   website: " https://cargocollective.com/floradebechi "
   gallery:
+  - image: "/src/images/2.JPG"
+    title: Ash Patch (Remains of seaweed burning), Digital, Sponish - North Uist,
+      August 2019
   - image: "/src/images/1.JPG"
     title: Luminosity (Bottom of a bottle found at sea acts as a natural lens), Digital,
       Berneray, August 2019
