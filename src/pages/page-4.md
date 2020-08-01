@@ -301,7 +301,7 @@ blocks:
   - image: "/src/images/john-d-angerson-english_journey_053.jpg"
     title: " The Old New Inn and Model Village (English Journey series), Rissington
       Road - Cotswolds"
-  name: ''
-  website: ''
+  name: John Angerson
+  website: www.johnangerson.com
 
 ---
