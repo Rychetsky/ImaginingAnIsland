@@ -193,5 +193,14 @@ blocks:
     title: Untitled, Digital / found objects, Norwich, 2020
   name: Jennie Pedley
   website: http://www.jenniepedley.co.uk
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/guide_with_rifle.jpg"
+    title: Guide With Rifle, Digital, Pyramiden - Svalbard, October 2019
+  - image: ''
+    title: ''
+  name: ''
+  website: ''
 
 ---
