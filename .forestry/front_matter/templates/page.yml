@@ -6,6 +6,6 @@ fields:
   name: title
   label: Title
 pages:
-- src/pages/home.md
+- src/pages/index.md
 - src/pages/open-call.md
 - src/pages/symposium.md

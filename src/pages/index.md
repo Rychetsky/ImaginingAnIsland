@@ -1,5 +1,7 @@
 ---
 title: Imagining an Island
+template: ''
+blocks: []
 
 ---
 Welcome to the _Imagining an Island_ Project. 
