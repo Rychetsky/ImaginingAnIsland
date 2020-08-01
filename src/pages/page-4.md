@@ -303,5 +303,12 @@ blocks:
       Road - Cotswolds"
   name: John Angerson
   website: www.johnangerson.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/reality-2.jpg"
+    title: Reality 1, Digital, Aultbea/Mellon Charles, Loch Ewe, August 2014
+  name: ''
+  website: ''
 
 ---
