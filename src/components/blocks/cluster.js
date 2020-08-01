@@ -4,13 +4,14 @@ import styled, { css } from "styled-components"
 import tw from 'twin.macro'
 import SimpleReactLightbox from "simple-react-lightbox";
 import { SRLWrapper } from "simple-react-lightbox";
+import WebsiteIcon from '../../svg/website.svg';
 
 const Name = styled.h2`
-  ${tw`mx-2 mb-4 text-lg`}
+  ${tw`self-center inline-block mx-2 mb-4 text-xl whitespace-no-wrap lg:self-auto`}
 `
 
 const Website = styled.a`
-  ${tw`text-blue-600`}
+  ${tw`inline-block w-3 text-blue-600 fill-current dark:text-gray-300`}
 `
 
 const ClusterSection = styled.section`
@@ -18,28 +19,30 @@ const ClusterSection = styled.section`
 `
 
 const GalleryInner = styled.ul`
-  ${tw`flex flex-wrap items-center justify-center w-full`}
+  ${tw`flex flex-wrap justify-center w-full `}
 `
 
 const Gallery = styled.div`
-  ${tw`flex flex-col w-auto px-16 py-24 min-h-50vh`}
+  ${tw`flex flex-col w-auto px-4 py-24 lg:px-16 min-h-cluster`}
 
   & li {
-    ${tw`relative flex items-center justify-center w-56 h-56 m-2 bg-gray-100 dark:bg-gray-800`}
+    ${tw`relative flex items-start justify-center w-56 h-56 m-2 bg-gray-100 dark:bg-gray-800`}
   }
 
-  & a {
-    ${tw`w-full h-full`}
-  }
-
-  & .gatsby-image-wrapper {
+  & li a {
     ${tw`w-full h-full m-2`}
     max-height: 13rem;
     max-width: 13rem;
   }
 
+  & .gatsby-image-wrapper {
+    ${tw`w-full h-full`}
+    max-height: 13rem;
+    max-width: 13rem;
+  }
+
   ${ClusterSection}:nth-child(even) & {
-    ${tw`items-end`}
+    ${tw`md:items-end`}
   }
 
   ${props => (props.count === 1) && css`
@@ -69,8 +72,11 @@ const Gallery = styled.div`
   ${props => (props.count === 4) && css`
 
     & ${GalleryInner} {
-      max-width: calc(14rem * 4 + 0.5rem * 8);
-    }
+      max-width: calc(14rem * 3 + 0.5rem * 6);
+
+      @media (min-width: 1280px) {
+        max-width: calc(14rem * 4 + 0.5rem * 8);
+      }
     `
   }
 
@@ -85,7 +91,11 @@ const Gallery = styled.div`
   ${props => (props.count === 6) && css`
 
     & ${GalleryInner} {
-      max-width: calc(14rem * 4 + 0.5rem * 8);
+      max-width: calc(14rem * 3 + 0.5rem * 6);
+
+      @media (min-width: 1280px) {
+        max-width: calc(14rem * 4 + 0.5rem * 8);
+      }
     }
     `
   }
@@ -93,7 +103,12 @@ const Gallery = styled.div`
   ${props => (props.count === 7) && css`
 
     & ${GalleryInner} {
-      max-width: calc(14rem * 4 + 0.5rem * 8);
+      max-width: calc(14rem * 3 + 0.5rem * 6);
+
+      @media (min-width: 1280px) {
+        max-width: calc(14rem * 4 + 0.5rem * 8);
+      }
+
     }
     `
   }
@@ -116,7 +131,7 @@ const Cluster = ({ block }) => (
     <SimpleReactLightbox>
       <SRLWrapper options={options}>
         <Gallery count={block.gallery.length}>
-          <Name>{block.name} {block.website && <Website href={block.website} target="_blank">Website</Website>}</Name>
+          <Name>{block.name} {block.website && <Website href={block.website} target="_blank"><WebsiteIcon /></Website>}</Name>
           <GalleryInner>
             {block.gallery.map((gallery, i) => {
               return (
