@@ -99,5 +99,12 @@ blocks:
     title: Modern Day Explorer, Digital, Hverir - Iceland, 2017
   name: Gaelle Brunet
   website: http://www.gaellebrunet.com
+- template: cluster
+  component: cluster
+  name: Alex Boyd
+  website: https://www.alexboydphotography.com
+  gallery:
+  - image: "/src/images/01-alex-boyd-isle-of-lewis-digital-prof-murdo-macdonald-2017.jpg"
+    title: Professor Murdo Macdonald, Digital, Isle of Lewis, 2017
 
 ---
