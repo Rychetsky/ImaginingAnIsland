@@ -41,6 +41,14 @@ blocks:
   website: http://www.sebastianthomas.cl
 - template: cluster
   component: cluster
+  name: Liza Dracup
+  gallery:
+  - image: "/src/images/the-seagull-liza-dracup-2001.jpg"
+    title: The Seagull (the ferry from Mull to Iona), Colour Negative Medium Format
+      made with Vintage Kershaw Folding Camera, Little Loch Broom - Dundonnell, 2000
+  website: ''
+- template: cluster
+  component: cluster
   gallery:
   - image: "/src/images/marco-scerri-3.jpg"
     title: Untitled (series) 3, 35mm film, Malta, 2016-2020
@@ -72,14 +80,6 @@ blocks:
   website: http://bojanfurstphotography.com
 - template: cluster
   component: cluster
-  name: Liza Dracup
-  gallery:
-  - image: "/src/images/the-seagull-liza-dracup-2001.jpg"
-    title: The Seagull (the ferry from Mull to Iona), Colour Negative Medium Format
-      made with Vintage Kershaw Folding Camera, Little Loch Broom - Dundonnell, 2000
-  website: ''
-- template: cluster
-  component: cluster
   name: Dave Sands
   website: https://www.startagain.photography/
   gallery:
@@ -98,6 +98,23 @@ blocks:
     title: Laig Bay Light Leak, Analogue LOMO Compact Automat, Eigg, July 2017
   name: Andrew Lochhead
   website: https://www.instagram.com/buildanddestroy/
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/tessa-bunney-01-dji_0273c.jpg"
+    title: Sands and Channels, Digital, Flookburgh - Cumbria, December 2019
+  - image: "/src/images/tessa-bunney-02-dscf5362c.jpg"
+    title: Cockling, Digital, Flookburgh - Cumbria, January 2020
+  - image: "/src/images/tessa-bunney-05-dji_0409cc.jpg"
+    title: Tidal Marsh, Digital, Sunderland Point, Lancashire, August 2018
+  - image: "/src/images/tessa-bunney-06-dscf2864cc.jpg"
+    title: Haaf netting for salmon and sea trout, Digital, Sunderland Point - Lancashire,
+      2018
+  - image: "/src/images/tessa-bunney-07-dscf6965cc.jpg"
+    title: Fishing for Whitebait and Spats, Digital, Sunderland Point Lancashire,
+      March 2019
+  name: Tessa Bunney
+  website: http://www.tessabunney.co.uk
 - template: cluster
   component: cluster
   name: Casey MacIntyre
@@ -125,23 +142,6 @@ blocks:
     title: Modern Day Explorer, Digital, Hverir - Iceland, 2017
   name: Gaelle Brunet
   website: http://www.gaellebrunet.com
-- template: cluster
-  component: cluster
-  gallery:
-  - image: "/src/images/tessa-bunney-01-dji_0273c.jpg"
-    title: Sands and Channels, Digital, Flookburgh - Cumbria, December 2019
-  - image: "/src/images/tessa-bunney-02-dscf5362c.jpg"
-    title: Cockling, Digital, Flookburgh - Cumbria, January 2020
-  - image: "/src/images/tessa-bunney-05-dji_0409cc.jpg"
-    title: Tidal Marsh, Digital, Sunderland Point, Lancashire, August 2018
-  - image: "/src/images/tessa-bunney-06-dscf2864cc.jpg"
-    title: Haaf netting for salmon and sea trout, Digital, Sunderland Point - Lancashire,
-      2018
-  - image: "/src/images/tessa-bunney-07-dscf6965cc.jpg"
-    title: Fishing for Whitebait and Spats, Digital, Sunderland Point Lancashire,
-      March 2019
-  name: Tessa Bunney
-  website: http://www.tessabunney.co.uk
 - template: cluster
   component: cluster
   name: Alex Boyd
@@ -339,15 +339,6 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/1-christoph-corves-ardhasaig-bus-stop-isle-of-harris-2019-christoph-corves.jpg"
-    title: Ardhasaig Bus-stop, Tri-X 400 film, Isle of Harris, 2019
-  - image: "/src/images/3-the-giants-bath-tub-isle-of-harris-2019-christoph-corves.jpg"
-    title: The Giant's Bathtub, Tri-X 400 film, Isle of Harris, 2019
-  name: Christoph Corves
-  website: 'https://christophcorves.com/ '
-- template: cluster
-  component: cluster
-  gallery:
   - image: "/src/images/6-lynne-washing-betty-s-hair-by-lucy-saggers.jpg"
     title: Lynne Washing Betty's Hair, Digital, Ampleforth - North Yorkshire, December
       2017
@@ -356,5 +347,14 @@ blocks:
       December 2017
   name: Lucy Saggars
   website: http://www.lucysaggers.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/1-christoph-corves-ardhasaig-bus-stop-isle-of-harris-2019-christoph-corves.jpg"
+    title: Ardhasaig Bus-stop, Tri-X 400 film, Isle of Harris, 2019
+  - image: "/src/images/3-the-giants-bath-tub-isle-of-harris-2019-christoph-corves.jpg"
+    title: The Giant's Bathtub, Tri-X 400 film, Isle of Harris, 2019
+  name: Christoph Corves
+  website: 'https://christophcorves.com/ '
 
 ---
