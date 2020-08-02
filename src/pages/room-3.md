@@ -217,10 +217,10 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/catriona_patience_inchcolm_5.jpg"
-    title: Beachcombing, Digital, Inchcolm, 2017
   - image: "/src/images/catriona_patience_inchcolm_4.jpg"
     title: Swallows in the Cloister, Digital, Inchcolm, 2017
+  - image: "/src/images/catriona_patience_inchcolm_5.jpg"
+    title: Beachcombing, Digital, Inchcolm, 2017
   name: Catriona Patience
   website: https://www.facebook.com/catrionapatiencecreations
 - template: cluster
@@ -235,12 +235,12 @@ blocks:
   name: Brittonie Fletcher
   website: 'http://brittoniefletcher.com '
   gallery:
-  - image: "/src/images/brittonie-grasses-north-then-west.jpg"
-    title: Grasses; North then West, Silver gelatine print, Orkney, 2018
   - image: "/src/images/brittoniefletcher_the-disc.jpg"
     title: Erratics series, Analogue C-type, Orkney, 2018
   - image: "/src/images/brittoniefletcher-rock-silvergelatin-2019.jpg"
     title: Pink Rock in Sandstone, Chemigram, Orkney, 2018
+  - image: "/src/images/brittonie-grasses-north-then-west.jpg"
+    title: Grasses; North then West, Silver gelatine print, Orkney, 2018
 - template: cluster
   component: cluster
   name: Berris Connoly
@@ -266,10 +266,10 @@ blocks:
   name: Anne Krinsky
   website: https://www.annekrinsky.com
   gallery:
-  - image: "/src/images/3-anne-krinsky_erosion-control-two-tree-island.jpg"
-    title: Erosion Control, Two Tree Island, Leigh-on-sea - UK, 2018
   - image: "/src/images/5-anne-krinsky_yang-ming-two-tree-island.jpg"
     title: Yang Ming, Two Tree Island, Leigh-on-sea - Essex - UK, 2018
+  - image: "/src/images/3-anne-krinsky_erosion-control-two-tree-island.jpg"
+    title: Erosion Control, Two Tree Island, Leigh-on-sea - UK, 2018
 - template: cluster
   component: cluster
   gallery:
@@ -282,11 +282,11 @@ blocks:
   name: Alejandro Basterrechea
   website: http://www.instagram.com/alebphotographer
   gallery:
-  - image: "/src/images/alejandro_basterrechea_4.jpg"
-    title: Eriskay Pony, Digital, Eriskay, January 2020
-  - image: "/src/images/alejandro_basterrechea_5.jpg"
-    title: Herd of Eriskay Ponies, Digital, Eriskay, January 2020
   - image: "/src/images/alejandro_basterrechea_1.jpg"
     title: Island Priest, Digital, Eriskay, January 2020
+  - image: "/src/images/alejandro_basterrechea_5.jpg"
+    title: Herd of Eriskay Ponies, Digital, Eriskay, January 2020
+  - image: "/src/images/alejandro_basterrechea_4.jpg"
+    title: Eriskay Pony, Digital, Eriskay, January 2020
 
 ---
