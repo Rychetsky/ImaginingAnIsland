@@ -332,5 +332,22 @@ blocks:
   - image: "/src/images/maisgeir3.jpg"
     title: Màsgeir III, Digital, Uibhist a Tuath, 2020
   website: ''
+- template: cluster
+  component: cluster
+  name: Raphael Rychetsky
+  gallery:
+  - image: "/src/images/rychetsky4.jpg"
+    title: "Untitled, Digital, Isle of North Uist, 2018"
+  - image: "/src/images/rychetsky5.jpg"
+    title: "Untitled, Digital, Isle of Lewis, 2019"
+  - image: "/src/images/rychetsky3.jpg"
+    title: "Untitled, Digital, Isle of Lewis, 2019"
+  - image: "/src/images/rychetsky6.jpg"
+    title: "Untitled, Digital, Isle of Lewis, 2019"
+  - image: "/src/images/rychetsky1.jpg"
+    title: "Untitled, Digital, Isle of North Uist, 2018"
+  - image: "/src/images/rychetsky2.jpg"
+    title: "Untitled, Digital, Bass Rock - North Berwick, 2019"
+  website: 'https://raphael.fyi'
 
 ---
