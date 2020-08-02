@@ -108,21 +108,21 @@ blocks:
   name: Nils Aksnes
   website: https://www.instagram.com/nils_aksnes/
   gallery:
-  - image: "/src/images/landscape-at-the-sound-of-jura.jpg"
-    title: Landscape at the Sound of Jura, Pinhole on 35mm Colour Film, Kellis Peninsula
-      - Mid Argyll - Scotland, June/July 2019
-  - image: "/src/images/red-dot.jpg"
-    title: Red Dot, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll - Scotland,
-      June/July 2019
   - image: "/src/images/the-swimmer.jpg"
     title: The Swimmer, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll
       - Scotland, June/July 2019
-  - image: "/src/images/volcano-at-keills.jpg"
-    title: Volcano at Kellis, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid
-      Argyll - Scotland, June/July 2019
   - image: "/src/images/young-titan.jpg"
     title: Young Titan, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll
       - Scotland, June/July 2019
+  - image: "/src/images/red-dot.jpg"
+    title: Red Dot, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid Argyll - Scotland,
+      June/July 2019
+  - image: "/src/images/volcano-at-keills.jpg"
+    title: Volcano at Kellis, Pinhole on 35mm Colour Film, Kellis Peninsula - Mid
+      Argyll - Scotland, June/July 2019
+  - image: "/src/images/landscape-at-the-sound-of-jura.jpg"
+    title: Landscape at the Sound of Jura, Pinhole on 35mm Colour Film, Kellis Peninsula
+      - Mid Argyll - Scotland, June/July 2019
 - template: cluster
   component: cluster
   name: Marysia Lachowicz
