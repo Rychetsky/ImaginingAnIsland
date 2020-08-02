@@ -240,15 +240,15 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/ever-present-danger.jpg"
-    title: Ever Present Danger, Digital, Pett Level to Hastings at low tide, May 2020
+  - image: "/src/images/josie-barnes-dumped.jpg"
+    title: Dumped, Digital, Pett Level to Hastings at low tide, May 2020
+  - image: "/src/images/josie-barnes-cliff-erosion.jpg"
+    title: Cliff Erosion, Digital, Pett Level to Hastings at low tide, May 2020
   - image: "/src/images/josie-barnes-those-who-came-before.jpg"
     title: " Those Who Came Before, Digital, Pett Level to Hastings at low tide, May
       2020"
-  - image: "/src/images/josie-barnes-cliff-erosion.jpg"
-    title: Cliff Erosion, Digital, Pett Level to Hastings at low tide, May 2020
-  - image: "/src/images/josie-barnes-dumped.jpg"
-    title: Dumped, Digital, Pett Level to Hastings at low tide, May 2020
+  - image: "/src/images/ever-present-danger.jpg"
+    title: Ever Present Danger, Digital, Pett Level to Hastings at low tide, May 2020
   name: Josie Barnes
   website: https://www.instagram.com/josiebarnesphotography/?hl=en
 - template: cluster
@@ -297,11 +297,11 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/john-d-angerson-english_journey_043.jpg"
-    title: Easington Colliary (English Journey series), Peterlee - County Durham
   - image: "/src/images/john-d-angerson-english_journey_053.jpg"
     title: " The Old New Inn and Model Village (English Journey series), Rissington
       Road - Cotswolds"
+  - image: "/src/images/john-d-angerson-english_journey_043.jpg"
+    title: Easington Colliary (English Journey series), Peterlee - County Durham
   name: John Angerson
   website: www.johnangerson.com
 - template: cluster
@@ -330,10 +330,10 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/michael-faint-salvage-bags.jpg"
-    title: Salvage Bags, Digital, Gasaigh Island - Loch Boisdale, February 2020
   - image: "/src/images/michael-faint-storage-bin.jpg"
     title: Storage Bin, Digital, Gasaigh Island - Loch Boisdale, February 2020
+  - image: "/src/images/michael-faint-salvage-bags.jpg"
+    title: Salvage Bags, Digital, Gasaigh Island - Loch Boisdale, February 2020
   name: Michael Faint
   website: https://www.ansolasoir.com/
 - template: cluster
