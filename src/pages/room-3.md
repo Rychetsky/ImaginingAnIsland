@@ -128,18 +128,18 @@ blocks:
   name: Marysia Lachowicz
   website: http://www.marysia.co.uk
   gallery:
+  - image: "/src/images/lachowicz_banks-broo.jpg"
+    title: Banks Broo, Digital collage from digital and analogue photographs, 2019
+  - image: "/src/images/lachowicz_ayre.jpg"
+    title: Ayre, Digital collage from digital and analogue photographs, 2019
   - image: "/src/images/lachowicz_shoormal_1.jpg"
-    title: 'Shoormal, wet cyanotype 30cms diameter Time: 3pm Lat: 59.9461 Long: -1.3409
-      Sun/partly cloudy 12.1°C Feels like 7.6°C Wind: 24.2 km/h Moderate Tide: 0.7m
-      99% full UV: 2.2 low, Spiggie Beach - Shetland, June 2019'
+    title: 'Shoormal 1, wet cyanotype 30cms diameter Time: 3pm Lat: 59.9461 Long:
+      -1.3409 Sun/partly cloudy 12.1°C Feels like 7.6°C Wind: 24.2 km/h Moderate Tide:
+      0.7m 99% full UV: 2.2 low, Spiggie Beach - Shetland, June 2019'
   - image: "/src/images/lachowicz_shoormal_3.jpg"
     title: 'Shoormal 3, wet cyanotype, Time: 6.30pm Lat: 60.1006 Long: -1.3276 Sunny
       12.7°C feels like 8.8°C Wind: E 16.1 km/h Gentle Tide: 0.6m 68% full UV: 1.5
       low, Hamnavoe - Shetland, June 2019'
-  - image: "/src/images/lachowicz_ayre.jpg"
-    title: Ayre, Digital collage from digital and analogue photographs, 2019
-  - image: "/src/images/lachowicz_banks-broo.jpg"
-    title: Banks Broo, Digital collage from digital and analogue photographs, 2019
 - template: cluster
   component: cluster
   name: Mark Adams
