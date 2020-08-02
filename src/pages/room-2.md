@@ -16,6 +16,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-1.jpg"
+    title: Isla Navarino (series) 1, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
+  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-2.jpg"
+    title: Isla Navarino (series) 2, Analogue Medium Format 6x7, Isla Navarino - Chile,
+      2019
   - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-3.jpg"
     title: Isla Navarino (series) 3, Analogue Medium Format 6x7, Isla Navarino - Chile,
       2019
@@ -27,12 +33,6 @@ blocks:
       2019
   - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-6.jpg"
     title: Isla Navarino (series) 6, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-2.jpg"
-    title: Isla Navarino (series) 2, Analogue Medium Format 6x7, Isla Navarino - Chile,
-      2019
-  - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-1.jpg"
-    title: Isla Navarino (series) 1, Analogue Medium Format 6x7, Isla Navarino - Chile,
       2019
   - image: "/src/images/sebastian-thomas-isla-navarino-analogue-medium-format-6x7-2019-7.jpg"
     title: Isla Navarino (series) 7, Analogue Medium Format 6x7, Isla Navarino - Chile,
