@@ -328,9 +328,9 @@ blocks:
   - image: "/src/images/20190626-p1050127.jpg"
     title: White / Big / Black / Small / Shiny , Digital, Talisker - Isle of Skye,
       2020
-  - image: "/src/images/20200120-_1060516.jpg"
-    title: Untitled (pensive ii), Digital, Uibhist a Tuath (Isle of North Uist), 2020
   - image: "/src/images/20200329-20191125-2web.jpg"
     title: Untitled (pensive i), Digital, Uibhist a Tuath (Isle of North Uist), 2020
+  - image: "/src/images/20200120-_1060516.jpg"
+    title: Untitled (pensive ii), Digital, Uibhist a Tuath (Isle of North Uist), 2020
 
 ---

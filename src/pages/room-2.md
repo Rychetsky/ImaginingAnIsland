@@ -111,7 +111,7 @@ blocks:
     title: Haaf netting for salmon and sea trout, Digital, Sunderland Point - Lancashire,
       2018
   - image: "/src/images/tessa-bunney-07-dscf6965cc.jpg"
-    title: Fishing for Whitebait and Spats, Digital, Sunderland Point Lancashire,
+    title: Fishing for Whitebait and Sprats, Digital, Sunderland Point Lancashire,
       March 2019
   name: Tessa Bunney
   website: http://www.tessabunney.co.uk
