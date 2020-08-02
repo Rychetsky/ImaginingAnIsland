@@ -210,10 +210,10 @@ blocks:
   name: Claire Murphy
   website: https://www.instagram.com/clairemurphy141/
   gallery:
-  - image: "/src/images/claire-murphy-imagining-islands-3.jpg"
-    title: Untitled 3, Analogue, Ireland, April 2020
   - image: "/src/images/claire-murphy-imagining-islands-1.jpg"
     title: Untitled 1, Analogue, Ireland, April 2020
+  - image: "/src/images/claire-murphy-imagining-islands-3.jpg"
+    title: Untitled 3, Analogue, Ireland, April 2020
 - template: cluster
   component: cluster
   gallery:
