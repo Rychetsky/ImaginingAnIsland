@@ -108,10 +108,10 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/sillars_from_this_chair_3.jpg"
-    title: From This Chair 3, Duntelchaig - Inverness-shire, 2019
   - image: "/src/images/sillars_from_this_chair_2.jpg"
     title: From This Chair 2, Duntelchaig - Inverness-shire, 2019
+  - image: "/src/images/sillars_from_this_chair_3.jpg"
+    title: From This Chair 3, Duntelchaig - Inverness-shire, 2019
   - image: "/src/images/sillars_praxis-3.jpg"
     title: Praxis 3, Digital, Balintore - Easter Ross, 2016
   - image: "/src/images/sillars_praxis_4.jpg"
@@ -121,12 +121,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/godfreypigott-mountain-14.jpg"
-    title: Mountain 14, Gryon - Switzerland, 2018/2019
-  - image: "/src/images/godfreypigott-mountain-11.jpg"
-    title: Mountain 11, Gryon - Switzerland, 2018/2019
   - image: "/src/images/godfreypigott-mountain-04.jpg"
     title: Mountain 4, Gryon - Switzerland, 2018/2019
+  - image: "/src/images/godfreypigott-mountain-11.jpg"
+    title: Mountain 11, Gryon - Switzerland, 2018/2019
+  - image: "/src/images/godfreypigott-mountain-14.jpg"
+    title: Mountain 14, Gryon - Switzerland, 2018/2019
   name: Emma Goddfrey-Pigott
   website: 'https://portfolio.emmagodfrey.com/ '
 - template: cluster
@@ -161,10 +161,10 @@ blocks:
   name: Matthew Arthur Williams
   website: www.matthewarthurwilliams.com
   gallery:
-  - image: "/src/images/3-2020-epsom-hp5-2-014.jpg"
-    title: untitled (assume the position) VI, Medium Format 120mm, Isle of Eigg, 2019
   - image: "/src/images/2-2020-epsom-hp5-2-013.jpg"
     title: untitled (assume the position) V, Medium Format 120mm, Isle of Eigg, 2019
+  - image: "/src/images/3-2020-epsom-hp5-2-014.jpg"
+    title: untitled (assume the position) VI, Medium Format 120mm, Isle of Eigg, 2019
   - image: "/src/images/4-2019-ios-2-nov-002.jpg"
     title: untitled (ferns) V, Medium Format 120mm, Isle of Skye, 2019
   - image: "/src/images/6-2019-ios-1-nov-007.jpg"
@@ -176,12 +176,12 @@ blocks:
   name: Flora deBechi
   website: " https://cargocollective.com/floradebechi "
   gallery:
-  - image: "/src/images/2.JPG"
-    title: Ash Patch (Remains of seaweed burning), Digital, Sponish - North Uist,
-      August 2019
   - image: "/src/images/1.JPG"
     title: Luminosity (Bottom of a bottle found at sea acts as a natural lens), Digital,
       Berneray, August 2019
+  - image: "/src/images/2.JPG"
+    title: Ash Patch (Remains of seaweed burning), Digital, Sponish - North Uist,
+      August 2019
 - template: cluster
   component: cluster
   gallery:
