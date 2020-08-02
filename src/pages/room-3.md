@@ -216,15 +216,6 @@ blocks:
     title: Untitled 3, Analogue, Ireland, April 2020
 - template: cluster
   component: cluster
-  gallery:
-  - image: "/src/images/catriona_patience_inchcolm_4.jpg"
-    title: Swallows in the Cloister, Digital, Inchcolm, 2017
-  - image: "/src/images/catriona_patience_inchcolm_5.jpg"
-    title: Beachcombing, Digital, Inchcolm, 2017
-  name: Catriona Patience
-  website: https://www.facebook.com/catrionapatiencecreations
-- template: cluster
-  component: cluster
   name: Catherine Yeatman
   gallery:
   - image: "/src/images/makingspacecy-december2019.jpg"
@@ -277,6 +268,15 @@ blocks:
     title: All My Friends Are Goats, Digital, Carradale - Kintyre, March 2020
   name: Amy Grogan
   website: mailto:amykimgrogan@gmail.com
+- template: cluster
+  component: cluster
+  gallery:
+  - image: "/src/images/catriona_patience_inchcolm_4.jpg"
+    title: Swallows in the Cloister, Digital, Inchcolm, 2017
+  - image: "/src/images/catriona_patience_inchcolm_5.jpg"
+    title: Beachcombing, Digital, Inchcolm, 2017
+  name: Catriona Patience
+  website: https://www.facebook.com/catrionapatiencecreations
 - template: cluster
   component: cluster
   name: Alejandro Basterrechea
