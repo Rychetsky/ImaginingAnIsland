@@ -259,6 +259,8 @@ blocks:
     title: 'As If: Portrait of found objects on Orkney 5, Digital, 2014'
   - image: "/src/images/found-6.jpg"
     title: 'As If: Portrait of found objects on Orkney 6, Digital, 2014'
+  - image: "/src/images/found-7.jpg"
+    title: 'As If: Portrait of found objects on Orkney 7, Digital, 2014'
   name: Ikuko Tsuchiya
   website: https://research.tees.ac.uk/en/persons/iku-tsuchiya
 - template: cluster
