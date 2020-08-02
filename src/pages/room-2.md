@@ -345,7 +345,7 @@ blocks:
   - image: "/src/images/7-john-thompson-making-a-coffin-pillow-by-lucy-saggers.jpg"
     title: John Thompson Making Coffin Pillows, Digital, Ampleforth - North Yorkshire,
       December 2017
-  name: Lucy Saggars
+  name: Lucy Saggers
   website: http://www.lucysaggers.com
 - template: cluster
   component: cluster
