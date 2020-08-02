@@ -318,5 +318,12 @@ blocks:
   - image: "/src/images/maisgeir3.jpg"
     title: Màsgeir III, Digital, Uibhist a Tuath, 2020
   website: ''
+- template: cluster
+  component: cluster
+  name: Rosalind Blake
+  website: http://rosalindblake.com
+  gallery:
+  - image: "/src/images/20200329-20191125-2web.jpg"
+    title: Untitled (pensive i), Digital, Uibhist a Tuath (Isle of North Uist), 2020
 
 ---
