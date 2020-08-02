@@ -323,6 +323,8 @@ blocks:
   name: Rosalind Blake
   website: http://rosalindblake.com
   gallery:
+  - image: "/src/images/20200120-_1060516.jpg"
+    title: Untitled (pensive ii), Digital, Uibhist a Tuath (Isle of North Uist), 2020
   - image: "/src/images/20200329-20191125-2web.jpg"
     title: Untitled (pensive i), Digital, Uibhist a Tuath (Isle of North Uist), 2020
 
