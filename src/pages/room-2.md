@@ -42,10 +42,10 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/marco-scerri.jpg"
-    title: Untitled (series) 5, 35mm film, Malta, 2016-2020
   - image: "/src/images/marco-scerri-3.jpg"
     title: Untitled (series) 3, 35mm film, Malta, 2016-2020
+  - image: "/src/images/marco-scerri.jpg"
+    title: Untitled (series) 5, 35mm film, Malta, 2016-2020
   name: Marco Scerri
   website: https://marcoscerri.com/
 - template: cluster
@@ -147,21 +147,21 @@ blocks:
   name: Alex Boyd
   website: https://www.alexboydphotography.com
   gallery:
-  - image: "/src/images/06-alex-boyd-faroe-islands-digital-trondur-patterson-2016.jpg"
-    title: Trondur Patterson, Digital, Faroe Islands, 2016
-  - image: "/src/images/03-alex-boyd-maria-a-heygum-vestmanna-faroe-islands-digital-2016.jpg"
-    title: Maria A Heygum, Digital, Vestmanna - Faroe Islands 2016
   - image: "/src/images/01-alex-boyd-isle-of-lewis-digital-prof-murdo-macdonald-2017.jpg"
     title: Professor Murdo Macdonald, Digital, Isle of Lewis, 2017
+  - image: "/src/images/03-alex-boyd-maria-a-heygum-vestmanna-faroe-islands-digital-2016.jpg"
+    title: Maria A Heygum, Digital, Vestmanna - Faroe Islands 2016
+  - image: "/src/images/06-alex-boyd-faroe-islands-digital-trondur-patterson-2016.jpg"
+    title: Trondur Patterson, Digital, Faroe Islands, 2016
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/fiona-steel-lost-property-004.jpg"
-    title: Lost Property, Analogue, Isle of Mull, May 2020
   - image: "/src/images/fiona-steel-a-moment-you-could-only-have-by-yourself-005.jpg"
     title: A Moment You Could Only Have By Yourself, Analogue, Isle of Mull, May 2020
   - image: "/src/images/fiona-steel-fledgling-002.jpg"
     title: Fledgling, Analogue, Isle of Mull, May 2020
+  - image: "/src/images/fiona-steel-lost-property-004.jpg"
+    title: Lost Property, Analogue, Isle of Mull, May 2020
   name: Fiona Steele
   website: https://instagram.com/fionasteel_art
 - template: cluster
@@ -223,15 +223,15 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/michael-petillo-loughderg_mpetillo_03.jpg"
+    title: Stone Punctured Feet, Digital Full-frame, Lough Derg Island - Republic
+      of Ireland, August 2017
   - image: "/src/images/michael-petillo-loughderg_mpetillo_04.jpg"
     title: Re-centering, Digital Full-frame, Lough Derg Island - Republic of Ireland,
       August 2017
   - image: "/src/images/michael-petillo-loughderg_mpetillo_05.jpg"
     title: Penitential Beds, Digital Full-frame, Lough Derg Island - Republic of Ireland,
       August 2017
-  - image: "/src/images/michael-petillo-loughderg_mpetillo_03.jpg"
-    title: Stone Punctured Feet, Digital Full-frame, Lough Derg Island - Republic
-      of Ireland, August 2017
   - image: "/src/images/michael-petillo-loughderg_mpetillo_06.jpg"
     title: Leaving, Digital Full-frame, Lough Derg Island - Republic of Ireland, August
       2017
@@ -284,15 +284,6 @@ blocks:
     title: Surrounded, Digital, Isle of Harris - Scotland, April 2019
   name: Sabrina Türschmann
   website: https://www.instagram.com/sabrina.tuerschmann/
-- template: cluster
-  component: cluster
-  name: Arun Sood
-  website: http://www.arunsood.com
-  gallery:
-  - image: "/src/images/strand.jpg"
-    title: Strand, Vallay tidal island - North Uist
-  - image: "/src/images/fireplace.jpg"
-    title: Fireplace, Vallay tidal island - North Uist
 - template: cluster
   component: cluster
   gallery:
