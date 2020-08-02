@@ -168,12 +168,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/louise-emslie-image-2.JPG"
-    title: No Trespassing, Digital, Iceland, September 2012
-  - image: "/src/images/louise-emslie-image-1.jpg"
-    title: Waiting for Something to Happen, Digital, Iceland, August 2011
   - image: "/src/images/louise-emslie-image-4.jpg"
     title: Discharge, Digital, Iceland, March 2013
+  - image: "/src/images/louise-emslie-image-1.jpg"
+    title: Waiting for Something to Happen, Digital, Iceland, August 2011
+  - image: "/src/images/louise-emslie-image-2.JPG"
+    title: No Trespassing, Digital, Iceland, September 2012
   name: Louise Emslie
   website: http://www.louiseemslie.com
 - template: cluster
