@@ -21,5 +21,6 @@ fields:
   - cluster
 pages:
 - src/pages/index2.md
+- src/pages/room-1.md
 - src/pages/room-2.md
 - src/pages/room-3.md

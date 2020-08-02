@@ -249,12 +249,12 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
-  - image: "/src/images/found-5.jpg"
-    title: 'As If: Portrait of found objects on Orkney 5, Digital, 2014'
   - image: "/src/images/found-2.jpg"
     title: 'As If: Portrait of found objects on Orkney 2, Digital, 2014'
   - image: "/src/images/found-4.jpg"
     title: 'As If: Portrait of found objects on Orkney 4, Digital, 2014'
+  - image: "/src/images/found-5.jpg"
+    title: 'As If: Portrait of found objects on Orkney 5, Digital, 2014'
   - image: "/src/images/found-6.jpg"
     title: 'As If: Portrait of found objects on Orkney 6, Digital, 2014'
   name: Ikuko Tsuchiya
@@ -262,26 +262,26 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/ashrays_triptych-final.jpg"
+    title: Ashrays, Cyanotype and Digital Collage, Loch Laggan - Cairngorms, 2018
+  name: 'Alessandra Campoli '
+  website: http://www.alessandracampoli.com/
+- template: cluster
+  component: cluster
+  gallery:
   - image: "/src/images/francesscott_structure-hoy_2019.jpg"
     title: Structure, Hoy, Medium Format, West Coast of Hoy - Orkney, 2019
   - image: "/src/images/francesscott_loch-papay_2018.jpg"
-    title: Loch, Papay, Medium Format, West Coast of Papay, Orkney, 2018
+    title: Loch, Papay, Medium Format, West Coast of Papay - Orkney, 2018
   - image: "/src/images/francesscott_seawall-papay_2018.jpg"
-    title: Sea Wall, Papay, Medium Format, West Coast of Papay, Orkney, 2018
+    title: Sea Wall, Papay, Medium Format, West Coast of Papay - Orkney, 2018
   - image: "/src/images/francesscott_rock-northronaldsay_2018.jpg"
-    title: Rock, North Ronaldsay, Medium Format, East Coast of North Ronaldsay -Orkney,
+    title: Rock, North Ronaldsay, Medium Format, East Coast of North Ronaldsay - Orkney,
       2018
   - image: "/src/images/francesscott_smoke-mainland_2014.jpg"
     title: Smoke Mainland, Medium Format, Head of Holland - Orkney, 2014
   name: Frances Scott
   website: http://www.frances-scott.co.uk
-- template: cluster
-  component: cluster
-  gallery:
-  - image: "/src/images/ashrays_triptych-final.jpg"
-    title: Ashrays, Cyanotype and Digital Collage, Loch Laggan - Cairngorms, 2018
-  name: 'Alessandra Campoli '
-  website: http://www.alessandracampoli.com/
 - template: cluster
   component: cluster
   gallery:
