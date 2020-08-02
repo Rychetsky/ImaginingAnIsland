@@ -323,6 +323,8 @@ blocks:
   name: Rosalind Blake
   website: http://rosalindblake.com
   gallery:
+  - image: "/src/images/midden_imagining_an_island_rosie_rosalind_blake_artist-copy.jpg"
+    title: Midden, Digital, Uibhist a Tuath (Isle of North Uist), 2020
   - image: "/src/images/20190626-p1050127.jpg"
     title: White / Big / Black / Small / Shiny , Digital, Talisker - Isle of Skye,
       2020
