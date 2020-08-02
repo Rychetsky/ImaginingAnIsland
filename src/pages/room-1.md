@@ -295,6 +295,20 @@ blocks:
   website: https://tversland.com/
 - template: cluster
   component: cluster
+  name: Rosalind Blake
+  website: http://rosalindblake.com
+  gallery:
+  - image: "/src/images/midden_imagining_an_island_rosie_rosalind_blake_artist-copy.jpg"
+    title: Midden, Digital, Uibhist a Tuath (Isle of North Uist), 2020
+  - image: "/src/images/20190626-p1050127.jpg"
+    title: White / Big / Black / Small / Shiny , Digital, Talisker - Isle of Skye,
+      2020
+  - image: "/src/images/20200329-20191125-2web.jpg"
+    title: Untitled (pensive i), Digital, Uibhist a Tuath (Isle of North Uist), 2020
+  - image: "/src/images/20200120-_1060516.jpg"
+    title: Untitled (pensive ii), Digital, Uibhist a Tuath (Isle of North Uist), 2020
+- template: cluster
+  component: cluster
   gallery:
   - image: "/src/images/daryl-feehly-ailsa_craig_2_mystical.jpg"
     title: " Mystical (Ailsa Craig), Digital, Irish Sea"
@@ -318,19 +332,5 @@ blocks:
   - image: "/src/images/maisgeir3.jpg"
     title: Màsgeir III, Digital, Uibhist a Tuath, 2020
   website: ''
-- template: cluster
-  component: cluster
-  name: Rosalind Blake
-  website: http://rosalindblake.com
-  gallery:
-  - image: "/src/images/midden_imagining_an_island_rosie_rosalind_blake_artist-copy.jpg"
-    title: Midden, Digital, Uibhist a Tuath (Isle of North Uist), 2020
-  - image: "/src/images/20190626-p1050127.jpg"
-    title: White / Big / Black / Small / Shiny , Digital, Talisker - Isle of Skye,
-      2020
-  - image: "/src/images/20200329-20191125-2web.jpg"
-    title: Untitled (pensive i), Digital, Uibhist a Tuath (Isle of North Uist), 2020
-  - image: "/src/images/20200120-_1060516.jpg"
-    title: Untitled (pensive ii), Digital, Uibhist a Tuath (Isle of North Uist), 2020
 
 ---
