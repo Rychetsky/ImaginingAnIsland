@@ -182,7 +182,7 @@ blocks:
   website: http://www.judithparrott.com
   gallery:
   - image: "/src/images/sea-this_judithparrott.jpg"
-    title: Sea This, Digital, Isle of Butt, May 2020
+    title: Sea This, Digital, Isle of Bute, May 2020
 - template: cluster
   component: cluster
   gallery:
