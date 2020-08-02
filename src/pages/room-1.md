@@ -249,6 +249,8 @@ blocks:
 - template: cluster
   component: cluster
   gallery:
+  - image: "/src/images/found-1.jpg"
+    title: 'As If: Portrait of found objects on Orkney 1, Digital, 2014'
   - image: "/src/images/found-2.jpg"
     title: 'As If: Portrait of found objects on Orkney 2, Digital, 2014'
   - image: "/src/images/found-4.jpg"
