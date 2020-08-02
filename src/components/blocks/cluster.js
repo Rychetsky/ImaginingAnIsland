@@ -131,7 +131,7 @@ const options = {
 }
 
 const Cluster = ({ block }) => (
-  <ClusterSection data-sal="fade" data-sal-duration="500">
+  <ClusterSection data-sal="fade" data-sal-duration="500" id={block.name.replace(/([^A-Za-z0-9[\]{}_.])\s?/g, '')}>
     <SimpleReactLightbox>
       <SRLWrapper options={options}>
         <Gallery count={block.gallery.length}>
