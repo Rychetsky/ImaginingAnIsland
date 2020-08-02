@@ -161,10 +161,10 @@ blocks:
   name: Marco Scerri
   website: https://marcoscerri.com/
   gallery:
-  - image: "/src/images/marco-scerri.jpg"
-    title: Untitled (series) 5, 35mm film, Malta, 2016-2020
   - image: "/src/images/marco-scerri-3.jpg"
     title: Untitled (series) 3, 35mm film, Malta, 2016-2020
+  - image: "/src/images/marco-scerri.jpg"
+    title: Untitled (series) 5, 35mm film, Malta, 2016-2020
 - template: cluster
   component: cluster
   gallery:
