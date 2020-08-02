@@ -1,6 +1,11 @@
 [
   {
     "type": "internal",
+    "url": "/",
+    "title": "Home"
+  },
+  {
+    "type": "internal",
     "url": "/symposium/",
     "title": "Symposium"
   },
