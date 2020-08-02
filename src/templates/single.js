@@ -8,7 +8,7 @@ import tw from 'twin.macro'
 import Layout from '../components/layout'
 
 const Article = styled.article`
-  ${tw`max-w-4xl py-20`}
+  ${tw`max-w-4xl py-8 md:py-20`}
 `
 
 const Headline = styled.h1`
