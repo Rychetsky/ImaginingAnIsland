@@ -7,7 +7,7 @@ import { SRLWrapper } from "simple-react-lightbox";
 import WebsiteIcon from '../../svg/website.svg';
 
 const Name = styled.h2`
-  ${tw`self-center inline-block mx-2 mb-4 text-lg tracking-wide whitespace-no-wrap md:self-auto`}
+  ${tw`self-center inline-block mx-2 mb-4 text-lg tracking-wide whitespace-pre-wrap md:self-auto`}
 `
 
 const Website = styled.a`
@@ -19,7 +19,7 @@ const ClusterSection = styled.section`
 `
 
 const GalleryInner = styled.ul`
-  ${tw`flex flex-wrap justify-center w-full -mx-2`}
+  ${tw`flex flex-wrap justify-center w-full md:-mx-2`}
 `
 
 const Gallery = styled.div`
