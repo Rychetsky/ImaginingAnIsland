@@ -10,7 +10,7 @@ const StyledHeader = styled.header`
 `
 
 const Header = ({ siteTitle }) => (
-  <StyledHeader>
+  <StyledHeader id="top">
     <section className="navigation">
       <Navbar siteTitle={siteTitle} />
     </section>

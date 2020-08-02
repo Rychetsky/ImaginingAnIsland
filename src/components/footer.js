@@ -10,10 +10,17 @@ const SiteFooter = styled.footer`
   }
 `
 
+const BackToTop = styled.a`
+  ${tw`block font-medium text-center hover:text-blue-600 dark:hover:text-gray-500`}
+`
+
 const Footer = ({ content }) => (
-  <SiteFooter>
-    <div dangerouslySetInnerHTML={{__html: content}} />
-  </SiteFooter>
+  <div>
+    <BackToTop href="#top">Back to top</BackToTop>
+    <SiteFooter>
+      <div dangerouslySetInnerHTML={{__html: content}} />
+    </SiteFooter>
+  </div>
 )
 
 export default Footer
