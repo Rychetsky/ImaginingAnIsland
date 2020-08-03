@@ -33,7 +33,7 @@ blocks:
   - image: "/src/images/blue-island-ii.jpg"
     title: Blue Island II, Cyanotype Print, 2020
   name: Sayako Sugawara
-  website: 'https://www.instagram.com/sayako_sugawara/  '
+  website: https://www.sayakosugawara.com
 - template: cluster
   component: cluster
   name: Sean Patrick Campbell
@@ -337,17 +337,17 @@ blocks:
   name: Raphael Rychetsky
   gallery:
   - image: "/src/images/rychetsky4.jpg"
-    title: "Untitled, Digital, Isle of North Uist, 2018"
+    title: Untitled, Digital, Isle of North Uist, 2018
   - image: "/src/images/rychetsky5.jpg"
-    title: "Untitled, Digital, Isle of Lewis, 2019"
+    title: Untitled, Digital, Isle of Lewis, 2019
   - image: "/src/images/rychetsky3.jpg"
-    title: "Untitled, Digital, Isle of Lewis, 2019"
+    title: Untitled, Digital, Isle of Lewis, 2019
   - image: "/src/images/rychetsky6.jpg"
-    title: "Untitled, Digital, Isle of Lewis, 2019"
+    title: Untitled, Digital, Isle of Lewis, 2019
   - image: "/src/images/rychetsky1.jpg"
-    title: "Untitled, Digital, Isle of North Uist, 2018"
+    title: Untitled, Digital, Isle of North Uist, 2018
   - image: "/src/images/rychetsky2.jpg"
-    title: "Untitled, Digital, Bass Rock - North Berwick, 2019"
-  website: 'https://raphael.fyi'
+    title: Untitled, Digital, Bass Rock - North Berwick, 2019
+  website: https://raphael.fyi
 
 ---
