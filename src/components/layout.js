@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
 `
 
 const Wrapper = styled.div`
-  ${tw`px-4 lg:px-16`}
+  ${tw`px-4 bg-white lg:px-16 dark:bg-gray-900`}
 `
 
 
