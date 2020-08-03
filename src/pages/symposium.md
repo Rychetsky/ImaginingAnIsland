@@ -2,7 +2,7 @@
 title: Symposium
 
 ---
-Date Friday 25th – Saturday 26th September 2020
+**Date Friday 25th – Saturday 26th September 2020**
 
 * Venue Galleries 1 and 2
 * Event Types Arts, Environment, Film, Heritage, Visual Arts
