@@ -4,10 +4,7 @@ title: Symposium
 ---
 **Date Friday 25th – Saturday 26th September 2020**
 
-* Venue Galleries 1 and 2
-* Event Types Arts, Environment, Film, Heritage, Visual Arts
-
-A two-day Symposium, in collaboration with UHI Centre for Rural Creativity, foregrounding Contemporary Landscape Practices in Photography and Film
+A two-day Symposium, in collaboration with UHI Centre for Rural Creativity, foregrounding Contemporary Landscape Practices in Photography and Film.
 
 _An island is a singular place, its boundaries are clearly defined. It is both a microcosm of the World and a philosophical idea. It is a place that invites departure and return and it is a place that engages our imagination whilst continually inspiring re-definition. How have artists responded to these concepts, and how can we further engage with, and develop our understanding of these ideas through Arts Practice?_
 
