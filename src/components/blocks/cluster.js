@@ -23,7 +23,7 @@ const GalleryInner = styled.ul`
 `
 
 const Gallery = styled.div`
-  ${tw`flex flex-col w-auto py-20 -mx-2 min-h-cluster`}
+  ${tw`flex flex-col w-auto pt-12 pb-32 -mx-2 min-h-cluster`}
 
   & li {
     ${tw`relative flex items-start justify-center w-56 h-56 m-2`}

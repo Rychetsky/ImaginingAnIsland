@@ -6,7 +6,7 @@ import tw from 'twin.macro'
 import Navbar from './navbar'
 
 const StyledHeader = styled.header`
-  ${tw`pt-4 pb-8`}
+  ${tw`pt-4 pb-8 lg:pt-8`}
 `
 
 const Header = ({ siteTitle }) => (

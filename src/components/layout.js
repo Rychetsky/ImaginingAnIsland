@@ -20,7 +20,8 @@ const GlobalStyle = createGlobalStyle`
 `
 
 const Wrapper = styled.div`
-  ${tw`px-4 bg-white lg:px-16 dark:bg-gray-900`}
+  ${tw`px-4 mx-auto bg-white lg:px-16 dark:bg-gray-900`}
+  max-width: 1920px;
 `
 
 
