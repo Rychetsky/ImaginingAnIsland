@@ -127,7 +127,7 @@ blocks:
     title: Mountain 11, Gryon - Switzerland, 2018/2019
   - image: "/src/images/godfreypigott-mountain-14.jpg"
     title: Mountain 14, Gryon - Switzerland, 2018/2019
-  name: Emma Goddfrey-Pigott
+  name: Emma Godfrey Pigott
   website: 'https://portfolio.emmagodfrey.com/ '
 - template: cluster
   component: cluster
