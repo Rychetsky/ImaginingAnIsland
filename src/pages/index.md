@@ -10,7 +10,7 @@ In association with [Taigh Chearsabhagh Museum and Arts Centre](https://www.taig
 
 **_Imaging an Island_** has developed as a Symposium, two accompanying exhibitions - **_In This Day and Age_**, **_Ecognosis_** - and an **_Open Call_** exhibition.
 
-Due to the COVID-19 outbreak, the symposium will now be virtual and will take place as a live online event on the 25th and 26th September 2020. Registration available soon.
+Due to the COVID-19 outbreak, the symposium will now be virtual and will take place as a live online event on the **25th and 26th September 2020**. Registration available soon.
 
 The exhibitions will be available to be viewed virtually on Taigh Chearsabhagh's 360 virtual tour [(click here!)](https://www.taigh-chearsabhagh.org/tcvr360storage/now/?lang=en).
 
