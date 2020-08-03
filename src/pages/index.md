@@ -4,24 +4,30 @@ template: ''
 blocks: []
 
 ---
-In association with Taigh Chearsabhagh and University of the Highlands and Islands.
+In association with [Taigh Chearsabhagh Museum and Arts Centre](https://www.taigh-chearsabhagh.org "Taigh Chearsabhagh"), and the [Art School at University of the Highlands and Islands, North Uist](https://www.instagram.com/artschoolhebrides/?hl=en "Art School Hebrides"), in Scotland's Outer Hebrides
 
 _Imagining an Island_ is a collaborative project, initiated by Professor John Kippin and Nicola Neate, which sprung from their ongoing photographic project [In This Day and Age](https://inthisdayandage.org "In This Day and Age").
 
-_Imaging an Island_ has developed as a Symposium, two accompanying exhibitions, and an Open Call exhibition. The Symposium was due to be held at [Taigh Chearsabhagh Museum and Arts Centre](https://www.taigh-chearsabhagh.org "Taigh Chearsabhagh"), North Uist, in Scotland's Outer Hebrides.
+_Imaging an Island_ has developed as a Symposium, two accompanying exhibitions, and an Open Call exhibition. 
 
-Due to the COVID-19 outbreak we have decided to hold the symposium online, and move the Open Call exhibition to a virtual show. The galleries at the Arts Centre will be gradually re-opened in accordance with gov. advice, but the two accompanying exhibitions are available to be viewed virtually on Taigh Chearsabhagh's 360 virtual tour [(click here!)](https://www.taigh-chearsabhagh.org/tcvr360storage/now/?lang=en "Exhibitions virtual").
+Due to the COVID-19 outbreak we have decided to hold the symposium online, and move the Open Call exhibition to a virtual show on this website. 
+
+The Symposium will be held virtually on the 25th and 26th September 2020.
+
+The galleries at the Arts Centre will be gradually re-opened in accordance with gov. advice, but the two accompanying exhibitions are available to be viewed virtually on Taigh Chearsabhagh's 360 virtual tour [(click here!)](https://www.taigh-chearsabhagh.org/tcvr360storage/now/?lang=en "Exhibitions virtual").
 
 On the _Imagining an Island_ site you will find information about the Symposium, the accompanying exhibitions and the full Open Call virtual exhibition.
 
+![](/src/images/cropped-tc-favicon-200x200.png) ![](/src/images/uhi-logo_cmyk.jpg)
+
 **Acknowledgements to iAi Team:**
 
-Prof. John Kippin and Nicola Neate
+Prof. John Kippin and Nicola Neate - Exhibiting Artists/Project and Symposium Organisers
 
-Andy Mackinnon, Taigh Chearsabhagh
+Andy Mackinnon, Taigh Chearsabhagh - Exhibitions Producer, Symposium Team
 
-Rosalind Blake, UHI
+Rosalind Blake, UHI - Open Call Curator/Producer, Symposium Team
 
-Raphael Rychetsky
+Raphael Rychetsky - Website/Virtual Exhibition Developer
 
-Keith McIntyre, UHI/CRC
+Keith McIntyre, UHI/CRC - Symposium Team
