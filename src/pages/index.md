@@ -24,6 +24,6 @@ Andy Mackinnon, Taigh Chearsabhagh - Exhibitions Producer, Symposium Team
 
 Rosalind Blake, UHI - Open Call Curator/Producer, Symposium Team
 
-Raphael Rychetsky - Website / Virtual Exhibition Developer
+Raphael Rychetsky - Website/Virtual Exhibition Developer
 
 Prof. Keith McIntyre, UHI/CRC - Symposium Team
