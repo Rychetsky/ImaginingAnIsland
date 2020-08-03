@@ -2,7 +2,7 @@
 title: Symposium
 
 ---
-**Date Friday 25th – Saturday 26th September 2020**
+## **Date Friday 25th – Saturday 26th September 2020**
 
 A two-day Symposium, in collaboration with UHI Centre for Rural Creativity, foregrounding Contemporary Landscape Practices in Photography and Film.
 
