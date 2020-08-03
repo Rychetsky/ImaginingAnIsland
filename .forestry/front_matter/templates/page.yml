@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: Title
+- name: logos
+  type: image_gallery
+  config: {}
+  label: Logos
 pages:
 - src/pages/index.md
 - src/pages/open-call.md
