@@ -77,7 +77,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-transition-link`,
-    `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     'gatsby-transformer-json',
     'gatsby-plugin-catch-links',
