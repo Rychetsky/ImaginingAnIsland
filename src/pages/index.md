@@ -14,7 +14,7 @@ Due to the COVID-19 outbreak, the symposium will now be virtual and will take pl
 
 **_In This Day and Age_** and **_Ecognosis_** will be available to be viewed virtually on Taigh Chearsabhagh's 360 virtual tour [(click here!)](https://www.taigh-chearsabhagh.org/tcvr360storage/now/?lang=en).
 
-On this site you will find information about the Symposium, the accompanying exhibitions and the full Open Call virtual exhibition.
+On this site you will find information about the Symposium, the accompanying exhibitions and the full **_Open Call_** virtual exhibition (navigate through the 3 'Rooms' in the menu bar).
 
 **Acknowledgements to iAi Team:**
 
