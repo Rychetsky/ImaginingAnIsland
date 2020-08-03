@@ -235,7 +235,7 @@ blocks:
   - image: "/src/images/michael-petillo-loughderg_mpetillo_06.jpg"
     title: Leaving, Digital Full-frame, Lough Derg Island - Republic of Ireland, August
       2017
-  name: Michael Petillo
+  name: Michel Petillo
   website: https://michelpetillo.com
 - template: cluster
   component: cluster
