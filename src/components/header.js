@@ -1,15 +1,20 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import styled from "styled-components"
 import tw from 'twin.macro'
 
 import Navbar from './navbar'
 
+const StyledHeader = styled.header`
+  ${tw`pt-4 pb-8`}
+`
+
 const Header = ({ siteTitle }) => (
-  <header>
+  <StyledHeader id="top">
     <section className="navigation">
       <Navbar siteTitle={siteTitle} />
     </section>
-  </header>
+  </StyledHeader>
 )
 
 Header.propTypes = {

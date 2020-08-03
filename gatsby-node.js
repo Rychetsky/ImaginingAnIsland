@@ -2,7 +2,7 @@ const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 
 function isIndexPage(post) {
-  return path.basename(post.node.fileAbsolutePath) === 'index.md'
+  return path.basename(post.node.fileAbsolutePath) === 'blog.md'
 }
 
 exports.createPages = ({ graphql, actions }) => {

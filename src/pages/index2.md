@@ -1,5 +1,5 @@
 ---
-title: 'Home Page '
+title: All Content
 template: blocks
 blocks:
 - template: cluster

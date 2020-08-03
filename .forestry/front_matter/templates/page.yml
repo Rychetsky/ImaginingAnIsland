@@ -5,3 +5,7 @@ fields:
 - type: text
   name: title
   label: Title
+pages:
+- src/pages/index.md
+- src/pages/open-call.md
+- src/pages/symposium.md

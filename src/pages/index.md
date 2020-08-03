@@ -1,24 +1,29 @@
 ---
-title: Page 1
-template: blocks
-blocks:
-- template: cluster
-  component: cluster
-  name: Adrian Hollister
-  website: ''
-  gallery:
-  - image: "/src/images/reality-2.jpg"
-    title: Reality, digital photograph, 2014
-- template: cluster
-  component: cluster
-  name: Alejandro Basterrechea
-  gallery:
-  - image: "/src/images/alejandro_basterrechea_5.jpg"
-    title: Herd of Ponies, Eriskay, Digital, January 2020
-  - image: "/src/images/alejandro_basterrechea_4.jpg"
-    title: Eriskay Pony, Eriskay, Digital, January 2020
-  - image: "/src/images/alejandro_basterrechea_1.jpg"
-    title: Eriskay, Island Priest, Digital, January 2020
-  website: http://www.instagram.com/alebphotographer
+title: Welcome to the Imagining an Island Project.
+template: ''
+blocks: []
 
 ---
+In association with [Taigh Chearsabhagh Museum and Arts Centre](https://www.taigh-chearsabhagh.org/), UHI Centre For Rural Creativity and the [Art School at University of the Highlands and Islands, North Uist](https://www.instagram.com/artschoolhebrides/?hl=en), in Scotland's Outer Hebrides.
+
+**_Imagining an Island_** is a collaborative project, initiated by Professor John Kippin and Nicola Neate from their ongoing photographic project [In This Day and Age](https://inthisdayandage.org/).
+
+**_Imaging an Island_** has developed as a Symposium, two accompanying exhibitions - **_In This Day and Age_**, **_Ecognosis_** - and an **_Open Call_** exhibition.
+
+Due to the COVID-19 outbreak, the symposium will now be virtual and will take place as a live online event on the 25th and 26th September 2020. Registration available soon.
+
+The exhibitions will be available to be viewed virtually on Taigh Chearsabhagh's 360 virtual tour [(click here!)](https://www.taigh-chearsabhagh.org/tcvr360storage/now/?lang=en).
+
+On the _Imagining an Island_ site you will find information about the Symposium, the accompanying exhibitions and the full Open Call virtual exhibition.
+
+**Acknowledgements to iAi Team:**
+
+Prof. John Kippin and Nicola Neate - Exhibiting Artists/Project and Symposium Organisers
+
+Andy Mackinnon, Taigh Chearsabhagh - Exhibitions Producer, Symposium Team
+
+Rosalind Blake, UHI - Open Call Curator/Producer, Symposium Team
+
+Raphael Rychetsky - Website/Virtual Exhibition Developer
+
+Keith McIntyre, UHI/CRC - Symposium Team

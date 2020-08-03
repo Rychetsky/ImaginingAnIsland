@@ -1,9 +1,26 @@
 import React from 'react'
+import styled from "styled-components"
+import tw from 'twin.macro'
+
+const SiteFooter = styled.footer`
+  ${tw`p-4 py-8 mt-8 leading-loose text-center bg-gray-100 lg:px-16 dark:bg-gray-800 dark:text-white`}
+
+  & a {
+    ${tw`font-medium hover:text-blue-600 dark:hover:text-gray-500 `}
+  }
+`
+
+const BackToTop = styled.a`
+  ${tw`block font-medium text-center hover:text-blue-600 dark:hover:text-gray-500`}
+`
 
 const Footer = ({ content }) => (
-  <footer className="section site-footer">
-    <div className="container has-text-centered" dangerouslySetInnerHTML={{__html: content}} />
-  </footer>
+  <div>
+    <BackToTop href="#top">Back to top</BackToTop>
+    <SiteFooter>
+      <div dangerouslySetInnerHTML={{__html: content}} />
+    </SiteFooter>
+  </div>
 )
 
 export default Footer

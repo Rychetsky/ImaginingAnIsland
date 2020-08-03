@@ -14,11 +14,11 @@ module.exports = {
       }
     },
     fontFamily: {
-      'sans': ['-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
-      'serif': ['Georgia', 'Cambria'],
+      'sans': ['proxima-nova','-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
+      'serif': ['tasman','Georgia', 'Cambria'],
     },
     minHeight: {
-      '50vh': '50vh',
+      'cluster': '45vh',
     },
 },
   variants: {},
