@@ -2,6 +2,9 @@
 title: Welcome to the Imagining an Island project.
 template: ''
 blocks: []
+logos:
+- "/src/images/university_of_the_highlands_and_islands_logo-2.svg"
+- "/src/images/logo-tc.svg"
 
 ---
 In association with [Taigh Chearsabhagh Museum and Arts Centre](https://www.taigh-chearsabhagh.org/), UHI Centre For Rural Creativity and the [Art School at University of the Highlands and Islands, North Uist](https://www.instagram.com/artschoolhebrides/?hl=en), in Scotland's Outer Hebrides.
