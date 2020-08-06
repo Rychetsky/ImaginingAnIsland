@@ -2,9 +2,7 @@
 title: Welcome to the Imagining an Island project.
 template: ''
 blocks: []
-logos:
-- "/src/images/university_of_the_highlands_and_islands_logo-2.svg"
-- "/src/images/logo-tc.svg"
+logos: []
 
 ---
 In association with [Taigh Chearsabhagh Museum and Arts Centre](https://www.taigh-chearsabhagh.org/), UHI Centre for Rural Creativity, and the [Art School at University of the Highlands and Islands, North Uist](https://www.instagram.com/artschoolhebrides/?hl=en), in Scotland's Outer Hebrides.
@@ -31,4 +29,4 @@ Raphael Rychetsky - Website/Virtual Exhibition Developer
 
 Prof. Keith McIntyre, UHI/CRC - Symposium Team
 
-![University of the highlands and islands](/src/images/university_of_the_highlands_and_islands_logo-2.svg) ![Taigh Chearsabhagh](/src/images/logo-tc.svg)
+![University of the highlands and islands](/src/images/University_of_the_Highlands_and_Islands_logo.svg) ![Taigh Chearsabhagh](/src/images/logo-tc.svg)
