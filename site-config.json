@@ -2,7 +2,7 @@
   "title": "Imagining An Island",
   "description": "Imagining An Island is a Symposium and knowledge exchange event, foregrounding Contemporary Landscape Practices in Photography and Film.",
   "author": "Raphael Rychetsky rycode.de",
-  "footer": "<p>Website built by <a href=\"https://rycode.de\">Raphael Rychetsky</a> using <a href=\"https://gatsbyjs.org\">Gatsby</a>, <a href=\"https://tailwindcss.com\">Tailwind</a>, <a href=\"https://forestry.io\">Forestry</a>, <a href=\"https://vercel.com\">Vercel</a> and <a href=\"https://github.com/Rychetsky/ImaginingAnIsland\">Github</a>. Design by <a href=\"https://rosalindblake.com\">Rosalind Blake</a>.</p><p>All images are copyright to their respective owners.</p><p>North Uist, 2020</p>",
+  "footer": "<p>Website built by <a href=\"https://rycode.de\">Raphael Rychetsky</a> using <a href=\"https://gatsbyjs.org\">Gatsby</a>, <a href=\"https://tailwindcss.com\">Tailwind</a>, <a href=\"https://forestry.io\">Forestry</a>, <a href=\"https://vercel.com\">Vercel</a> and <a href=\"https://github.com/Rychetsky/ImaginingAnIsland\">Github</a>. Design by <a href=\"https://rosalindblake.com\">Rosalind Blake</a>.</p><p>All images are copyright to their respective owners.</p><p>North Uist, 2020</p><p>Proudly not using any trackers.</p>",
   "repository_url": "https://github.com/Rychetsky/ImaginingAnIsland",
   "site_url": "https://imagininganisland.com"
 }
