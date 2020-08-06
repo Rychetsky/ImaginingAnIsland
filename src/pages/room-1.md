@@ -159,7 +159,7 @@ blocks:
 - template: cluster
   component: cluster
   name: Matthew Arthur Williams
-  website: www.matthewarthurwilliams.com
+  website: http://www.matthewarthurwilliams.com
   gallery:
   - image: "/src/images/2-2020-epsom-hp5-2-013.jpg"
     title: untitled (assume the position) V, Medium Format 120mm, Isle of Eigg, 2019
