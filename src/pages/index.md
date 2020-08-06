@@ -31,4 +31,4 @@ Raphael Rychetsky - Website/Virtual Exhibition Developer
 
 Prof. Keith McIntyre, UHI/CRC - Symposium Team
 
-![](/src/images/university_of_the_highlands_and_islands_logo-2.svg)![](/src/images/logo-tc.svg)
+![University of the highlands and islands](/src/images/university_of_the_highlands_and_islands_logo-2.svg) ![Taigh Chearsabhagh](/src/images/logo-tc.svg)
