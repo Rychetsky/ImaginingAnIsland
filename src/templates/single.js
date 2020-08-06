@@ -45,6 +45,10 @@ const BodyText = styled.main`
   & em {
     ${tw`italic tracking-wide`}
   }
+
+  & img {
+    ${tw`inline-block h-12 my-4 mr-4 md:h-20`}
+  }
 `
 
 class SingleTemplate extends React.Component {
