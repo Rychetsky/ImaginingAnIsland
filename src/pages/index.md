@@ -19,8 +19,6 @@ On this site you will find the full **_Open Call_** virtual exhibition (in [Room
 
 **_In This Day and Age_** and **_Ecognosis_** will be available to be viewed virtually on Taigh Chearsabhagh's 360° virtual tour [(click here!)](https://www.taigh-chearsabhagh.org/tcvr360storage/now/?lang=en).
 
-![Taigh Chearsabhagh](/src/images/logo-tc.svg) ![University of the Highlands and Islands](/src/images/University_of_the_Highlands_and_Islands_logo.svg)
-
 **Acknowledgements to iAi Team:**
 
 Prof. John Kippin and Nicola Neate - Exhibiting Artists/Project and Symposium Organisers
@@ -32,3 +30,5 @@ Rosalind Blake, UHI - Open Call Curator/Producer, Symposium Team
 Raphael Rychetsky - Website/Virtual Exhibition Developer
 
 Prof. Keith McIntyre, UHI/CRC - Symposium Team
+
+![](/src/images/university_of_the_highlands_and_islands_logo-2.svg)![](/src/images/logo-tc.svg)
