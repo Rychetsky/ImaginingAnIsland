@@ -14,11 +14,16 @@ const BackToTop = styled.a`
   ${tw`block font-medium text-center hover:text-blue-600 dark:hover:text-gray-500`}
 `
 
+const Hashtag = styled.a`
+  ${tw`inline-block mt-6 text-xl font-medium text-center text-blue-600 hover:underline`}
+`
+
 const Footer = ({ content }) => (
   <div>
     <BackToTop href="#top">Back to top</BackToTop>
     <SiteFooter>
       <div dangerouslySetInnerHTML={{__html: content}} />
+      <Hashtag href="https://instagram.com/tags/ImaginingAnIsland" target="_blank" rel="noopener noreferrer">#ImaginingAnIsland</Hashtag>
     </SiteFooter>
   </div>
 )
