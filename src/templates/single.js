@@ -47,7 +47,7 @@ const BodyText = styled.main`
   }
 
   & img {
-    ${tw`inline-block h-12 my-4 mr-4 md:h-20`}
+    ${tw`inline-block h-12 my-4 mr-4 md:h-20 dark:bg-gray-300 dark:p-2 dark:rounded-sm`}
   }
 `
 

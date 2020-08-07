@@ -15,7 +15,7 @@ const BackToTop = styled.a`
 `
 
 const Hashtag = styled.a`
-  ${tw`inline-block mt-6 text-xl font-medium text-center text-blue-600 hover:underline`}
+  ${tw`inline-block mt-6 text-xl font-medium text-center text-blue-600 dark:text-white`}
 `
 
 const Footer = ({ content }) => (
