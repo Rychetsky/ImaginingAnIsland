@@ -225,7 +225,7 @@ blocks:
     title: Grasses; North then West, Silver gelatine print, Orkney, 2018
 - template: cluster
   component: cluster
-  name: Berris Connoly
+  name: Berris Conolly
   gallery:
   - image: "/src/images/berris-conolly-blonk-street-1989-2019.jpg"
     title: Blonk Street 1989-2019, Analogue 6x7 // 35mm Digital, Sheffield, 1989/2019
