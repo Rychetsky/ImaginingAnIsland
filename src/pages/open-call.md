@@ -16,3 +16,5 @@ We are pleased to soft launch on the 1st August with a plan to hold a more forma
 Thank you to all the artists for being part of this.
 
 **- Rosalind Blake, iAi Open Call exhibition curator**
+
+email : imagininganisland at gmail dot com
