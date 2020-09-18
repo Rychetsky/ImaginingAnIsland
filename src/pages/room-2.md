@@ -46,7 +46,7 @@ blocks:
   - image: "/src/images/the-seagull-liza-dracup-2001.jpg"
     title: The Seagull (the ferry from Mull to Iona), Colour Negative Medium Format
       made with Vintage Kershaw Folding Camera, Little Loch Broom - Dundonnell, 2000
-  website: ''
+  website: https://www.lizadracup.co.uk
 - template: cluster
   component: cluster
   gallery:
@@ -162,7 +162,7 @@ blocks:
     title: Fledgling, Analogue, Isle of Mull, May 2020
   - image: "/src/images/fiona-steel-lost-property-004.jpg"
     title: Lost Property, Analogue, Isle of Mull, May 2020
-  name: Fiona Steele
+  name: Fiona Steel
   website: https://instagram.com/fionasteel_art
 - template: cluster
   component: cluster
