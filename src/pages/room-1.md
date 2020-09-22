@@ -318,9 +318,9 @@ blocks:
   component: cluster
   gallery:
   - image: "/src/images/cdear-five-stone-tools.jpg"
-    title: Five Stone Tools, Digital, Isle of Skype, 2013
+    title: Five Stone Tools, Digital, Isle of Skye, 2013
   - image: "/src/images/cdear-five-boatmaking-tools.jpg"
-    title: Five Boat Making Tools, Digital, Isle of Skype, 2020
+    title: Five Boat Making Tools, Digital, Isle of Skye, 2020
   name: 'Caroline Dear '
   website: https://www.carolinedear.co.uk
 - template: cluster
