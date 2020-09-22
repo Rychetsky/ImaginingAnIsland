@@ -29,11 +29,11 @@ blocks:
   - image: "/src/images/tan-chee-hon-rustic-life.jpg"
     title: Rustic Life, Digital SLR, Kampung Jambu Bongkok - Malaysia, May 2019
   - image: "/src/images/tan-chee-hon-wasteland.jpg"
-    title: Wasteland, Digital SLR, Parit Hailam- Malaysia, May 2019
+    title: Wasteland, Digital SLR, Parit Hailam- Malaysia, December 2018
   - image: "/src/images/tan-chee-hon-pillars.jpg"
-    title: Pillars, Digital SLR, Port Dickson - Malaysia, June 2019
+    title: Pillars, Digital SLR, Port Dickson - Malaysia, June 2020
   - image: "/src/images/tan-chee-hon-nostalgia-jpg.jpg"
-    title: Nostalgia, Digital SLR, Port Dickson - Malaysia, June 2019
+    title: Nostalgia, Digital SLR, Port Dickson - Malaysia, June 2020
 - template: cluster
   component: cluster
   name: Sylwia Migdal
