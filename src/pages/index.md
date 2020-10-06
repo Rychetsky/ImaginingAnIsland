@@ -11,7 +11,7 @@ In association with [Taigh Chearsabhagh Museum and Arts Centre](https://www.taig
 
 **_Imagining an Island_** has developed as a Symposium, two accompanying exhibitions - **_In This Day and Age_**, **_Ecognosis,_** - and an **_Open Call_** exhibition.
 
-Due to the COVID-19 outbreak, the symposium will now be virtual and will take place as a live online event on the **25th and 26th September 2020**. Registration available soon.
+Due to the COVID-19 outbreak, the first Symposium was held virtually and  took place as a live online event on the **25th and 26th September 2020**. 
 
 On this site you will find the full **_Open Call_** virtual exhibition (in [Room 1](https://imagininganisland.org/room-1/ "Room 1"), [Room 2](https://imagininganisland.org/room-2/ "Room 2"), and [Room 3](https://imagininganisland.org/room-3/ "Room 3")), and information about the Symposium.
 
