@@ -24,7 +24,7 @@
     "gatsby-remark-images": "^3.3.24",
     "gatsby-source-filesystem": "^2.3.23",
     "gatsby-transformer-json": "^2.4.11",
-    "gatsby-transformer-remark": "^2.8.27",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.12",
     "gsap": "^3.4.2",
     "npm-force-resolutions": "0.0.3",
